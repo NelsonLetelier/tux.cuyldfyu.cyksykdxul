@@ -1,0 +1,1632 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/990FX_Extreme3m_jpg_100x100_q85.jpg
+name:::ASRock 	 990FX Extreme3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18349/##
+price:::$ 99.430##
+description:::Marca: ASRock++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/970_Extreme4m_jpg_100x100_q85.jpg
+name:::ASRock 970 Extreme4
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18348/##
+price:::$ 83.230##
+description:::Marca: ASRock++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A55_Pro3m_jpg_100x100_q85.jpg
+name:::ASRock A55 PRO3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18341/##
+price:::$ 53.630##
+description:::Marca: ASRock++Socket: FM1++Chipset: AMD A55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A55M-HVS_jpg_100x100_q85.jpg
+name:::ASRock A55M-HVS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31430/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25648/##
+price:::$ 35.690##$ 43.800##
+description:::Marca: ASRock++Socket: FM1++Chipset: AMD A55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A75M-HVS_jpg_100x100_q85.jpg
+name:::ASRock A75M-HVS
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27842/##
+price:::$ 49.900##
+description:::Marca: ASRock++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Fatal1ty_990FX_Professionalm_jpg_100x100_q85.jpg
+name:::ASRock Fatal1ty 990FX Professional
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18352/##
+price:::$ 160.330##
+description:::Marca: ASRock++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Asrock_G31M-VS_png_100x100_q85.jpg
+name:::ASRock G31M-VS
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9229/##
+price:::$ 32.900##
+description:::Marca: ASRock++Socket: LGA 775++Chipset: Intel G31++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/G41M-S3_jpg_100x100_q85.jpg
+name:::ASRock G41M-S3
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/21488/##
+price:::$ 33.954##
+description:::Marca: ASRock++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASRock_G41M-VS3_png_100x100_q85.jpg
+name:::ASRock G41M-VS3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20679/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30818/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9231/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28119/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/28461/##
+price:::$ 25.573##$ 28.615##$ 29.800##$ 29.890##$ 36.740##
+description:::Marca: ASRock++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASRock_H55M_png_100x100_q85.jpg
+name:::ASRock H55M
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9241/##
+price:::$ 47.900##
+description:::Marca: ASRock++Socket: LGA 1156++Chipset: Intel H55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASRock_H55M-LE_jpg_100x100_q85.jpg
+name:::ASRock H55M-LE
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9237/##
+price:::$ 49.900##
+description:::Marca: ASRock++Socket: LGA 1156++Chipset: Intel H55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61M-DGS_jpg_100x100_q85.jpg
+name:::ASRock H61M-DGS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35745/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/35717/##
+price:::$ 33.185##$ 37.345##
+description:::Marca: ASRock++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61M-HVS_jpg_100x100_q85.jpg
+name:::ASRock H61M-HVS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34407/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34019/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34643/##
+price:::$ 30.002##$ 33.465##$ 33.990##
+description:::Marca: ASRock++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61M-VS_jpg_100x100_q85.jpg
+name:::ASRock H61M-VS
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/12561/##
+price:::$ 34.900##
+description:::Marca: ASRock++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H67M_jpg_100x100_q85.jpg
+name:::ASRock H67M
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27843/##
+price:::$ 59.900##
+description:::Marca: ASRock++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N68-S_jpg_100x100_q85.jpg
+name:::ASRock N68-S
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10390/##
+price:::$ 32.338##
+description:::Marca: ASRock++Socket: AM2+++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N68-S_UCC_jpg_100x100_q85.jpg
+name:::ASRock N68-S UCC
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18154/##
+price:::$ 30.900##
+description:::Marca: ASRock++Socket: AM2+++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N68-VS3_UCC_jpg_100x100_q85.jpg
+name:::ASRock N68-VS3 UCC
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24895/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31429/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/13713/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28115/##
+price:::$ 26.197##$ 26.790##$ 27.900##$ 30.297##
+description:::Marca: ASRock++Socket: AM3++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N68C-GS_FX_jpg_100x100_q85.jpg
+name:::ASRock N68C-GS FX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32885/##
+price:::$ 35.880##
+description:::Marca: ASRock++Socket: AM3+++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N73V-S_jpg_100x100_q85.jpg
+name:::ASRock N73V-S
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/30576/##
+price:::$ 27.482##
+description:::Marca: ASRock++Socket: LGA 775++Chipset: NVIDIA nForce 630a (GeForce 7050)++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Z68_Extreme7_Gen3m_jpg_100x100_q85.jpg
+name:::ASRock Z68 Extreme7 Gen3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18413/##
+price:::$ 209.510##
+description:::Marca: ASRock++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_Crosshair_V_Formula_jpg_100x100_q85.jpg
+name:::ASUS Crosshair V Formula
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15627/##
+price:::$ 148.290##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_13_jpg_100x100_q85.jpg
+name:::ASUS Crosshair V Formula/ThunderBolt
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27799/##
+price:::$ 201.090##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_23_jpg_100x100_q85.jpg
+name:::ASUS F1A55-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20969/##
+price:::$ 52.822##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_F1A_jpg_100x100_q85.jpg
+name:::ASUS F1A55-M LX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26468/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34887/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35751/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26892/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27988/##
+price:::$ 39.872##$ 41.990##$ 42.230##$ 42.280##$ 44.990##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/asus-f1a55-m-lx-plus_jpg_100x100_q85.jpg
+name:::ASUS F1A55-M LX Plus
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25732/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21636/##
+price:::$ 43.651##$ 46.990##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_8_jpg_100x100_q85.jpg
+name:::ASUS F1A75-M 
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16547/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19717/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28160/##
+price:::$ 59.300##$ 60.441##$ 66.862##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_14_jpg_100x100_q85.jpg
+name:::ASUS F1A75-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/21620/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/16210/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17502/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21238/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27989/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30455/##
+price:::$ 47.103##$ 49.950##$ 49.990##$ 49.991##$ 55.200##$ 59.991##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_9_jpg_100x100_q85.jpg
+name:::ASUS F1A75-M PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19725/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18472/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/22533/##
+price:::$ 59.818##$ 61.100##$ 69.570##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_10_jpg_100x100_q85.jpg
+name:::ASUS F1A75-V PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19728/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17508/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/19787/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20741/##
+price:::$ 74.670##$ 74.990##$ 75.900##$ 79.370##
+description:::Marca: ASUS++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A785TD-M_EVO_jpg_100x100_q85.jpg
+name:::ASUS M4A785TD-M EVO
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/11249/##
+price:::$ 70.519##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 785G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A78LT-M_LE_png_100x100_q85.jpg
+name:::ASUS M4A78LT-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/13714/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/11462/##
+price:::$ 37.900##$ 43.640##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A87TD_EVO_jpg_100x100_q85.jpg
+name:::ASUS M4A87TD EVO
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/10354/##
+price:::$ 220.437##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A87TD_USB3_jpg_100x100_q85.jpg
+name:::ASUS M4A87TD/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10084/##
+price:::$ 57.990##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A88T-M_USB3_jpg_100x100_q85.jpg
+name:::ASUS M4A88T-M/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21191/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19247/##
+price:::$ 59.900##$ 68.758##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A88TD-M_png_100x100_q85.jpg
+name:::ASUS M4A88TD-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19246/##
+price:::$ 59.990##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A88TD-M_USB3_png_100x100_q85.jpg
+name:::ASUS M4A88TD-M/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/11137/##
+price:::$ 87.757##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A89GTD_PRO_USB3_png_100x100_q85.jpg
+name:::ASUS M4A89GTD PRO/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9938/##
+price:::$ 99.900##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 890GX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M4A89TD_PRO_USB3_jpg_100x100_q85.jpg
+name:::ASUS M4A89TD PRO/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10087/##
+price:::$ 96.990##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 890FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_MN68T-M_LE_png_100x100_q85.jpg
+name:::ASUS M4N68T-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/10894/##
+price:::$ 38.900##
+description:::Marca: ASUS++Socket: AM3++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A78L-M_LE_jpg_100x100_q85.jpg
+name:::ASUS M5A78L-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20740/##
+price:::$ 47.030##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A78L-M_LX_jpg_100x100_q85.jpg
+name:::ASUS M5A78L-M LX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21129/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25132/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/16983/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21189/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/16209/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/21618/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23203/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20330/##
+price:::$ 31.723##$ 32.011##$ 32.290##$ 32.500##$ 32.580##$ 33.850##$ 36.700##$ 39.981##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_28_jpg_100x100_q85.jpg
+name:::ASUS M5A78L-M LX V2
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27987/##
+price:::$ 35.990##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_5_jpg_100x100_q85.jpg
+name:::ASUS M5A78L-M/USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21133/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21175/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/29010/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32006/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15661/##
+price:::$ 46.957##$ 47.430##$ 49.900##$ 53.675##$ 53.690##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 760G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_11_jpg_100x100_q85.jpg
+name:::ASUS M5A78L/USB3 
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27054/##
+price:::$ 56.200##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 760G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A87_jpg_100x100_q85.jpg
+name:::ASUS M5A87
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/35693/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15662/##
+price:::$ 62.900##$ 63.190##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_7_jpg_100x100_q85.jpg
+name:::ASUS M5A88-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27795/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24901/##
+price:::$ 59.990##$ 61.590##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 880G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A88-V_EVO_jpg_100x100_q85.jpg
+name:::ASUS M5A88-V EVO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30263/##
+price:::$ 77.590##
+description:::Marca: ASUS++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EXNuFGRDNdMOrMKG_500_jpg_100x100_q85.jpg
+name:::ASUS M5A97 AM3+
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16279/##
+price:::$ 62.683##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A97_EVO_jpg_100x100_q85.jpg
+name:::ASUS M5A97 EVO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16542/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20370/##
+price:::$ 72.744##$ 80.468##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5a97_jpg_100x100_q85.jpg
+name:::ASUS M5A97 PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26072/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27055/##
+price:::$ 74.890##$ 75.700##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_M5A99X_EVO_jpg_100x100_q85.jpg
+name:::ASUS M5A99X EVO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16543/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30264/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24908/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30688/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26073/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34304/##
+price:::$ 87.063##$ 89.810##$ 98.700##$ 99.900##$ 102.590##$ 111.300##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 990X++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MAXIMUS_V_GENE_jpg_100x100_q85.jpg
+name:::ASUS MAXIMUS V GENE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35378/##
+price:::$ 146.711##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P5G41-M_LE_1_jpg_100x100_q85.jpg
+name:::ASUS P5G41-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26897/##
+price:::$ 52.753##
+description:::Marca: ASUS++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P5G41T-M_LX_png_100x100_q85.jpg
+name:::ASUS P5G41T-M LX
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26896/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9236/##
+price:::$ 34.300##$ 38.900##
+description:::Marca: ASUS++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_26_jpg_100x100_q85.jpg
+name:::ASUS P6T7 WS SuperComputer
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21051/##
+price:::$ 305.421##
+description:::Marca: ASUS++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_25_jpg_100x100_q85.jpg
+name:::ASUS P6X58-E PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21180/##
+price:::$ 137.890##
+description:::Marca: ASUS++Socket: LGA 1366++Chipset: Intel X58++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P7P55D-E_1_png_100x100_q85.jpg
+name:::ASUS P7P55D-E
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19262/##
+price:::$ 89.171##
+description:::Marca: ASUS++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8B75_jpg_100x100_q85.jpg
+name:::ASUS P8B75-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30685/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34652/##
+price:::$ 57.000##$ 59.690##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel B75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8B75-MCSM_jpg_100x100_q85.jpg
+name:::ASUS P8B75-M/CSM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31270/##
+price:::$ 63.974##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel B75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61_jpg_100x100_q85.jpg
+name:::ASUS P8H61
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20161/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11749/##
+price:::$ 55.900##$ 59.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61_Pro_jpg_100x100_q85.jpg
+name:::ASUS P8H61 PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20162/##
+price:::$ 64.670##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61-M_jpg_100x100_q85.jpg
+name:::ASUS P8H61-M
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/13715/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14716/##
+price:::$ 47.800##$ 52.759##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61-M_LE_jpg_100x100_q85.jpg
+name:::ASUS P8H61-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/12473/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17499/##
+price:::$ 48.700##$ 49.890##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61-M_LE_CSM_jpg_100x100_q85.jpg
+name:::ASUS P8H61-M LE/CSM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19739/##
+price:::$ 47.670##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_22_jpg_100x100_q85.jpg
+name:::ASUS P8H61-M LX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26736/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21432/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21190/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/20635/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31490/##
+price:::$ 38.960##$ 44.900##$ 45.800##$ 45.990##$ 57.200##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_22_jpg_100x100_q85.jpg
+name:::ASUS P8H61-M LX PLUS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/22592/##
+price:::$ 46.499##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bF2hO4pPaCdes7ps_500_jpg_100x100_q85.jpg
+name:::ASUS P8H61-MPRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27990/##
+price:::$ 65.990##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H61-M_jpg_100x100_q85.jpg
+name:::ASUS P8H61-MX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32335/##
+price:::$ 38.310##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H67-M_LE_jpg_100x100_q85.jpg
+name:::ASUS P8H67-M LE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/25561/##
+price:::$ 65.990##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H67-M_LX_jpg_100x100_q85.jpg
+name:::ASUS P8H67-M LX
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17503/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21433/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31498/##
+price:::$ 65.690##$ 67.900##$ 78.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_jpg_100x100_q85.jpg
+name:::ASUS P8H67-M PRO/CSM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/15008/##
+price:::$ 77.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H77_1_jpg_100x100_q85.jpg
+name:::ASUS P8H77-M
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/32898/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32630/##
+price:::$ 79.900##$ 84.990##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H77_jpg_100x100_q85.jpg
+name:::ASUS P8H77-V
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30687/##
+price:::$ 96.300##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8H77_jpg_100x100_q85.jpg
+name:::ASUS P8H77-V LE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30159/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32238/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32623/##
+price:::$ 64.990##$ 79.530##$ 79.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8P67_PRO_jpg_100x100_q85.jpg
+name:::ASUS P8P67 PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21179/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24909/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21434/##
+price:::$ 110.940##$ 115.000##$ 123.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8P67_1_jpg_100x100_q85.jpg
+name:::ASUS P8P67-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17509/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21178/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21435/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18235/##
+price:::$ 65.990##$ 70.320##$ 77.900##$ 78.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8Z68_Deluxe_jpg_100x100_q85.jpg
+name:::ASUS P8Z68 DELUXE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17521/##
+price:::$ 169.990##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8Z68_Deluxe_Gen_3_jpg_100x100_q85.jpg
+name:::ASUS P8Z68 DELUXE/GEN3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25733/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28141/##
+price:::$ 175.626##$ 180.490##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_17_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-M PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/19485/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/28055/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30285/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27574/##
+price:::$ 85.350##$ 91.800##$ 93.900##$ 95.490##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8Z68-V_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/19487/##
+price:::$ 131.710##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_19_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V LE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/18096/##
+price:::$ 92.782##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_20_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V LX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35761/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30266/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32478/##
+price:::$ 84.889##$ 86.320##$ 89.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P8Z68-V_PRO_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21436/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/19488/##
+price:::$ 142.900##$ 149.140##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8Z68-V_PROGEN3_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V PRO/GEN3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26585/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26749/##
+price:::$ 133.911##$ 141.420##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8Z68-V_GEN3_jpg_100x100_q85.jpg
+name:::ASUS P8Z68-V/GEN3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26235/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/11139/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27577/##
+price:::$ 119.263##$ 130.591##$ 139.790##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8Z77_jpg_100x100_q85.jpg
+name:::ASUS P8Z77-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30388/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30686/##
+price:::$ 84.621##$ 85.300##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_32_jpg_100x100_q85.jpg
+name:::ASUS P8Z77-M PRO
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30949/##
+price:::$ 109.731##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P8Z77-V_jpg_100x100_q85.jpg
+name:::ASUS P8Z77-V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32239/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32479/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27797/##
+price:::$ 132.490##$ 142.900##$ 147.490##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Z77_Deluxe_jpg_100x100_q85.jpg
+name:::ASUS P8Z77-V Deluxe
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35380/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30691/##
+price:::$ 190.380##$ 197.900##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_Rampage_IV_Extreme_jpg_100x100_q85.jpg
+name:::ASUS Rampage IV Extreme
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25934/##
+price:::$ 249.990##
+description:::Marca: ASUS++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_6_jpg_100x100_q85.jpg
+name:::ASUS Sabertooth 990FX
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25968/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27576/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30307/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32940/##
+price:::$ 117.900##$ 119.990##$ 129.900##$ 143.792##
+description:::Marca: ASUS++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sabertooth_p67_jpg_100x100_q85.jpg
+name:::ASUS Sabertooth P67
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31499/##
+price:::$ 138.860##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sabertooth_x58_jpg_100x100_q85.jpg
+name:::ASUS Sabertooth X58
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/10153/##
+price:::$ 124.897##
+description:::Marca: ASUS++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sabertooth-X79_jpg_100x100_q85.jpg
+name:::ASUS Sabertooth X79
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25022/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23105/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31488/##
+price:::$ 214.821##$ 215.390##$ 263.990##
+description:::Marca: ASUS++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sabertooth_Z77_jpg_100x100_q85.jpg
+name:::ASUS Sabertooth Z77
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35379/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27798/##
+price:::$ 171.976##$ 172.790##
+description:::Marca: ASUS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/G41D3C_jpg_100x100_q85.jpg
+name:::Biostar G41D3C
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19251/##
+price:::$ 29.890##
+description:::Marca: Biostar++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/b20110218_6_jpg_100x100_q85.jpg
+name:::Biostar H61ML
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31992/##
+price:::$ 38.038##
+description:::Marca: Biostar++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A55F-M3_430300_jpg_100x100_q85.jpg
+name:::ECS 	A55F-M3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25088/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27959/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29160/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24899/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34982/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21342/##
+price:::$ 29.805##$ 32.990##$ 33.940##$ 34.520##$ 35.850##$ 36.990##
+description:::Marca: ECS++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A750GM-M_jpg_100x100_q85.jpg
+name:::ECS A750GM-M
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/13503/##
+price:::$ 26.960##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 740G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_1_jpg_100x100_q85.jpg
+name:::ECS A75F-A
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19008/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29522/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17622/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/20683/##
+price:::$ 43.606##$ 57.715##$ 67.907##$ 68.300##
+description:::Marca: ECS++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/a75f-m2_-1_png_100x100_q85.jpg
+name:::ECS A75F-M2
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16350/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/18109/##
+price:::$ 43.878##$ 51.500##
+description:::Marca: ECS++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A780LM-M2_430300_jpg_100x100_q85.jpg
+name:::ECS A780LM-M2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32839/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/31438/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30956/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32126/##
+price:::$ 24.236##$ 26.900##$ 27.150##$ 27.990##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A785GM-AD3_jpg_100x100_q85.jpg
+name:::ECS A785GM-AD3
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10392/##
+price:::$ 46.601##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 785G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A785GM-M7_jpg_100x100_q85.jpg
+name:::ECS A785GM-M7
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10875/##
+price:::$ 39.680##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 785G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_A880GM_png_100x100_q85.jpg
+name:::ECS A880GM-M6
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/20522/##
+price:::$ 62.683##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A880GM-M7_jpg_100x100_q85.jpg
+name:::ECS A880GM-M7
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18206/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27794/##
+price:::$ 38.900##$ 39.990##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_A880LM-M_png_100x100_q85.jpg
+name:::ECS A880LM-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14942/##
+price:::$ 65.295##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A885GM-A2_135_1_jpg_100x100_q85.jpg
+name:::ECS A885GM-A2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25839/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31890/##
+price:::$ 30.458##$ 33.488##
+description:::Marca: ECS++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A880LM-M2HDMI_430300_jpg_100x100_q85.jpg
+name:::ECS A960M-M2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32027/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32016/##
+price:::$ 26.376##$ 29.090##
+description:::Marca: ECS++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/G41T-M7_jpg_100x100_q85.jpg
+name:::ECS G41T-M7
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9948/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/10358/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/16709/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12216/##
+price:::$ 26.900##$ 27.163##$ 27.990##$ 30.108##
+description:::Marca: ECS++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H55H-M_jpg_100x100_q85.jpg
+name:::ECS H55H-M
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14615/##
+price:::$ 45.968##
+description:::Marca: ECS++Socket: LGA 1156++Chipset: Intel H55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H57H-MUS_jpg_100x100_q85.jpg
+name:::ECS H57H-MUS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19039/##
+price:::$ 106.653##
+description:::Marca: ECS++Socket: LGA 1156++Chipset: Intel H57++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61H2-M12_430300_1_jpg_100x100_q85.jpg
+name:::ECS H61H2-M12
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25139/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29210/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/31123/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30228/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27834/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/27039/##
+price:::$ 27.698##$ 30.555##$ 31.530##$ 31.900##$ 32.500##$ 34.990##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61H2-M12_430300_1_jpg_100x100_q85.jpg
+name:::ECS H61H2-M13
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35145/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34999/##
+price:::$ 28.953##$ 32.000##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61H2-M2_jpg_100x100_q85.jpg
+name:::ECS H61H2-M2
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14944/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16647/##
+price:::$ 38.132##$ 41.149##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_jpg_100x100_q85.jpg
+name:::ECS H61H2-M3
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/31258/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16308/##
+price:::$ 39.680##$ 44.923##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H67H2-M_jpg_100x100_q85.jpg
+name:::ECS H67H2-M
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19035/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12218/##
+price:::$ 79.089##$ 91.047##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_H67H2-M3_jpg_100x100_q85.jpg
+name:::ECS H67H2-M3
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31998/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12406/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11199/##
+price:::$ 45.773##$ 49.800##$ 54.484##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MCP61M-M3_jpg_100x100_q85.jpg
+name:::ECS MCP61M-M3
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14467/##
+price:::$ 28.734##
+description:::Marca: ECS++Socket: AM3++Chipset: NVIDIA nForce 430++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P55H-CM_jpg_100x100_q85.jpg
+name:::ECS P55H-CM
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10398/##
+price:::$ 65.240##
+description:::Marca: ECS++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_P67H2-A2_jpg_100x100_q85.jpg
+name:::ECS P67H2-A2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19040/##
+price:::$ 136.756##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_P67H2-A2_jpg_100x100_q85.jpg
+name:::ECS P67H2-A3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35168/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/35001/##
+price:::$ 45.322##$ 50.430##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/X58B-A2_jpg_100x100_q85.jpg
+name:::ECS X58B-A2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/10150/##
+price:::$ 83.966##
+description:::Marca: ECS++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/X79R-AX_DELUXE_jpg_100x100_q85.jpg
+name:::ECS X79R-AX DELUXE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30770/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29118/##
+price:::$ 156.737##$ 173.145##
+description:::Marca: ECS++Socket: LGA 2011++Chipset: Intel X79++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Z77H2-A2X_430300_jpg_100x100_q85.jpg
+name:::ECS Z77H2-A2X
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31928/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31912/##
+price:::$ 103.235##$ 113.975##
+description:::Marca: ECS++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/evga_x58_sli_classified_05_jpg_100x100_q85.jpg
+name:::EVGA Classified X58
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19044/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28693/##
+price:::$ 248.767##$ 266.539##
+description:::Marca: EVGA++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_P55_Micro_jpg_100x100_q85.jpg
+name:::EVGA P55 Micro
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19045/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31902/##
+price:::$ 90.342##$ 96.824##
+description:::Marca: EVGA++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_P55_V_jpg_100x100_q85.jpg
+name:::EVGA P55 V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19019/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31897/##
+price:::$ 53.689##$ 57.512##
+description:::Marca: EVGA++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/132-SE-E775-KR_XL_1_jpg_100x100_q85.jpg
+name:::EVGA X79 SLI (132-SE-E775-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32457/##
+price:::$ 204.033##
+description:::Marca: EVGA++Socket: LGA 2011++Chipset: Intel X79++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MBFOXC0044-II_gif_100x100_q85.jpg
+name:::Foxconn A76GMV
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28057/##
+price:::$ 28.990##
+description:::Marca: Foxconn++Socket: AM3++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_jpeg_100x100_q85.jpg
+name:::Foxconn G41MD
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28120/##
+price:::$ 31.590##
+description:::Marca: Foxconn++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/foxconn_h67s_jpg_100x100_q85.jpg
+name:::Foxconn H67S
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30007/##
+price:::$ 52.300##
+description:::Marca: Foxconn++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4627_big_jpg_100x100_q85.jpg
+name:::Gigabyte G1.Assassin
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30772/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29460/##
+price:::$ 261.347##$ 290.990##
+description:::Marca: Gigabyte++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_G1_Sniper_jpg_100x100_q85.jpg
+name:::Gigabyte G1.Sniper
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32631/##
+price:::$ 119.990##
+description:::Marca: Gigabyte++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-78LMT-S2P_jpg_100x100_q85.jpg
+name:::Gigabyte GA-78LMT-S2P
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27568/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16676/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18337/##
+price:::$ 35.990##$ 38.027##$ 38.790##
+description:::Marca: Gigabyte++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/619-1016_jpg_100x100_q85.jpg
+name:::Gigabyte GA-790XTA-UD4
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34872/##
+price:::$ 111.265##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 790FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-870A-UD3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-870A-UD3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31505/##
+price:::$ 97.890##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-880GM-USB3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-880GM-USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15783/##
+price:::$ 62.990##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4185_jpg_100x100_q85.jpg
+name:::Gigabyte GA-880GM-USB3L
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19009/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30329/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31899/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29362/##
+price:::$ 53.637##$ 54.990##$ 57.421##$ 60.130##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-890FXA-UD5_png_100x100_q85.jpg
+name:::Gigabyte GA-890FXA-UD5 (rev. 2.0)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/15430/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10089/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34771/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34758/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34883/##
+price:::$ 86.700##$ 114.990##$ 134.476##$ 144.053##$ 149.865##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 890FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-890GPA-UD3H_jpg_100x100_q85.jpg
+name:::Gigabyte GA-890GPA-UD3H
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/10129/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31504/##
+price:::$ 63.559##$ 106.238##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: AMD 890GX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4469_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-970A-D3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/29970/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23890/##
+price:::$ 64.990##$ 70.519##
+description:::Marca: Gigabyte++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4528_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-990FXA-UD3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/18545/##
+price:::$ 99.990##
+description:::Marca: Gigabyte++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-990FXA-UD5_jpg_100x100_q85.jpg
+name:::Gigabyte GA-990FXA-UD5
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/20265/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32632/##
+price:::$ 128.530##$ 139.990##
+description:::Marca: Gigabyte++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-990FXA-UD7_jpg_100x100_q85.jpg
+name:::Gigabyte GA-990FXA-UD7
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18353/##
+price:::$ 177.110##
+description:::Marca: Gigabyte++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5047_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A55M-DS2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26685/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21511/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29279/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18338/##
+price:::$ 37.734##$ 39.990##$ 42.195##$ 50.040##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4720_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A55M-S2V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18342/##
+price:::$ 44.470##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_13_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A75-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19726/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17085/##
+price:::$ 69.805##$ 73.131##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_12_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A75-UD4H
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16894/##
+price:::$ 80.966##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_11_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A75M-D2H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23384/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16678/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18343/##
+price:::$ 59.511##$ 60.072##$ 63.050##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_9_jpg_100x100_q85.jpg
+name:::Gigabyte GA-A75M-S2V
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/29969/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19712/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18345/##
+price:::$ 47.990##$ 51.141##$ 64.980##
+description:::Marca: Gigabyte++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5802_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-B75M-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30947/##
+price:::$ 52.776##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel B75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5801_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-B75M-D3V
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30328/##
+price:::$ 49.090##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel B75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-G41MT-S2_jpg_100x100_q85.jpg
+name:::Gigabyte GA-G41MT-S2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/13170/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/16710/##
+price:::$ 34.900##$ 36.790##
+description:::Marca: Gigabyte++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ga-g41mt-s2p-1_png_100x100_q85.jpg
+name:::Gigabyte GA-G41MT-S2P
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25712/##
+price:::$ 33.555##
+description:::Marca: Gigabyte++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ga-g41mt-s2p-1_png_100x100_q85.jpg
+name:::Gigabyte GA-G41MT-S2PT
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29668/##
+price:::$ 37.345##
+description:::Marca: Gigabyte++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-H55M-USB3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H55M-USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/10371/##
+price:::$ 79.900##
+description:::Marca: Gigabyte++Socket: LGA 1156++Chipset: Intel H55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4897_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-DS2 
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27211/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29525/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27483/##
+price:::$ 33.555##$ 37.345##$ 41.789##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61M-S1_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-S1
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27567/##
+price:::$ 32.690##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-H61M-S2H_png_100x100_q85.jpg
+name:::Gigabyte GA-H61M-S2H
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27484/##
+price:::$ 45.968##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-H61M-S2P-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-S2P-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26392/##
+price:::$ 40.590##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/f3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-S2PV
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25790/##
+price:::$ 43.878##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61M_S2V_B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-S2V-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26393/##
+price:::$ 48.690##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-H61M-USB3-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20142/##
+price:::$ 49.400##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-H61M-USB3-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H61M-USB3-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29084/##
+price:::$ 55.280##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-H67M-D2-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H67M-D2-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17506/##
+price:::$ 54.990##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H67++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-H67MA-USB3-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H67MA-USB3-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/16487/##
+price:::$ 60.072##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5643_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-H77M-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31949/##
+price:::$ 64.298##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-M68MT-S2_jpg_100x100_q85.jpg
+name:::Gigabyte GA-M68MT-S2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26683/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16675/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31889/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25317/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29091/##
+price:::$ 32.497##$ 33.479##$ 34.853##$ 35.331##$ 36.375##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3044_jpg_100x100_q85.jpg
+name:::Gigabyte GA-M68MT-S2P
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32455/##
+price:::$ 37.067##
+description:::Marca: Gigabyte++Socket: AM3++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4290_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-P45T-ES3G
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/30870/##
+price:::$ 65.408##
+description:::Marca: Gigabyte++Socket: LGA 775++Chipset: Intel P45++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-P67A-UD7-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-P67A-UD7-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34871/##
+price:::$ 221.901##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5803_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-P75-D3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/28262/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30100/##
+price:::$ 54.210##$ 54.848##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel B75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-X58-USB3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-X58-USB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31501/##
+price:::$ 152.335##
+description:::Marca: Gigabyte++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1086_4_jpg_100x100_q85.jpg
+name:::Gigabyte GA-X58A-OC
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/14661/##
+price:::$ 239.990##
+description:::Marca: Gigabyte++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4584_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z68AP-D3
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27283/##
+price:::$ 64.773##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GA-Z68M-D2H_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z68M-D2H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26032/##
+price:::$ 65.990##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GA-Z68MA-D2H-B3_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z68MA-D2H-B3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31487/##
+price:::$ 103.590##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4553_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z68X-UD7-B3 
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/15640/##
+price:::$ 261.690##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4590_big_1_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z68XP-UD3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27575/##
+price:::$ 95.790##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2c95_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z77-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27573/##
+price:::$ 82.590##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5639_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z77M-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30101/##
+price:::$ 80.966##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5647_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z77X-D3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/28264/##
+price:::$ 107.048##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5683_big_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z77X-UD3H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30951/##
+price:::$ 116.518##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_Z77_jpg_100x100_q85.jpg
+name:::Gigabyte GA-Z77X-UD5H
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30331/##
+price:::$ 134.990##
+description:::Marca: Gigabyte++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/X79-UD3_jpg_100x100_q85.jpg
+name:::Gigabyte X79-UD3
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26395/##
+price:::$ 159.090##
+description:::Marca: Gigabyte++Socket: LGA 2011++Chipset: Intel X79++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/X79-UD5_jpg_100x100_q85.jpg
+name:::Gigabyte X79-UD5
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27578/##
+price:::$ 199.990##
+description:::Marca: Gigabyte++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BLKDX79SI_jpg_100x100_q85.jpg
+name:::Intel BLKDX79SI
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31346/##
+price:::$ 203.690##
+description:::Marca: Intel++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BOXDH77KC_jpg_100x100_q85.jpg
+name:::Intel BOXDH77KC
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35058/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34998/##
+price:::$ 73.944##$ 78.085##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BOXDQ67SWB3_jpg_100x100_q85.jpg
+name:::Intel BOXDQ67SWB3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31404/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31391/##
+price:::$ 77.979##$ 89.900##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel Q67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BOXDX79TO_jpg_100x100_q85.jpg
+name:::Intel BOXDX79TO
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31407/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31367/##
+price:::$ 136.314##$ 143.550##
+description:::Marca: Intel++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DZ77BH55K_jpg_100x100_q85.jpg
+name:::Intel BOXDZ77BH55K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30763/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31369/##
+price:::$ 121.964##$ 128.525##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BOXDZ77GA70K_jpg_100x100_q85.jpg
+name:::Intel BOXDZ77GA70K 
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31405/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31353/##
+price:::$ 149.942##$ 157.625##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DG41CN_jpg_100x100_q85.jpg
+name:::Intel DG41CN
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10397/##
+price:::$ 40.757##
+description:::Marca: Intel++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DG41TY_jpg_100x100_q85.jpg
+name:::Intel DG41TY
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/12544/##
+price:::$ 44.900##
+description:::Marca: Intel++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR2++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel_DG41WV_jpg_100x100_q85.jpg
+name:::Intel DG41WV
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18982/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/10363/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28653/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9941/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29182/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19576/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14946/##
+price:::$ 32.559##$ 34.700##$ 34.853##$ 34.900##$ 36.375##$ 36.885##$ 42.293##
+description:::Marca: Intel++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH55HC_jpg_100x100_q85.jpg
+name:::Intel DH55HC
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10399/##
+price:::$ 73.843##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel H55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH55PJ_jpg_100x100_q85.jpg
+name:::Intel DH55PJ
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19130/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29193/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9955/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/27116/##
+price:::$ 38.484##$ 43.165##$ 43.900##$ 47.032##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel H55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH55TC_jpg_100x100_q85.jpg
+name:::Intel DH55TC
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31901/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11200/##
+price:::$ 61.698##$ 73.480##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel H55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH57DD_jpg_100x100_q85.jpg
+name:::Intel DH57DD
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9957/##
+price:::$ 74.900##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel H57++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH57JG_jpg_100x100_q85.jpg
+name:::Intel DH57JG
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/10143/##
+price:::$ 84.925##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel H57++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH61BE_jpg_100x100_q85.jpg
+name:::Intel DH61BE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21274/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29757/##
+price:::$ 50.973##$ 53.835##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dh61sa-1_png_100x100_q85.jpg
+name:::Intel DH61SA 
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18975/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29502/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/35064/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30189/##
+price:::$ 33.930##$ 36.850##$ 41.890##$ 44.800##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH61WW_jpg_100x100_q85.jpg
+name:::Intel DH61WW
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26405/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21130/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31994/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/22446/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/17467/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29760/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14485/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20742/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16237/##
+price:::$ 36.990##$ 39.042##$ 39.313##$ 40.593##$ 41.500##$ 41.700##$ 43.900##$ 48.690##$ 52.909##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH67BL_jpg_100x100_q85.jpg
+name:::Intel DH67BL
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30864/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/13816/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28676/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/16786/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29323/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9952/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/12332/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10933/##
+price:::$ 53.786##$ 56.990##$ 57.603##$ 59.900##$ 60.625##$ 61.900##$ 72.400##$ 74.949##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH67GD_gif_100x100_q85.jpg
+name:::Intel DH67GD
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34646/##
+price:::$ 72.690##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DH77EB_jpg_100x100_q85.jpg
+name:::Intel DH77EB
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31403/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31366/##
+price:::$ 68.866##$ 72.740##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DP55WB_jpg_100x100_q85.jpg
+name:::Intel DP55WB
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9958/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10400/##
+price:::$ 73.900##$ 82.442##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dp67bgb3_-3_png_100x100_q85.jpg
+name:::Intel DP67BG
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21141/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32002/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29567/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/32246/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31481/##
+price:::$ 115.953##$ 127.309##$ 129.000##$ 134.060##$ 143.500##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DQ57TM_jpg_100x100_q85.jpg
+name:::Intel DQ57TM
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10934/##
+price:::$ 86.028##
+description:::Marca: Intel++Socket: LGA 1156++Chipset: Intel Q57++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dq67ow-_jpg_100x100_q85.jpg
+name:::Intel DQ67OW
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30760/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29172/##
+price:::$ 70.482##$ 77.590##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel Q67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DX58SO_jpg_100x100_q85.jpg
+name:::Intel DX58SO
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10401/##
+price:::$ 198.853##
+description:::Marca: Intel++Socket: LGA 1366++Chipset: Intel X58++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DX79SI_lg_jpg_100x100_q85.jpg
+name:::Intel DX79SI
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31408/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29333/##
+price:::$ 193.711##$ 211.450##
+description:::Marca: Intel++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_jpg_100x100_q85.jpg
+name:::Intel DZ68DB
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20680/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29356/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34647/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18156/##
+price:::$ 75.660##$ 82.440##$ 87.690##$ 93.900##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel_H61M-P20_G3_jpg_100x100_q85.jpg
+name:::Intel H61M-P20 G3
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26456/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34644/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26391/##
+price:::$ 32.987##$ 38.690##$ 38.990##
+description:::Marca: Intel++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_760GM-E51_png_100x100_q85.jpg
+name:::MSI 760GM-E51
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26007/##
+price:::$ 48.579##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 760G++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures6_2492_20111118171104_jpg_100x100_q85.jpg
+name:::MSI 760GM-P21
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25316/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27569/##
+price:::$ 31.797##$ 32.990##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_760GM-P23_jpg_100x100_q85.jpg
+name:::MSI 760GM-P23 (FX)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24264/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30181/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30399/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34639/##
+price:::$ 30.156##$ 32.434##$ 36.375##$ 36.800##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_760GM-P33_jpg_100x100_q85.jpg
+name:::MSI 760GM-P33
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27835/##
+price:::$ 35.100##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_870A_jpg_100x100_q85.jpg
+name:::MSI 870A Fuzion Power Edition
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10845/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10393/##
+price:::$ 88.990##$ 138.144##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_870A-G54_jpg_100x100_q85.jpg
+name:::MSI 870A-G54
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/10124/##
+price:::$ 66.447##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 870++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_880GM-E41_png_100x100_q85.jpg
+name:::MSI 880GM-E41
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25511/##
+price:::$ 61.726##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 880G / SB710++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_880GMA-E45_png_100x100_q85.jpg
+name:::MSI 880GMA-E45
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14170/##
+price:::$ 85.241##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_880GMA-E55_png_100x100_q85.jpg
+name:::MSI 880GMA-E55
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14167/##
+price:::$ 67.907##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_880GMS-E35_jpg_100x100_q85.jpg
+name:::MSI 880GMS-E35
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19014/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/17653/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29812/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31893/##
+price:::$ 45.068##$ 46.500##$ 52.370##$ 53.599##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 880G / SB850++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_890FXA-GD70_png_100x100_q85.jpg
+name:::MSI 890FXA-GD70
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10394/##
+price:::$ 141.089##
+description:::Marca: MSI++Socket: AM3++Chipset: AMD 890FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_970A_G46_jpg_100x100_q85.jpg
+name:::MSI 970A-G46
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26008/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27571/##
+price:::$ 60.801##$ 71.390##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 970++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2401_20110531112840_jpg_100x100_q85.jpg
+name:::MSI 990FXA-GD65
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23385/##
+price:::$ 106.754##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_990FXA-GD80_jpg_100x100_q85.jpg
+name:::MSI 990FXA-GD80
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/17264/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30756/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31376/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21171/##
+price:::$ 123.990##$ 129.322##$ 136.285##$ 140.590##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 990FX++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/990_jpg_100x100_q85.jpg
+name:::MSI 990XA-GD55
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32991/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32943/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24553/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34642/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/35694/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21170/##
+price:::$ 82.634##$ 86.815##$ 89.886##$ 92.690##$ 94.500##$ 96.090##
+description:::Marca: MSI++Socket: AM3+++Chipset: AMD 990X++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_P33_jpg_100x100_q85.jpg
+name:::MSI A55M-P33
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34640/##
+price:::$ 43.890##
+description:::Marca: MSI++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2449_20110826162707_jpg_100x100_q85.jpg
+name:::MSI A55M-P35
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/23537/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21167/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18339/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/21656/##
+price:::$ 45.990##$ 49.990##$ 52.180##$ 61.726##
+description:::Marca: MSI++Socket: FM1++Chipset: AMD A55++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2413_20110603155439_jpg_100x100_q85.jpg
+name:::MSI A75MA-G55
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30757/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/17458/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17505/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34641/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/15423/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18346/##
+price:::$ 56.176##$ 57.990##$ 59.990##$ 63.690##$ 65.295##$ 67.890##
+description:::Marca: MSI++Socket: FM1++Chipset: AMD A75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2448_20110824150323_jpg_100x100_q85.jpg
+name:::MSI A75MA-P35
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30017/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24262/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26458/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29241/##
+price:::$ 49.281##$ 49.989##$ 50.492##$ 53.340##
+description:::Marca: MSI++Socket: FM1++Chipset: AMD A75++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_G43_jpg_100x100_q85.jpg
+name:::MSI B75A-G43
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31950/##
+price:::$ 64.589##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel B75++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2297_20110222113033_jpg_100x100_q85.jpg
+name:::MSI Big Bang-Marshal (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/16312/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19052/##
+price:::$ 247.990##$ 255.576##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Big_Bang_Xpower_jpg_100x100_q85.jpg
+name:::MSI Big Bang-XPower
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21454/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19059/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29467/##
+price:::$ 149.990##$ 199.300##$ 209.510##
+description:::Marca: MSI++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_G41M-P26_png_100x100_q85.jpg
+name:::MSI G41M-P26
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20141/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/10882/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31888/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30040/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16494/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/16712/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23316/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12403/##
+price:::$ 27.881##$ 29.090##$ 29.848##$ 31.030##$ 32.869##$ 32.990##$ 33.990##$ 39.900##
+description:::Marca: MSI++Socket: LGA 775++Chipset: Intel G41++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GF615M-P33_png_100x100_q85.jpg
+name:::MSI GF615M-P33
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10391/##
+price:::$ 36.735##
+description:::Marca: MSI++Socket: AM3++Chipset: NVIDIA nForce 430++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H61I-E35_gif_100x100_q85.jpg
+name:::MSI H61I-E35
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34645/##
+price:::$ 43.690##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_H61M-E23_1_jpg_100x100_q85.jpg
+name:::MSI H61M-E23 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26009/##
+price:::$ 47.849##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_H61M-P21_jpg_100x100_q85.jpg
+name:::MSI H61M-P20 (G3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30182/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29529/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34446/##
+price:::$ 34.618##$ 34.910##$ 37.680##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_H61M-P21_jpg_100x100_q85.jpg
+name:::MSI H61M-P21 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/28112/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/13124/##
+price:::$ 37.350##$ 48.032##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_H61M-P23_jpg_100x100_q85.jpg
+name:::MSI H61M-P23 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31495/##
+price:::$ 54.900##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H61++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures7_2539_20120314175444_jpg_100x100_q85.jpg
+name:::MSI H77MA-G43
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30168/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32886/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30866/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34633/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28318/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30815/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/34155/##
+price:::$ 68.990##$ 69.350##$ 71.169##$ 71.500##$ 74.490##$ 79.530##$ 94.057##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_NF725GM-P43_jpg_100x100_q85.jpg
+name:::MSI NF725GM-P43
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/14197/##
+price:::$ 30.990##
+description:::Marca: MSI++Socket: AM3++Chipset: NVIDIA nForce 630a (GeForce 7025)++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_P55-GD65_jpg_100x100_q85.jpg
+name:::MSI P55-GD65
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19046/##
+price:::$ 100.791##
+description:::Marca: MSI++Socket: LGA 1156++Chipset: Intel P55++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P67A-C45_jpg_100x100_q85.jpg
+name:::MSI P67A-C45 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26394/##
+price:::$ 75.990##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_P67A-GD55_jpg_100x100_q85.jpg
+name:::MSI P67A-GD55 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12666/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34648/##
+price:::$ 99.500##$ 100.690##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel P67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_PH67_jpg_100x100_q85.jpg
+name:::MSI PH67A-C43
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27572/##
+price:::$ 69.090##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel H67++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/X58_Pro-E_jpg_100x100_q85.jpg
+name:::MSI X58 Pro-E
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23318/##
+price:::$ 137.469##
+description:::Marca: MSI++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_20101119115942_jpg_100x100_q85.jpg
+name:::MSI X58A-GD45
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19056/##
+price:::$ 110.971##
+description:::Marca: MSI++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_X58M_jpg_100x100_q85.jpg
+name:::MSI X58M
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10102/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23317/##
+price:::$ 92.990##$ 112.485##
+description:::Marca: MSI++Socket: LGA 1366++Chipset: Intel X58++Memorias: 6x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_X79a_jpg_100x100_q85.jpg
+name:::MSI X79A-GD45 (8D)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24310/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30769/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29448/##
+price:::$ 146.990##$ 153.568##$ 161.505##
+description:::Marca: MSI++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_X79A_GD_jpg_100x100_q85.jpg
+name:::MSI X79A-GD65 (8D)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30767/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29099/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26396/##
+price:::$ 189.133##$ 198.840##$ 200.390##
+description:::Marca: MSI++Socket: LGA 2011++Chipset: Intel X79++Memorias: 8x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_X79MA-GD45_jpg_100x100_q85.jpg
+name:::MSI X79MA-GD45
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30764/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29191/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31484/##
+price:::$ 132.245##$ 139.195##$ 195.850##
+description:::Marca: MSI++Socket: LGA 2011++Chipset: Intel X79++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2438_20110725143210_jpg_100x100_q85.jpg
+name:::MSI Z68A-G43 (B3)      
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19542/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31485/##
+price:::$ 75.743##$ 106.680##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z68A-G43_G3_jpg_100x100_q85.jpg
+name:::MSI Z68A-G43 (G3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24555/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/22089/##
+price:::$ 73.889##$ 93.811##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2435_20110707171914_jpg_100x100_q85.jpg
+name:::MSI Z68A-G45 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/22090/##
+price:::$ 92.813##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/z68_jpg_100x100_q85.jpg
+name:::MSI Z68A-GD55 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24308/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21309/##
+price:::$ 112.991##$ 124.990##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z68A-GD55_G3_jpg_100x100_q85.jpg
+name:::MSI Z68A-GD55 (G3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30755/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29630/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34634/##
+price:::$ 110.693##$ 116.390##$ 119.900##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures5_2407_20110520171850_jpg_100x100_q85.jpg
+name:::MSI Z68A-GD65 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19544/##
+price:::$ 134.769##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z68A-GD80_jpg_100x100_q85.jpg
+name:::MSI Z68A-GD80 (B3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19764/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15454/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30773/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29098/##
+price:::$ 135.771##$ 150.989##$ 153.587##$ 161.505##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z68++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z77A_G43_jpg_100x100_q85.jpg
+name:::MSI Z77A-G43
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31271/##
+price:::$ 83.500##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z77A_jpg_100x100_q85.jpg
+name:::MSI Z77A-G45
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31951/##
+price:::$ 103.695##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Z77_jpg_100x100_q85.jpg
+name:::MSI Z77A-GD55
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30950/##
+price:::$ 115.861##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2536_20120308143500_jpg_100x100_q85.jpg
+name:::MSI Z77A-GD65
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28320/##
+price:::$ 143.190##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Z77MAG45_jpg_100x100_q85.jpg
+name:::MSI Z77MA-G45
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28319/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30948/##
+price:::$ 75.990##$ 80.250##
+description:::Marca: MSI++Socket: LGA 1155++Chipset: Intel Z77++Memorias: 4x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_760G_jpg_100x100_q85.jpg
+name:::Zotac 760GMAT-A-E
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32572/##
+price:::$ 38.132##
+description:::Marca: Zotac++Socket: AM3++Chipset: AMD 760G++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_6100_jpg_100x100_q85.jpg
+name:::Zotac GF6100-F-E
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27256/##
+price:::$ 24.990##
+description:::Marca: Zotac++Socket: AM3++Chipset: NVIDIA nForce 430++Memorias: 2x DDR3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_610i_Value_jpg_100x100_q85.jpg
+name:::Zotac NF610I-L-E
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31886/##
+price:::$ 25.571##
+description:::Marca: Zotac++Socket: LGA 775++Chipset: NVIDIA nForce 630a (GeForce 7050)++Memorias: 2x DDR2++
+######

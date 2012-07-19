@@ -1,0 +1,49 @@
+<h1>Home#index (scraper)</h1>
+
+<%= form_tag("/home/index", :method => "get") do %>
+  <%= text_field_tag(:url) %>
+  <%= submit_tag("Buscar") %>
+<% end %>
+
+
+<% for i in 0...@test.length %>
+  <p><% @test[i] %></p>
+<% end %>
+
+<% for i in 0...@image.length %>
+  <IMG SRC= <%= @image[i] %> >
+<% end %>
+
+<p>image</p>
+<% @image.each do |holichico| %>
+  <%=holichico%>
+<% end %>
+
+<p>names</p>
+<% @data.each do |holichico| %>
+  <p><%=holichico%></P>  
+<% end %>
+
+<!--p>prices</p-->
+<% @name.each do |holichico| %>
+  <%=holichico%>
+<% end %>
+
+<p>description</p>
+<% @description.each do |holichico| %>
+  <p><%holichico%></p>
+<% end %>
+
+
+
+<% @listProduct.each do |product| %>
+  <img src= <%= product.imageUrl %> >
+  <p><%=product.imageUrl%></p>
+  <p><%=product.name%></p>
+  <p><%=product.store%></p>
+  <p><%=product.price%></p>
+  <%product.description.split("++").each do |list|%>
+	<p><%=list%></p>
+  <% end %>
+  <%product.description.split("++").first%>
+<% end %>

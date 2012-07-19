@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Looking</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+  
+<link href="http://yui.yahooapis.com/2.9.0/build/tabview/assets/skins/sam/tabview.css" type="text/css" rel="stylesheet">  
+<script src="http://yui.yahooapis.com/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script src="http://yui.yahooapis.com/2.9.0/build/element/element-min.js"></script>
+ 
+<!-- OPTIONAL: Connection (required for dynamic loading of data) -->
+<script src="http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js"></script>
+ 
+<!-- Source file for TabView -->
+<script src="http://yui.yahooapis.com/2.9.0/build/tabview/tabview-min.js"></script>
+
+</script>
+<script type="text/javascript">
+var myTabs = new YAHOO.widget.TabView('demo');
+var tab0 = myTabs.getTab(0);
+ 
+function handleClick(e) {  
+    alert(e.target);
+}
+ 
+tab0.addListener('click', handleClick);
+</script>
+
+
+<script>
+PositionX = 100;
+PositionY = 100;
+
+
+defaultWidth  = 500;
+defaultHeight = 500;
+var AutoClose = true;
+
+if (parseInt(navigator.appVersion.charAt(0))>=4){
+var isNN=(navigator.appName=="Netscape")?1:0;
+var isIE=(navigator.appName.indexOf("Microsoft")!=-1)?1:0;}
+var optNN='scrollbars=no,width='+defaultWidth+',height='+defaultHeight+',left='+PositionX+',top='+PositionY;
+var optIE='scrollbars=no,width=150,height=100,left='+PositionX+',top='+PositionY;
+function popImage(imageURL,imageTitle){
+if (isNN){imgWin=window.open('about:blank','',optNN);}
+if (isIE){imgWin=window.open('about:blank','',optIE);}
+with (imgWin.document){
+writeln('<html><head><title>Loading...</title><style>body{margin:0px;}</style>');writeln('<sc'+'ript>');
+writeln('var isNN,isIE;');writeln('if (parseInt(navigator.appVersion.charAt(0))>=4){');
+writeln('isNN=(navigator.appName=="Netscape")?1:0;');writeln('isIE=(navigator.appName.indexOf("Microsoft")!=-1)?1:0;}');
+writeln('function reSizeToImage(){');writeln('if (isIE){');writeln('window.resizeTo(300,300);');
+writeln('width=300-(document.body.clientWidth-document.images[0].width);');
+writeln('height=300-(document.body.clientHeight-document.images[0].height);');
+writeln('window.resizeTo(width,height);}');writeln('if (isNN){');       
+writeln('window.innerWidth=document.images["George"].width;');writeln('window.innerHeight=document.images["George"].height;}}');
+writeln('function doTitle(){document.title="'+imageTitle+'";}');writeln('</sc'+'ript>');
+if (!AutoClose) writeln('</head><body bgcolor=ffffff scroll="no" onload="reSizeToImage();doTitle();self.focus()">')
+else writeln('</head><body bgcolor=ffffff scroll="no" onload="reSizeToImage();doTitle();self.focus()" onblur="self.close()">');
+writeln('<img name="George" src='+imageURL+' style="display:block"></body></html>');
+close();		
+}}
+
+</script>
+
+<!-- Script GOOGLE MAPS-->
+
+
+<script type="text/javascript"
+    src="https://maps.google.com/maps/api/js?sensor=true">
+</script>
+
+<script>
+var initialLocation;
+var siberia = new google.maps.LatLng(-33.46810795527895,-70.64208984375);
+var newyork = new google.maps.LatLng(-33.46810795527895, -70.64208984375);
+var browserSupportFlag =  new Boolean();
+
+function initialize() {
+  var myOptions = {
+    zoom: 14,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  };
+  var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+  var image = new google.maps.MarkerImage('/images/cliente.png',
+      // This marker is 20 pixels wide by 32 pixels tall.
+      new google.maps.Size(91, 107),
+      // The origin for this image is 0,0.
+      new google.maps.Point(0,0),
+      // The anchor for this image is the base of the flagpole at 0,32.
+      new google.maps.Point(0, 32));
+  // Try W3C Geolocation (Preferred)
+  var image2 = new google.maps.MarkerImage('/images/tecnonotebooks.jpg',
+      // This marker is 20 pixels wide by 32 pixels tall.
+      new google.maps.Size(75, 90),
+      // The origin for this image is 0,0.
+      new google.maps.Point(0,0),
+      // The anchor for this image is the base of the flagpole at 0,32.
+      new google.maps.Point(0, 32));
+  // Try W3C Geolocation (Preferred)
+   var cibertec = new google.maps.MarkerImage('/images/cibertec.png',
+      // This marker is 20 pixels wide by 32 pixels tall.
+      new google.maps.Size(75, 90),
+      // The origin for this image is 0,0.
+      new google.maps.Point(0,0),
+      // The anchor for this image is the base of the flagpole at 0,32.
+      new google.maps.Point(0, 32));
+  // Try W3C Geolocation (Preferred)
+   var csbonline = new google.maps.MarkerImage('/images/csb.jpg',
+      // This marker is 20 pixels wide by 32 pixels tall.
+      new google.maps.Size(75, 90),
+      // The origin for this image is 0,0.
+      new google.maps.Point(0,0),
+      // The anchor for this image is the base of the flagpole at 0,32.
+      new google.maps.Point(0, 32));
+  // Try W3C Geolocation (Preferred)
+  if(navigator.geolocation) {
+    browserSupportFlag = true;
+	
+    navigator.geolocation.getCurrentPosition(function(position) {
+      initialLocation = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+	   marker = new google.maps.Marker({
+                position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude),
+				icon:image,
+                map: map,
+                title: "Aqui estas tu!"
+				
+            });
+		marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45779290, -70.64942180),
+				icon:image2,
+                map: map,
+                title: "TecnoNotebooks.net"
+            });	
+
+	  marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45779290, -70.64942180),
+                map: map,
+                title: "AnyComputer"
+            });
+	  marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45924080, -70.64917480),
+                map: map,
+                title: "Computacin Constanza Sofia"
+            });	
+	 marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45821650, -70.64934810),
+				icon:cibertec,
+                map: map,
+                title: "Cibertec"
+            });		
+	 marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45824230, -70.64934380),
+				icon:csbonline,
+                map: map,
+                title: "CsbOnline"
+            });
+      map.setCenter(initialLocation);
+	  
+	  
+	  
+    }, function() {
+      handleNoGeolocation(browserSupportFlag);
+    });
+	
+  // Try Google Gears Geolocation
+  } else if (google.gears) {
+    browserSupportFlag = true;
+    var geo = google.gears.factory.create('beta.geolocation');
+    geo.getCurrentPosition(function(position) {
+      initialLocation = new google.maps.LatLng(position.latitude,position.longitude);
+      map.setCenter(initialLocation);
+    }, function() {
+      handleNoGeoLocation(browserSupportFlag);
+    });
+  // Browser doesn't support Geolocation
+  } else {
+    browserSupportFlag = false;
+    handleNoGeolocation(browserSupportFlag);
+  }
+ 
+  function handleNoGeolocation(errorFlag) {
+    if (errorFlag == true) {
+      //alert("Geolocation service failed.");
+	  
+      initialLocation = newyork;
+	  	   
+    } else {
+      alert("Your browser doesn't support geolocation. Weve placed you in Santiago.");
+      initialLocation = siberia;
+    }
+	marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.46810795527895, -70.64208984375),
+				icon:image,
+                map: map,
+                title: "Aqui estas tu!"
+				
+            });
+		marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45779290, -70.64942180),
+				icon:image2,
+                map: map,
+                title: "TecnoNotebooks.net"
+            });	
+
+	  marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45779290, -70.64942180),
+                map: map,
+                title: "AnyComputer"
+            });
+	  marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45924080, -70.64917480),
+                map: map,
+                title: "Computacion Constanza Sofia"
+            });	
+	 marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45821650, -70.64934810),
+				icon:cibertec,
+                map: map,
+                title: "Cibertec"
+            });		
+	 marker = new google.maps.Marker({
+                position: new google.maps.LatLng(-33.45824230, -70.64934380),
+				icon:csbonline,
+                map: map,
+                title: "CsbOnline"
+            });
+	  
+    map.setCenter(initialLocation);
+  }
+}
+
+</script>
+
+</head>
+<body  class="yui-skin-sam" onload="initialize()">
+
+
+<%= yield %>
+
+</body>
+</html>

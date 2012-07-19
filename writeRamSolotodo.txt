@@ -1,0 +1,2238 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_7_jpg_100x100_q85.jpg
+name:::A-DATA        (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32096/##
+price:::$ 11.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_1_1_jpg_100x100_q85.jpg
+name:::A-DATA        (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32098/##
+price:::$ 21.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 1 GB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22116/##
+price:::$ 18.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22120/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23801/##
+price:::$ 18.900##$ 24.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR2_SODIMM_1_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20868/##
+price:::$ 16.800##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR2_SODIMM_1_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22135/##
+price:::$ 12.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 256 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20747/##
+price:::$ 5.500##
+description:::Capacidad: 256 MB (1 x 256 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR2_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 256 MB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20749/##
+price:::$ 8.300##
+description:::Capacidad: 256 MB (1 x 256 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ADATA_DDR2_SODIMM_jpg_100x100_q85.jpg
+name:::A-DATA     (1 x 512 MB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20865/##
+price:::$ 5.800##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/adata_ddr3-memory-module_jpg_100x100_q85.jpg
+name:::A-DATA   AD2U800B2G6-S (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35319/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32097/##
+price:::$ 15.379##$ 21.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CM3X2GSD1066_jpg_100x100_q85.jpg
+name:::Corsair   CM3X2GSD1066 (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28955/##
+price:::$ 10.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sodimm_corsair_jpg_100x100_q85.jpg
+name:::Corsair   CMSA4GX3M1A1333C9 (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30376/##
+price:::$ 19.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sodimm_corsair_jpg_100x100_q85.jpg
+name:::Corsair   CMSO2GX3M1A1333C9  (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27600/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30372/##
+price:::$ 10.990##$ 13.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sodimm_corsair_jpg_100x100_q85.jpg
+name:::Corsair   CMSO4GX3M1A1333C9 (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20899/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27606/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30360/##
+price:::$ 18.591##$ 18.990##$ 19.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sodimm_corsair_jpg_100x100_q85.jpg
+name:::Corsair   CMSO8GX3M1A1333C9 (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27610/##
+price:::$ 44.990##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMV16GX3M2A1333C9_jpg_100x100_q85.jpg
+name:::Corsair   CMV16GX3M2A1333C9 (2 x 8 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32128/##
+price:::$ 69.990##
+description:::Capacidad: 16 GB (2 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair-CMV4GX3M1A1333C9_jpg_100x100_q85.jpg
+name:::Corsair   CMV4GX3M1A1333C9 (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27585/##
+price:::$ 17.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMV8GX3M1A1333C9_jpg_100x100_q85.jpg
+name:::Corsair   CMV8GX3M1A1333C9 (1 x 8 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28952/##
+price:::$ 45.990##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3248_1_jpg_100x100_q85.jpg
+name:::Corsair   VS1GB400C3 (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27584/##
+price:::$ 21.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsair_valueselect_512mb_240_pin_ddr2_pc2_4200_JPG_100x100_q85.jpg
+name:::Corsair   VS1GB667D2 (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28949/##
+price:::$ 14.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS1GSDS400_jpg_100x100_q85.jpg
+name:::Corsair   VS1GSDS400 (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28961/##
+price:::$ 20.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS1GSDS667D2_jpg_100x100_q85.jpg
+name:::Corsair   VS1GSDS533D2 (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30080/##
+price:::$ 12.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS1GSDS667D2_jpg_100x100_q85.jpg
+name:::Corsair   VS1GSDS667D2  (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28956/##
+price:::$ 13.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS1GSDS800D2_jpg_100x100_q85.jpg
+name:::Corsair   VS1GSDS800D2 (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28958/##
+price:::$ 12.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_jpg_100x100_q85.jpg
+name:::Corsair   VS2GB1333D3 (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27580/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31567/##
+price:::$ 10.990##$ 12.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS2GB667D2_jpg_100x100_q85.jpg
+name:::Corsair   VS2GB667D2 (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28950/##
+price:::$ 25.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS2GB800D2_jpg_100x100_q85.jpg
+name:::Corsair   VS2GB800D2 (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28951/##
+price:::$ 24.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5469_1_jpg_100x100_q85.jpg
+name:::Corsair   VS2GSDS667D2  (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27961/##
+price:::$ 25.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS2GSDS800D2_jpg_100x100_q85.jpg
+name:::Corsair   VS2GSDS800D2 (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28960/##
+price:::$ 25.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VS4GSDS800D2_jpg_100x100_q85.jpg
+name:::Corsair   VS4GSDS800D2 (1 x 4 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28962/##
+price:::$ 69.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dimms_1_jpg_100x100_q85.jpg
+name:::Corsair Dominator CMP4GX3M2A1600C9 (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28191/##
+price:::$ 32.990##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMP8GX3M2A1600C8_jpg_100x100_q85.jpg
+name:::Corsair Dominator DHX+ CMP8GX3M2A1600C8? (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31966/##
+price:::$ 59.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsair-dominator-gt_jpg_100x100_q85.jpg
+name:::Corsair Dominator GT CMT6GX3M3A1866C9 (3 x 2 GB | DIMM DDR3-1866)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28195/##
+price:::$ 59.990##
+description:::Capacidad: 6 GB (3 x 2 GB)++Tipo: DDR3++Frecuencia: 1866 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMD16GX3M4A2400C9_jpg_100x100_q85.jpg
+name:::Corsair Dominator Platinum CMD16GX3M4A2400C9 (4 x 4 GB | DIMM DDR3-2400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35119/##
+price:::$ 199.990##
+description:::Capacidad: 16 GB (4 x 4 GB)++Tipo: DDR3++Frecuencia: 2400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/63921_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CML8GX3M2A1600C9 (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32827/##
+price:::$ 49.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/vengeance_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMSX4GX3M1A1600C9 (1 x 4 GB | SO-DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30368/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30839/##
+price:::$ 20.990##$ 22.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsairvengeance_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ12GX3M3A1600C9 (3 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30835/##
+price:::$ 72.990##
+description:::Capacidad: 12 GB (3 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsair_4gb_vengeance_2_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ4GX3M1A1600C9 (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28189/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30382/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23465/##
+price:::$ 23.990##$ 24.990##$ 37.350##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair-Vengeance_1_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ4GX3M2A1600C9 (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30365/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28190/##
+price:::$ 24.990##$ 27.990##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMZ8GX3M1A1600C10_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ8GX3M1A1600C10 (1 x 8 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30078/##
+price:::$ 49.990##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair-Vengeance_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ8GX3M2A1600C9 (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30374/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28194/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34305/##
+price:::$ 44.990##$ 46.990##$ 60.500##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/59431_l_jpg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ8GX3M2A1600C9B (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20766/##
+price:::$ 67.900##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/%C3%ADndice_2_jpeg_100x100_q85.jpg
+name:::Corsair Vengeance CMZ8GX3M2A1866C9R (2 x 4 GB | DIMM DDR3-1866)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35118/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/28006/##
+price:::$ 45.990##$ 49.095##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1866 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_XMS3_jpg_100x100_q85.jpg
+name:::Corsair XMS3 CMX2GX3M1A1333C9 (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28188/##
+price:::$ 12.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_XMS3_jpg_100x100_q85.jpg
+name:::Corsair XMS3 CMX4GX3M1A1333C9 (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20762/##
+price:::$ 31.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CMX8GX3M1A1333C9_jpg_100x100_q85.jpg
+name:::Corsair XMS3 CMX8GX3M1A1333C9 (1 x 8 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35117/##
+price:::$ 45.990##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-12800CL9D-8GBSK_jpg_100x100_q85.jpg
+name:::G.Skill   F3-12800CL9D-8GBSK (2 x 4 GB | SO-DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35626/##
+price:::$ 40.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-1600C9D-8GAB_jpg_100x100_q85.jpg
+name:::G.Skill Ares F3-1600C9D-8GAB (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35617/##
+price:::$ 42.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-1600C9D-8GAO_jpg_100x100_q85.jpg
+name:::G.Skill Ares F3-1600C9D-8GAO (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35616/##
+price:::$ 42.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-1866C9D-8GAB_jpg_100x100_q85.jpg
+name:::G.Skill Ares F3-1866C9D-8GAB (2 x 4 GB | DIMM DDR3-1866)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35619/##
+price:::$ 50.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1866 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-2133C11D-8GAO_jpg_100x100_q85.jpg
+name:::G.Skill Ares F3-2133C11D-8GAO (2 x 4 GB | DIMM DDR3-2133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35620/##
+price:::$ 52.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 2133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-2133C9D-8GAB_jpg_100x100_q85.jpg
+name:::G.Skill Ares F3-2133C9D-8GAB (2 x 4 GB | DIMM DDR3-2133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35621/##
+price:::$ 62.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 2133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-12800CL9D-4GBXL_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsX F3-12800CL9D-4GBXL (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35614/##
+price:::$ 22.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-12800CL9D-8GBXL_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsX F3-12800CL9D-8GBXL (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35615/##
+price:::$ 42.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-14900CL9D-8GBXL_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsX F3-14900CL9D-8GBXL (2 x 4 GB | DIMM DDR3-1866)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35618/##
+price:::$ 50.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1866 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-17000CL9Q-16GBZH_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsZ F3-17000CL9Q-16GBZH (4 x 4 GB | DIMM DDR3-2133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35625/##
+price:::$ 119.990##
+description:::Capacidad: 16 GB (4 x 4 GB)++Tipo: DDR3++Frecuencia: 2133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-17000CL9Q-8GBZH_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsZ F3-17000CL9Q-8GBZH (4 x 2 GB | DIMM DDR3-2133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35622/##
+price:::$ 73.990##
+description:::Capacidad: 2 GB (4 x 2 GB)++Tipo: DDR3++Frecuencia: 2133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-2400C10D-8GZH_jpg_100x100_q85.jpg
+name:::G.Skill RipjawsZ F3-2400C10D-8GZH (4 x 2 GB | DIMM DDR3-2400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35623/##
+price:::$ 87.990##
+description:::Capacidad: 2 GB (4 x 2 GB)++Tipo: DDR3++Frecuencia: 2400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/F3-2400C10D-8GTX_jpg_100x100_q85.jpg
+name:::G.Skill TridentX F3-2400C10D-8GTX (2 x 4 GB | DIMM DDR3-2400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35624/##
+price:::$ 89.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 2400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/20-144-320-01_JPG_100x100_q85.jpg
+name:::GeIL   GL1GB4400DC (2 x 512 MB | DIMM DDR-550)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23441/##
+price:::$ 42.780##
+description:::Capacidad: 1 GB (2 x 512 MB)++Tipo: DDR++Frecuencia: 550 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/20-144-320-01_JPG_100x100_q85.jpg
+name:::GeIL   GLX1GB4400DC (2 x 512 MB | DIMM DDR-550)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23445/##
+price:::$ 48.360##
+description:::Capacidad: 1 GB (2 x 512 MB)++Tipo: DDR++Frecuencia: 550 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/20-144-320-01_JPG_100x100_q85.jpg
+name:::GeIL   GLXNF1GB3200DC (2 x 512 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23444/##
+price:::$ 44.640##
+description:::Capacidad: 1 GB (2 x 512 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/87-m_jpg_100x100_q85.jpg
+name:::Genérica MAC         (1 x 256 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23574/##
+price:::$ 33.200##
+description:::Capacidad: 256 MB (1 x 256 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/266-m_jpg_100x100_q85.jpg
+name:::Genérica MAC       (1 x 1 GB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23560/##
+price:::$ 43.100##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/87-m_jpg_100x100_q85.jpg
+name:::Genérica MAC       (1 x 512 MB | DIMM DDR-133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23585/##
+price:::$ 56.200##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/74-m_1_jpg_100x100_q85.jpg
+name:::Genérica MAC      (1 x 1 GB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23561/##
+price:::$ 52.800##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/629_jpg_100x100_q85.jpg
+name:::Genérica MAC      (1 x 2 GB | DIMM DDR2-800 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23578/##
+price:::$ 118.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/629_jpg_100x100_q85.jpg
+name:::Genérica MAC     (1 x 1 GB | DIMM DDR2-800 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/26558/##http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23570/##
+price:::$ 39.000##$ 62.300##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/629_jpg_100x100_q85.jpg
+name:::Genérica MAC    (1 x 1 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23569/##
+price:::$ 49.400##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/629_jpg_100x100_q85.jpg
+name:::Genérica MAC    (1 x 2 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23577/##
+price:::$ 94.400##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/87-m_1_jpg_100x100_q85.jpg
+name:::Genérica MAC    (1 x 512 MB | DIMM DDR-100)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23584/##
+price:::$ 59.300##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 100 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/74-m_jpg_100x100_q85.jpg
+name:::Genérica MAC    (1 x 512 MB | SO-DIMM DDR-133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23589/##
+price:::$ 71.100##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 133 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ramddr2oem_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23567/##
+price:::$ 42.700##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ramddr2oem_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 1 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23568/##
+price:::$ 44.700##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23571/##
+price:::$ 24.800##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/generica_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23579/##
+price:::$ 56.400##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23580/##
+price:::$ 43.500##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23581/##
+price:::$ 44.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23582/##
+price:::$ 32.100##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 4 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23583/##
+price:::$ 52.400##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/generica_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23586/##
+price:::$ 40.400##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ramddr2oem_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23587/##
+price:::$ 44.110##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ramddr2oem_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23588/##
+price:::$ 38.610##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23590/##
+price:::$ 28.600##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23591/##
+price:::$ 51.600##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Genérica MAC   (1 x 512 MB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Syd_Logo_png_140x90_q85.jpg++/store_product/23592/##
+price:::$ 15.700##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mac_pro_memorias_jpg_100x100_q85.jpg
+name:::Genérica MAC PRO (2 x 4 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/25807/##
+price:::$ 169.000##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kit16_2x8_8500_150_1_jpg_100x100_q85.jpg
+name:::Genérica MAC PRO (2 x 8 GB | DIMM DDR3-1066 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/27860/##
+price:::$ 239.000##
+description:::Capacidad: 16 GB (2 x 8 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HPSEROP397415B21_jpg_100x100_q85.jpg
+name:::HP   397415-B21 (2 x 4 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29408/##
+price:::$ 325.910##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/002523_1_jpg_100x100_q85.jpg
+name:::HP   432803-B21 (1 x 512 MB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20876/##
+price:::$ 24.200##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dod__server_hp_ram_8gb_rdimm__500662_b21__AVT089894_jpg_100x100_q85.jpg
+name:::HP   450259-B21 (1 x 1 GB | DIMM DDR2-800 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29222/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35495/##
+price:::$ 33.465##$ 33.579##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500656-B21 (1 x 2 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29484/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35508/##
+price:::$ 73.710##$ 74.165##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500658-B21 (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22280/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35708/##
+price:::$ 125.190##$ 126.854##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500662-B21 (1 x 8 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29495/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35707/##
+price:::$ 107.185##$ 108.381##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500668-B21 (1 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22276/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29538/##
+price:::$ 25.990##$ 28.615##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500670-B21 (1 x 2 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29581/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35492/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22275/##
+price:::$ 31.030##$ 31.395##$ 39.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   500672-B21 (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29784/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22277/##
+price:::$ 52.370##$ 69.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/593339-B21_jpg_100x100_q85.jpg
+name:::HP   593339-B21 (1 x 4 GB | DIMM DDR3-1333 Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32068/##
+price:::$ 63.040##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   593907-B21 (1 x 2 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31196/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35509/##
+price:::$ 74.205##$ 74.711##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c02652793_jpg_100x100_q85.jpg
+name:::HP   593911-B21 (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35497/##
+price:::$ 38.220##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   593921-B21 (1 x 2 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29438/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25935/##
+price:::$ 31.525##$ 34.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   593923-B21 (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31795/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25936/##
+price:::$ 60.130##$ 77.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   627812-B21 (1 x 16 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31370/##
+price:::$ 452.010##
+description:::Capacidad: 16 GB (1 x 16 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/647893-B21_jpg_100x100_q85.jpg
+name:::HP   647893-B21 (1 x 4 GB | DIMM DDR3-1333 Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32069/##
+price:::$ 77.590##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/647897-B21_jpg_100x100_q85.jpg
+name:::HP   647897-B21 (1 x 8 GB | DIMM DDR3-1333 Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32066/##
+price:::$ 129.970##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/647901-B21_jpg_100x100_q85.jpg
+name:::HP   647901-B21 (1 x 16 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34884/##
+price:::$ 312.330##
+description:::Capacidad: 16 GB (1 x 16 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/A2Z47AA_jpg_100x100_q85.jpg
+name:::HP   A2Z47AA (1 x 2 GB | DIMM DDR3-1600 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/35258/##
+price:::$ 55.775##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   AT023AA (1 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22340/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35203/##
+price:::$ 6.924##$ 7.371##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   AT024AA (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35223/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29532/##
+price:::$ 18.018##$ 21.825##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c01751873_jpg_100x100_q85.jpg
+name:::HP   AT911AA (1 x 1 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20913/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20866/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22388/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35486/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24923/##
+price:::$ 4.990##$ 5.900##$ 8.184##$ 8.645##$ 14.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c01751873_jpg_100x100_q85.jpg
+name:::HP   AT912AA (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34868/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29603/##http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20915/##
+price:::$ 16.744##$ 17.450##$ 29.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c01751873_jpg_100x100_q85.jpg
+name:::HP   AT913AA (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35248/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29314/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26641/##http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20917/##
+price:::$ 43.407##$ 45.580##$ 58.990##$ 59.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dod__server_hp_ram_8gb_rdimm__500662_b21__AVT089894_jpg_100x100_q85.jpg
+name:::HP   BZ722AA (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35238/##
+price:::$ 27.391##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/em995aa_jpg_100x100_q85.jpg
+name:::HP   EM994AA (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20872/##
+price:::$ 14.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   FX621AA (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35255/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31228/##
+price:::$ 140.322##$ 145.985##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   FX622AA (1 x 8 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35517/##
+price:::$ 748.658##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   FX698AA (1 x 1 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35500/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29236/##
+price:::$ 41.769##$ 42.670##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::HP   FX699AA (1 x 2 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30160/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35506/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32810/##
+price:::$ 57.990##$ 67.158##$ 68.385##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KT293AA_400x400_jpg_100x100_q85.jpg
+name:::HP   KT292AA (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20914/##
+price:::$ 9.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KT293AA_400x400_jpg_100x100_q85.jpg
+name:::HP   KT293AA  (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20916/##
+price:::$ 29.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KT293AA_400x400_jpg_100x100_q85.jpg
+name:::HP   KT294AA (1 x 4 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/20918/##
+price:::$ 89.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NL797AA_jpg_100x100_q85.jpg
+name:::HP   NL797AA (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35256/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29332/##
+price:::$ 274.001##$ 284.695##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dod__server_hp_ram_8gb_rdimm__500662_b21__AVT089894_2_jpg_100x100_q85.jpg
+name:::HP   PX975AA (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/20906/##
+price:::$ 65.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dod__server_hp_ram_8gb_rdimm__500662_b21__AVT089894_1_jpg_100x100_q85.jpg
+name:::HP   PX976AA (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/20905/##
+price:::$ 25.600##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c01751873_jpg_100x100_q85.jpg
+name:::HP   VH639AA (1 x 1 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35243/##
+price:::$ 32.760##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   44T1480 (1 x 1 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35501/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29594/##
+price:::$ 42.861##$ 43.640##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   44T1568 (1 x 1 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29680/##
+price:::$ 43.640##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   44T1569 (1 x 1 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35510/##
+price:::$ 75.985##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   44T1571 (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35252/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22279/##
+price:::$ 84.994##$ 110.190##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/46C7448_jpg_100x100_q85.jpg
+name:::IBM   46C7448 (1 x 4 GB | DIMM DDR2-1066 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35253/##
+price:::$ 86.086##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR2++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   49Y1397 (1 x 8 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35514/##
+price:::$ 161.252##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   49Y1400 (1 x 16 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31383/##
+price:::$ 362.770##
+description:::Capacidad: 16 GB (1 x 16 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   49Y1406 (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35512/##
+price:::$ 86.723##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   49Y1433 (1 x 2 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35251/##
+price:::$ 75.166##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_ddr3_jpg_100x100_q85.jpg
+name:::IBM   49Y1435 (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35254/##
+price:::$ 90.181##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_4_jpg_100x100_q85.jpg
+name:::Kingston       (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27601/##
+price:::$ 11.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_valueram_1gb_ddr2_800mhz_pc2_6400_sodimm-250x250_jpg_100x100_q85.jpg
+name:::Kingston      (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25369/##
+price:::$ 23.938##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 1 GB | DIMM DDR-266)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22130/##
+price:::$ 31.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 266 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/markvision_ddr2_1_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 1 GB | DIMM DDR2-533 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20874/##
+price:::$ 21.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 128 MB | DIMM DDR-100)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23458/##
+price:::$ 1.930##
+description:::Capacidad: 128 MB (1 x 128 MB)++Tipo: DDR++Frecuencia: 100 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 512 MB | DIMM DDR-100)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22128/##
+price:::$ 29.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 100 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 512 MB | DIMM DDR-133)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22132/##
+price:::$ 31.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 512 MB | DIMM DDR-266)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22118/##
+price:::$ 18.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 266 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 512 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22119/##
+price:::$ 18.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Kingston     (1 x 512 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22117/##
+price:::$ 18.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KAC-MEME/1G (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23143/##
+price:::$ 12.113##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KAC-MEME/2G (1 x 2 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29595/##
+price:::$ 24.735##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KAC-MEMF/1G (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34864/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29354/##
+price:::$ 12.649##$ 13.570##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KAC-MEMF/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35086/##
+price:::$ 23.569##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kta-mb1333_jpg_100x100_q85.jpg
+name:::Kingston   KTA-MB1333/4G (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35224/##
+price:::$ 18.291##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_2_jpg_100x100_q85.jpg
+name:::Kingston   KTA-MP1066/4G (1 x 4 GB | DIMM DDR3-1066 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35229/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29602/##
+price:::$ 23.024##$ 24.240##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KTA-MP1333/4G (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35236/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32374/##
+price:::$ 25.480##$ 26.675##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400/1G (1 x 1 GB | DIMM DDR2-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35220/##
+price:::$ 16.198##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400A/2G (1 x 2 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35232/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29500/##
+price:::$ 24.570##$ 25.705##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400B/1G (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35213/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29234/##
+price:::$ 11.921##$ 14.065##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTD-DM8400B2G_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400B/2G (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35234/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29402/##
+price:::$ 25.389##$ 26.675##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400BE/2G (1 x 2 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35499/##
+price:::$ 41.405##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-DM8400C6/2G (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35235/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29706/##
+price:::$ 25.480##$ 26.675##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-INSP6000B/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35087/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29433/##
+price:::$ 23.842##$ 25.210##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTD-INSP6000C/2G (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35085/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29165/##
+price:::$ 22.477##$ 24.735##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTD-L3A/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/33105/##
+price:::$ 11.155##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTD-L3AS/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35788/##
+price:::$ 10.059##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTD-L3B/4G (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35081/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30436/##
+price:::$ 18.200##$ 19.390##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1441502_3_2011210_13_14_59_jpg_100x100_q85.jpg
+name:::Kingston   KTD-PE310Q/4G (1 x 4 GB | DIMM DDR3-1066 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35240/##
+price:::$ 28.574##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTD-PE3138G_jpg_100x100_q85.jpg
+name:::Kingston   KTD-PE313/8G (1 x 8 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34340/##
+price:::$ 45.900##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTD-PE313E8G_jpg_100x100_q85.jpg
+name:::Kingston   KTD-PE313E/8G (1 x 8 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31231/##
+price:::$ 83.410##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BA26027a_1_jpg_100x100_q85.jpg
+name:::Kingston   KTD-WS667/4G (2 x 2 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35507/##
+price:::$ 72.436##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTD-XPS730B4G_jpg_100x100_q85.jpg
+name:::Kingston   KTD-XPS730B/4G (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29676/##
+price:::$ 19.390##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTH-MLG42G_jpg_100x100_q85.jpg
+name:::Kingston   KTH-MLG4/2G (2 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35247/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31804/##
+price:::$ 42.406##$ 44.135##
+description:::Capacidad: 2 GB (2 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTH-PL310Q88G_jpg_100x100_q85.jpg
+name:::Kingston   KTH-PL310Q8/8G (1 x 8 GB | DIMM DDR3-1066 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/35000/##
+price:::$ 53.340##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1441502_3_2011210_13_14_59_jpg_100x100_q85.jpg
+name:::Kingston   KTH-PL313E/1G (1 x 1 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26687/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35485/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29785/##
+price:::$ 7.895##$ 8.190##$ 8.720##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1441502_3_2011210_13_14_59_jpg_100x100_q85.jpg
+name:::Kingston   KTH-PL313E/4G (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35490/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29302/##
+price:::$ 25.935##$ 26.180##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1441502_3_2011210_13_14_59_jpg_100x100_q85.jpg
+name:::Kingston   KTH-PL313ES/2G (1 x 2 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29610/##
+price:::$ 16.005##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTH-X36S/2G (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22321/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34860/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29206/##
+price:::$ 9.612##$ 10.010##$ 10.660##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTH-X3A/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22133/##
+price:::$ 13.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTH-X3B/4G (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30622/##
+price:::$ 16.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTH-X3B/8G (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/33107/##
+price:::$ 55.280##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTH-X3BS/2G (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30555/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31125/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29390/##
+price:::$ 8.516##$ 9.900##$ 10.660##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4200A/2G (1 x 2 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35496/##
+price:::$ 35.672##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4200AN/1G (1 x 1 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35215/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29811/##
+price:::$ 13.286##$ 14.065##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4300/1G (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22333/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35214/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30403/##
+price:::$ 11.921##$ 12.467##$ 13.570##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4300/2G (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35237/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29337/##
+price:::$ 25.754##$ 27.150##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4300E/1G (1 x 1 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35487/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29364/##
+price:::$ 17.199##$ 17.450##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4300E/2G (1 x 2 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35494/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29831/##
+price:::$ 32.305##$ 32.970##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4400C6/1G (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35216/##
+price:::$ 13.286##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4400C6/2G (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35233/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29699/##
+price:::$ 24.752##$ 26.180##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW4400E6/2G (1 x 2 GB | DIMM DDR2-800 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35489/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29104/##
+price:::$ 22.022##$ 22.795##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BA26027a_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW667LP/2G (2 x 1 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35504/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29644/##
+price:::$ 56.147##$ 57.220##
+description:::Capacidad: 2 GB (2 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BA26027a_jpg_100x100_q85.jpg
+name:::Kingston   KTH-XW667LP/8G (2 x 4 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35321/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30429/##
+price:::$ 210.483##$ 218.735##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-ZD8000A/1G (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22319/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34854/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29304/##
+price:::$ 8.458##$ 8.827##$ 11.630##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-ZD8000B/1G (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34865/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30428/##
+price:::$ 13.286##$ 14.540##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-ZD8000B/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35090/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29285/##
+price:::$ 24.752##$ 25.705##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_2_jpg_100x100_q85.jpg
+name:::Kingston   KTH-ZD8000C6/2G (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35088/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29553/##
+price:::$ 24.388##$ 26.180##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KTH9600B/1G (1 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26690/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35202/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29340/##
+price:::$ 6.515##$ 6.643##$ 7.275##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KTH9600B/4G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35079/##
+price:::$ 18.018##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTH9600BS2G_jpg_100x100_q85.jpg
+name:::Kingston   KTH9600BS/2G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26938/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29432/##
+price:::$ 9.540##$ 10.660##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TCM58B/4G (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35225/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29681/##
+price:::$ 19.292##$ 20.855##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TCM58BS/2GB (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26694/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29664/##
+price:::$ 10.199##$ 11.155##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP1066/1G (1 x 1 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26689/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34848/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29718/##
+price:::$ 3.289##$ 3.367##$ 3.870##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP1066/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35241/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26639/##
+price:::$ 31.577##$ 41.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP1066/4G (1 x 4 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35080/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29763/##
+price:::$ 18.473##$ 19.390##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP1066S/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35740/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34859/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29238/##
+price:::$ 9.035##$ 9.919##$ 10.185##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_1_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP3B/4G (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35078/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29815/##
+price:::$ 17.745##$ 20.360##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_1_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP3B/8G (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29405/##
+price:::$ 80.025##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_1_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP3BS/2G (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27830/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34857/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29449/##
+price:::$ 9.214##$ 9.372##$ 10.185##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP667/1G (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34863/##
+price:::$ 12.831##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTL-TP667/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35089/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29073/##
+price:::$ 24.752##$ 25.705##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1016890715_jpg_100x100_q85.jpg
+name:::Kingston   KTM-SX3138/4G (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30440/##
+price:::$ 31.030##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTM-TP3840/1G (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22293/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34855/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29764/##
+price:::$ 8.843##$ 9.191##$ 9.690##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   KTM-TP9828/1G (1 x 1 GB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22147/##
+price:::$ 31.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTM4982/2G (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35231/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29631/##
+price:::$ 24.570##$ 26.180##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTM5780LP4G_jpg_100x100_q85.jpg
+name:::Kingston   KTM5780LP/4G (4 x 1 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29530/##
+price:::$ 94.080##
+description:::Capacidad: 4 GB (4 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KTS8122K2/8G (2 x 4 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29494/##
+price:::$ 147.430##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTT-S3B4G_jpg_100x100_q85.jpg
+name:::Kingston   KTT-S3B/8G (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/33106/##
+price:::$ 55.280##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTT1066D3/1G (1 x 1 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30775/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34847/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30709/##
+price:::$ 1.976##$ 2.002##$ 2.425##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTT1066D3/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29360/##
+price:::$ 11.155##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTT1066D3/4G (1 x 4 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22146/##
+price:::$ 19.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KTT1066D3S/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24896/##
+price:::$ 9.934##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_jpg_100x100_q85.jpg
+name:::Kingston   KTT667D2/1G (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22134/##
+price:::$ 14.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_1_jpg_100x100_q85.jpg
+name:::Kingston   KTT667D2/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30414/##
+price:::$ 27.150##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KTT667D22G_jpg_100x100_q85.jpg
+name:::Kingston   KTT667D22G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35092/##
+price:::$ 26.026##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_1_jpg_100x100_q85.jpg
+name:::Kingston   KTT800D2/2G (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35230/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29549/##
+price:::$ 23.569##$ 24.735##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3N7/1G (1 x 1 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24276/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22106/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35204/##
+price:::$ 6.615##$ 7.900##$ 8.463##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3N7/2G (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25521/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22111/##
+price:::$ 11.023##$ 17.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3N7/4G (1 x 4 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35218/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29373/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22126/##
+price:::$ 15.197##$ 16.005##$ 19.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kvr_8gb_1066mhz_ddr3_ecc_reg_wparity_cl7_dimm_qua_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3Q8R7S/8GI (1 x 8 GB | DIMM DDR3-1066 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35502/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29187/##
+price:::$ 45.409##$ 46.075##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_7_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3S7/1G (1 x 1 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24291/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23470/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22285/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34852/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24756/##
+price:::$ 7.347##$ 7.835##$ 7.857##$ 8.190##$ 11.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_7_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3S7/2G (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25505/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22141/##
+price:::$ 14.705##$ 17.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_7_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3S7/4G (1 x 4 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34866/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29061/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/22603/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24299/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26637/##
+price:::$ 14.925##$ 16.480##$ 18.332##$ 19.733##$ 19.990##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kvr_8gb_1066mhz_ddr3_ecc_reg_wparity_cl7_dimm_qua_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR1066D3S8N7/2G (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23136/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35205/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29463/##
+price:::$ 7.929##$ 8.463##$ 9.215##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KVR1333D3D4R9SK324GI_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3D4R9SK3/24GI (3 x 8 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31803/##
+price:::$ 143.075##
+description:::Capacidad: 24 GB (3 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_kvr667d2d8f5_2g_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3D8R9S/4G (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29220/##
+price:::$ 23.765##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3E9S/4G (1 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29476/##
+price:::$ 21.825##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KVR1333D3E9SK28GI_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3E9SK2/8GI (2 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31628/##
+price:::$ 44.610##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_kvr667d2d8f5_2g_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3LD4R9S/8GEC (1 x 8 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35249/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30432/##
+price:::$ 45.409##$ 47.520##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_kvr667d2d8f5_2g_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3LD8R9S/4GEC (1 x 4 GB | DIMM DDR3-1333 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35228/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29453/##
+price:::$ 22.750##$ 23.765##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9/1G (1 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23138/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35201/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29093/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25516/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22174/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27579/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20750/##
+price:::$ 5.289##$ 5.642##$ 6.305##$ 6.615##$ 6.990##$ 7.490##$ 8.500##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9/2G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22312/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22170/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35209/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23459/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23520/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22103/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23486/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29434/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23422/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30380/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24280/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20754/##
+price:::$ 9.261##$ 9.600##$ 9.646##$ 9.690##$ 9.690##$ 9.900##$ 10.500##$ 10.660##$ 10.771##$ 10.990##$ 12.492##$ 13.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9/4G (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35219/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22166/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23462/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29418/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23476/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20880/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34306/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22113/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23494/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25495/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27586/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20760/##
+price:::$ 15.743##$ 15.989##$ 16.480##$ 16.975##$ 17.238##$ 17.277##$ 17.780##$ 17.900##$ 18.500##$ 18.817##$ 18.990##$ 27.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9/8G (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29313/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32888/##
+price:::$ 45.580##$ 49.320##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ValueRAM2Kit_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9K2/8G (2 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23479/##
+price:::$ 35.521##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston-ValueRam-DDR3-Trip_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9K3/12G (3 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23483/##
+price:::$ 50.147##
+description:::Capacidad: 12 GB (3 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston-ValueRam-DDR3-Trip_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3N9K3/3G (3 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25370/##
+price:::$ 23.148##
+description:::Capacidad: 3 GB (3 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR3_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3S8N9/2G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25142/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35206/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29737/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27581/##
+price:::$ 8.357##$ 8.463##$ 9.215##$ 10.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_5_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3S9/1G (1 x 1 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23469/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22306/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34850/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22165/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29379/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20895/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27598/##
+price:::$ 4.179##$ 5.463##$ 5.551##$ 6.200##$ 6.305##$ 6.975##$ 6.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3S9/2G (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22300/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34856/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29139/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23490/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23508/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23472/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22137/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27602/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24758/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24294/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20869/##
+price:::$ 9.131##$ 9.463##$ 10.185##$ 10.900##$ 10.990##$ 11.492##$ 11.900##$ 11.990##$ 12.990##$ 14.716##$ 15.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3S9/4G (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34867/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29711/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22196/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23512/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22142/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23475/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21413/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23497/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24298/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24761/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27605/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20873/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23438/##
+price:::$ 16.016##$ 16.975##$ 16.990##$ 16.990##$ 17.900##$ 18.283##$ 18.589##$ 18.900##$ 19.314##$ 19.990##$ 19.990##$ 26.990##$ 35.540##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_3_jpg_100x100_q85.jpg
+name:::Kingston   KVR1333D3S9/8G (1 x 8 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29730/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/29973/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31730/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26642/##
+price:::$ 45.580##$ 49.990##$ 66.800##$ 116.990##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1016890715_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR333X64C25/1G (1 x 1 GB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25498/##
+price:::$ 33.802##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KVR333X64C25512_jpg_100x100_q85.jpg
+name:::Kingston   KVR333X64C25/512 (1 x 512 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35320/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32265/##
+price:::$ 16.926##$ 17.945##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5222_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR333X64SC25/1G (1 x 1 GB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25515/##
+price:::$ 34.539##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Kingston   KVR400D8R3A/1G (1 x 1 GB | DIMM DDR-400 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25502/##
+price:::$ 51.445##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_8_jpg_100x100_q85.jpg
+name:::Kingston   KVR400X64SC3A/1G (1 x 1 GB | SO-DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22148/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20900/##
+price:::$ 33.900##$ 41.798##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2N4/1G (1 x 1 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24277/##
+price:::$ 11.755##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2N4/2G (1 x 2 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25522/##
+price:::$ 23.515##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2N4/512 (1 x 512 MB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35210/##
+price:::$ 11.011##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2N5/512M (1 x 512 MB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22101/##
+price:::$ 9.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2S4/1G (1 x 1 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24293/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22138/##
+price:::$ 10.285##$ 16.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_jpg_100x100_q85.jpg
+name:::Kingston   KVR533D2S4/2G (1 x 2 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27714/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24297/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22145/##
+price:::$ 17.900##$ 24.253##$ 26.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_kvr667d2d8f5_2g_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2D8F5/2G (1 x 2 GB | DIMM DDR2-667 ECC Full buffer)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30405/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35498/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24289/##
+price:::$ 39.760##$ 39.767##$ 41.149##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2N5/1G (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/20902/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22299/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35211/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24278/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29423/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22190/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26636/##
+price:::$ 8.990##$ 10.892##$ 11.193##$ 11.755##$ 12.125##$ 12.990##$ 14.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2N5/2G (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23464/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/20903/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35227/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23518/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30401/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22164/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24286/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27243/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22110/##
+price:::$ 18.030##$ 18.900##$ 21.567##$ 21.990##$ 22.795##$ 23.501##$ 23.515##$ 24.426##$ 24.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_valueram_1gb_ddr2_800mhz_pc2_6400_sodimm-250x250_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2S5/1G  (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22310/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34861/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29078/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23507/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24292/##
+price:::$ 10.699##$ 11.284##$ 12.125##$ 12.890##$ 14.694##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2S5/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35488/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29521/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23433/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23511/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25517/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27490/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34767/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26638/##
+price:::$ 21.385##$ 22.795##$ 23.114##$ 23.890##$ 24.259##$ 25.500##$ 25.990##$ 27.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_6_jpg_100x100_q85.jpg
+name:::Kingston   KVR667D2S5K2/2G (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24913/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22140/##
+price:::$ 24.067##$ 24.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2N5/1G (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25507/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22105/##
+price:::$ 11.755##$ 13.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_1_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2N6/1G (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22286/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35212/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31291/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23485/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27582/##
+price:::$ 10.892##$ 11.375##$ 12.125##$ 15.500##$ 15.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KVR800D2N61GB_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2N6/1GB (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29100/##
+price:::$ 12.125##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_DDR2_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2N6/2G (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24285/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35226/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31627/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22121/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23496/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27588/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20758/##
+price:::$ 18.370##$ 20.839##$ 21.825##$ 24.900##$ 24.900##$ 24.990##$ 25.490##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2S5/1G (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27926/##
+price:::$ 12.800##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2S6/1G (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22183/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25509/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22301/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34862/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29496/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30838/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23473/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22136/##
+price:::$ 9.501##$ 9.554##$ 10.824##$ 11.466##$ 12.125##$ 12.890##$ 14.626##$ 14.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_2_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D2S6/2G (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23429/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35083/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29845/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22144/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24295/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23491/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20870/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24760/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27609/##
+price:::$ 21.066##$ 21.385##$ 22.795##$ 23.900##$ 24.248##$ 24.900##$ 25.800##$ 27.990##$ 27.990##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_7_jpg_100x100_q85.jpg
+name:::Kingston   KVR800D3S8S6/2G (1 x 2 GB | SO-DIMM DDR3-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25172/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34851/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22296/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29461/##
+price:::$ 7.900##$ 8.008##$ 8.121##$ 9.215##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_jpg_100x100_q85.jpg
+name:::Kingston   M12864F50 (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30704/##
+price:::$ 14.065##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LaptopRAM2_2_jpg_100x100_q85.jpg
+name:::Kingston   M12864H70 (1 x 1 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22283/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34849/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29580/##
+price:::$ 4.102##$ 4.277##$ 4.840##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/M51264J90_jpg_100x100_q85.jpg
+name:::Kingston   M51264J90 (1 x 4 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29336/##
+price:::$ 19.885##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/khx1333c9d3b1_png_100x100_q85.jpg
+name:::Kingston HyperX KHX1333C7AD3/2G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23463/##
+price:::$ 9.690##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/khx1333c9d3b1_png_100x100_q85.jpg
+name:::Kingston HyperX KHX1333C9D3B1/2G (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27917/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35208/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27925/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29181/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28327/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23423/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26498/##
+price:::$ 8.872##$ 9.282##$ 9.925##$ 10.185##$ 10.990##$ 11.904##$ 12.600##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/khx1333c9d3b1_png_100x100_q85.jpg
+name:::Kingston HyperX KHX1333C9D3B1/4G (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28328/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35221/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23460/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24483/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29733/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26499/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23428/##
+price:::$ 16.990##$ 17.017##$ 17.450##$ 18.520##$ 19.390##$ 19.900##$ 20.895##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KHX1333C9D3B1K28G_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1333C9D3B1K2/8G (2 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32887/##
+price:::$ 40.920##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DDR3_hi_res_jpg_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C10D3B1/8G (1 x 8 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30430/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32610/##
+price:::$ 47.520##$ 51.900##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/khx1333c9d3b1_1_png_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9AD3B1/2G (1 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23139/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35207/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29734/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23425/##
+price:::$ 8.309##$ 8.827##$ 9.215##$ 13.321##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9AD3B1K2/4G (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29414/##
+price:::$ 19.885##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_19_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9B1/4G (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26500/##
+price:::$ 21.100##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_19_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3/4G (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21053/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/24395/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23432/##
+price:::$ 18.537##$ 21.939##$ 23.095##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston-hyperx-genesis_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3B1/4G (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35222/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29684/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31562/##
+price:::$ 17.017##$ 18.915##$ 20.300##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KHX1600C9D3B1K28GX_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3B1K2/4GX (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30833/##
+price:::$ 26.990##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston-8500-hyperx-2_10390_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3B1K2/8GX (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29343/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32267/##
+price:::$ 36.375##$ 40.600##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_hyperx_ddr3_dual_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3K2/4G (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25859/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23478/##
+price:::$ 20.900##$ 27.163##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_hyperx_ddr3_dual_2_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3K2/8G (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20886/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23481/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30834/##
+price:::$ 39.790##$ 41.789##$ 46.990##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kingston_hyperx_ddr3_dual_1_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3K2/8GX (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/28000/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23480/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25860/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34873/##
+price:::$ 39.936##$ 41.789##$ 41.900##$ 42.900##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Kingston_HyperX_DDR3-1600_3x_2_GB_1_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3K3/12GX (3 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28116/##
+price:::$ 62.683##
+description:::Capacidad: 12 GB (3 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/10618_1_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3K4/16GX (4 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25025/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30836/##
+price:::$ 79.877##$ 85.990##
+description:::Capacidad: 16 GB (4 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hxlovo_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3LK2/4GX (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28192/##
+price:::$ 32.990##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hxlovo_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9D3LK2/8GX (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23482/##
+price:::$ 41.789##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KHX1600C9S3P1K24G_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX1600C9S3P1K2/4G (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32129/##
+price:::$ 29.990##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KHX2133C11D3K416GX_jpg_100x100_q85.jpg
+name:::Kingston HyperX KHX2133C11D3K4/16GX (4 x 4 GB | DIMM DDR3-2133)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30837/##
+price:::$ 109.990##
+description:::Capacidad: 16 GB (4 x 4 GB)++Tipo: DDR3++Frecuencia: 2133 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HyperX_T1_jpg_100x100_q85.jpg
+name:::Kingston HyperX T1  KHX1600C9D3T1BK3/12GX (3 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31688/##
+price:::$ 63.990##
+description:::Capacidad: 12 GB (3 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3zr8v0rd_copia_jpg_100x100_q85.jpg
+name:::Markvision      (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/27683/##
+price:::$ 9.800##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Markvision     (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_3_png_140x90_q85.jpg++/store_product/20908/##
+price:::$ 23.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Markvision_ddr3_jpg_100x100_q85.jpg
+name:::Markvision     (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20756/##
+price:::$ 15.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/notebookram_jpg_100x100_q85.jpg
+name:::Markvision     (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_3_png_140x90_q85.jpg++/store_product/20907/##
+price:::$ 23.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Markvision_ddr3_1_jpg_100x100_q85.jpg
+name:::Markvision     (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20761/##
+price:::$ 29.900##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Markvision     (1 x 512 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22107/##
+price:::$ 12.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/notebookram_jpg_100x100_q85.jpg
+name:::Markvision   KMM1GBD2-800SO.MVVL (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26635/##
+price:::$ 11.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/markvision_ddr2_jpg_100x100_q85.jpg
+name:::Markvision   KMM2GBD2-800.MVVL  (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20757/##
+price:::$ 19.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KMM512D2-667.MVVL_jpg_100x100_q85.jpg
+name:::Markvision   KMM512D2-667.MVVL (1 x 512 MB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29221/##
+price:::$ 4.365##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KMM8GBD3-1333.MVVL_jpg_100x100_q85.jpg
+name:::Markvision   KMM8GBD3-1333.MVVL (1 x 8 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34985/##
+price:::$ 43.140##
+description:::Capacidad: 8 GB (1 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DDR31GB-250x250_jpg_100x100_q85.jpg
+name:::Markvision   PC3-8500 (1 x 1 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_3_png_140x90_q85.jpg++/store_product/20912/##
+price:::$ 18.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DDR667MARK-250x250_jpg_100x100_q85.jpg
+name:::Markvision   PC5300  (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_3_png_140x90_q85.jpg++/store_product/20911/##
+price:::$ 19.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/DDR667MARK-250x250_jpg_100x100_q85.jpg
+name:::Markvision   PC5300 (1 x 1 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_3_png_140x90_q85.jpg++/store_product/20909/##
+price:::$ 16.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20929/##
+price:::$ 35.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20933/##
+price:::$ 42.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20934/##
+price:::$ 25.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20931/##
+price:::$ 50.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20940/##
+price:::$ 22.000##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 1 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/22473/##
+price:::$ 4.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 128 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20748/##
+price:::$ 5.500##
+description:::Capacidad: 128 MB (1 x 128 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20941/##
+price:::$ 33.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20945/##
+price:::$ 41.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 2 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20947/##
+price:::$ 19.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20922/##
+price:::$ 19.000##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/notebookram_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 256 MB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23503/##
+price:::$ 2.521##
+description:::Capacidad: 256 MB (1 x 256 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/notebookram_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 256 MB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23504/##
+price:::$ 2.521##
+description:::Capacidad: 256 MB (1 x 256 MB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 4 GB | SO-DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20923/##
+price:::$ 29.000##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gen_DDR_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 512 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20930/##
+price:::$ 25.000##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ramddr2oem_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 512 MB | DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20935/##
+price:::$ 45.000##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 512 MB | SO-DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20932/##
+price:::$ 35.000##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalentddr3sodimm04_1_jpg_100x100_q85.jpg
+name:::Multimarca     (1 x 512 MB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20937/##
+price:::$ 45.000##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/41264_l_jpg_300x300_q85_1_jpg_100x100_q85.jpg
+name:::Multimarca     (2 x 1 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20938/##
+price:::$ 99.800##
+description:::Capacidad: 2 GB (2 x 1 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/41264_l_jpg_300x300_q85_1_jpg_100x100_q85.jpg
+name:::Multimarca     (2 x 2 GB | DIMM DDR2-667 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20939/##
+price:::$ 120.000##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/41264_l_jpg_300x300_q85_1_jpg_100x100_q85.jpg
+name:::Multimarca     (2 x 4 GB | DIMM DDR2-800 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20944/##
+price:::$ 270.000##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/41264_l_jpg_100x100_q85.jpg
+name:::Multimarca     (2 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20921/##
+price:::$ 79.000##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/41264_l_jpg_300x300_q85_jpg_100x100_q85.jpg
+name:::Multimarca     (2 x 8 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20919/##
+price:::$ 219.000##
+description:::Capacidad: 16 GB (2 x 8 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/asdad_jpg_100x100_q85.jpg
+name:::Multimarca     (4 x 2 GB | DIMM DDR3-1066 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20946/##
+price:::$ 219.000##
+description:::Capacidad: 2 GB (4 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/asdad_1_jpg_100x100_q85.jpg
+name:::Multimarca     (4 x 4 GB | DIMM DDR3-1333 ECC)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/20920/##
+price:::$ 179.000##
+description:::Capacidad: 16 GB (4 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6483_1_jpg_100x100_q85.jpg
+name:::Mushkin   971559A (1 x 2 GB | SO-DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23442/##
+price:::$ 43.511##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6483_1_jpg_100x100_q85.jpg
+name:::Mushkin   971559V (1 x 2 GB | SO-DIMM DDR2-533)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23443/##
+price:::$ 43.511##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 533 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin_blackline_jpg_100x100_q85.jpg
+name:::Mushkin Blackline 991995 (1 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23434/##
+price:::$ 20.568##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin-blackline-ddr3-2000_jpg_100x100_q85.jpg
+name:::Mushkin Blackline 996995 (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23446/##
+price:::$ 39.362##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin_blackline-ddr3-tc_jpg_100x100_q85.jpg
+name:::Mushkin Blackline 998658B (3 x 1 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23430/##
+price:::$ 17.851##
+description:::Capacidad: 3 GB (3 x 1 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin-996974-4gb-2x2gb-ddr3-pc3-12800-7-9-7-24-radioactive-1103-12-lingloong1_jpg_100x100_q85.jpg
+name:::Mushkin Radioactive 996974 (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23439/##
+price:::$ 34.156##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin-996974-4gb-2x2gb-ddr3-pc3-12800-7-9-7-24-radioactive-1103-12-lingloong1_jpg_100x100_q85.jpg
+name:::Mushkin Radioactive 997006 (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23450/##
+price:::$ 80.238##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin-998974-6gb-3x2gb-ddr3-pc3-12800-7-9-7-24-radioactive-1103-12-lingloong2_jpg_100x100_q85.jpg
+name:::Mushkin Radioactive 998974 (3 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23448/##
+price:::$ 55.914##
+description:::Capacidad: 6 GB (3 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ddr3-redline-dual.aspx_jpg_100x100_q85.jpg
+name:::Mushkin Redline 996981 (2 x 4 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23449/##
+price:::$ 67.676##
+description:::Capacidad: 8 GB (2 x 4 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ddr3-redline-dual.aspx_jpg_100x100_q85.jpg
+name:::Mushkin Redline 997013 (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23440/##
+price:::$ 35.958##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/mushkin-991770-4gb-ddr3-pc3-10666-9-9-9-24-silverline-1103-13-lingloong1_jpg_100x100_q85.jpg
+name:::Mushkin Silverline 991770 (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23431/##
+price:::$ 22.593##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GX_XTC_1_jpg_100x100_q85.jpg
+name:::OCZ Gold   (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34309/##
+price:::$ 12.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OCZ3G1333LV4GK_jpg_100x100_q85.jpg
+name:::OCZ Gold OCZ3G1333LV4GK (2 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34308/##
+price:::$ 24.900##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Value_DDR3_dual_1_jpg_100x100_q85.jpg
+name:::OCZ Obsidian    (2 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34307/##
+price:::$ 28.000##
+description:::Capacidad: 4 GB (2 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/47500_big_jpg_100x100_q85.jpg
+name:::Patriot     (1 x 1 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25060/##
+price:::$ 13.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/47500_big_jpg_100x100_q85.jpg
+name:::Patriot     (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25061/##
+price:::$ 12.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/47500_big_jpg_100x100_q85.jpg
+name:::Patriot     (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25059/##
+price:::$ 10.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PSD36G1600KH_jpg_100x100_q85.jpg
+name:::Patriot     (3 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22186/##
+price:::$ 18.991##
+description:::Capacidad: 3 GB (3 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/47500_big_jpg_100x100_q85.jpg
+name:::Patriot   PSD22G8002 (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22112/##
+price:::$ 22.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/patriot-ram-notebook-1_jpg_100x100_q85.jpg
+name:::Patriot   PSD32G13332S (1 x 2 GB | SO-DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34853/##
+price:::$ 8.281##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PSD32G16002H_jpg_100x100_q85.jpg
+name:::Patriot   PSD32G16002H (1 x 2 GB | DIMM DDR3-1600)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23492/##
+price:::$ 12.800##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1600 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/notebookram_jpg_100x100_q85.jpg
+name:::Samsung     (1 x 1 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22167/##
+price:::$ 7.990##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Samsung     (1 x 512 MB | DIMM DDR-100)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22123/##
+price:::$ 20.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 100 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::Samsung     (1 x 512 MB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22108/##
+price:::$ 14.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 1 GB | DIMM DDR-266)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22129/##
+price:::$ 30.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 266 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 1 GB | DIMM DDR-333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22122/##
+price:::$ 20.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 1 GB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22131/##
+price:::$ 31.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/supertalent_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 2 GB | DIMM DDR2-667)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22124/##
+price:::$ 24.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 667 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SuperTalent_DDR3_1_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 2 GB | DIMM DDR3-1066)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25062/##
+price:::$ 13.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1066 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SuperTalent_DDR3_1_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 2 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25063/##
+price:::$ 13.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/T800SB2GV_png_100x100_q85.jpg
+name:::SuperTalent     (1 x 2 GB | SO-DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20871/##
+price:::$ 22.700##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: SO-DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 512 MB | DIMM DDR-266)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22115/##
+price:::$ 18.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 266 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cfc64091-421f-4a39-be83-bf8055c98dc0_jpg_100x100_q85.jpg
+name:::SuperTalent     (1 x 512 MB | DIMM DDR-400)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22109/##
+price:::$ 16.900##
+description:::Capacidad: 512 MB (1 x 512 MB)++Tipo: DDR++Frecuencia: 400 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SuperTalent_DDR3_2_jpg_100x100_q85.jpg
+name:::SuperTalent   T800UB2GV (1 x 2 GB | DIMM DDR2-800)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20759/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22125/##
+price:::$ 19.200##$ 24.900##
+description:::Capacidad: 2 GB (1 x 2 GB)++Tipo: DDR2++Frecuencia: 800 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SuperTalent_DDR3_jpg_100x100_q85.jpg
+name:::SuperTalent   W1333UA1GV (1 x 1 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25058/##
+price:::$ 8.900##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WA133UA2G9_1_jpg_100x100_q85.jpg
+name:::SuperTalent   WA133UB4G9 (1 x 4 GB | DIMM DDR3-1333)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26894/##
+price:::$ 15.710##
+description:::Capacidad: 4 GB (1 x 4 GB)++Tipo: DDR3++Frecuencia: 1333 MHz++Formato: DIMM++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/super_talent_performance_ddr3_module_jpg_100x100_q85.jpg
+name:::SuperTalent   WB200UA1G9 (1 x 1 GB | DIMM DDR3-2000)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20879/##
+price:::$ 9.291##
+description:::Capacidad: 1 GB (1 x 1 GB)++Tipo: DDR3++Frecuencia: 2000 MHz++Formato: DIMM++
+######

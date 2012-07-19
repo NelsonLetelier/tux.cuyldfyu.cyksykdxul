@@ -1,0 +1,894 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PS-ACBEL-500B_jpg_100x100_q85.jpg
+name:::Acbel     IPOWER 510 (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25183/##
+price:::$ 33.900##
+description:::Potencia: 450 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_3_jpg_100x100_q85.jpg
+name:::Acbel     M8 670 (620 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25194/##
+price:::$ 87.900##
+description:::Potencia: 620 W++Certificación: 80PLUS Bronze++Corriente 12V: 18A / 18A / 18A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/R8_II_gif_100x100_q85.jpg
+name:::Acbel     R8 II  (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26112/##
+price:::$ 49.232##
+description:::Potencia: 400 W++Certificación: 80PLUS Bronze++Corriente 12V: Desconocido++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_4_jpg_100x100_q85.jpg
+name:::Acbel     R8 II (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25189/##
+price:::$ 49.900##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: 18A / 18A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EA-Green_Q1.jpg_png_100x100_q85.jpg
+name:::Antec EarthWatts EA-500D (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25432/##
+price:::$ 40.350##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: 22A / 22A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EA-650_jpg_100x100_q85.jpg
+name:::Antec EarthWatts EA-650 Green (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26903/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27024/##
+price:::$ 51.839##$ 53.740##
+description:::Potencia: 650 W++Certificación: 80PLUS++Corriente 12V: 38A / 38A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EA-650_Green_q_jpg_100x100_q85.jpg
+name:::Antec EarthWatts EA-750 Green  (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35389/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25439/##
+price:::$ 58.404##$ 60.530##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 38A / 38A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCG-520_jpg_100x100_q85.jpg
+name:::Antec High Current Gamer HCG-520 (520 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27023/##
+price:::$ 47.040##
+description:::Potencia: 520 W++Certificación: 80PLUS Bronze++Corriente 12V: 40A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCG-520M_jpg_100x100_q85.jpg
+name:::Antec High Current Gamer HCG-520M (520 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35580/##
+price:::$ 53.930##
+description:::Potencia: 520 W++Certificación: 80PLUS Bronze++Corriente 12V: 40A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCG-620M_jpg_100x100_q85.jpg
+name:::Antec High Current Gamer HCG-620M (620 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26905/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35582/##
+price:::$ 64.161##$ 66.440##
+description:::Potencia: 620 W++Certificación: 80PLUS Bronze++Corriente 12V: 48A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCG-750_1_jpg_100x100_q85.jpg
+name:::Antec High Current Gamer HCG-750  (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35391/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35583/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29053/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26110/##
+price:::$ 76.446##$ 79.440##$ 96.990##$ 98.700##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 40A / 40A / 40A / 40A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCG900_box_jpg_100x100_q85.jpg
+name:::Antec High Current Gamer HCG-900  (900 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35392/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25446/##
+price:::$ 85.374##$ 88.710##
+description:::Potencia: 900 W++Certificación: 80PLUS Bronze++Corriente 12V: 40A / 40A / 40A / 40A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HCP-1200_jpg_100x100_q85.jpg
+name:::Antec High Current Pro HCP-1200 (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24252/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35584/##
+price:::$ 157.654##$ 167.960##
+description:::Potencia: 1200 W++Certificación: 80PLUS Gold++Corriente 12V: 30A / 30A / 30A / 30A / 30A / 30A / 30A / 30A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/neo_eco_jpg_100x100_q85.jpg
+name:::Antec Neo Eco 450C (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26901/##
+price:::$ 30.458##
+description:::Potencia: 450 W++Certificación: 80PLUS++Corriente 12V: Desconocido++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/520C_jpg_100x100_q85.jpg
+name:::Antec Neo Eco 520C (520 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35387/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35578/##
+price:::$ 34.224##$ 35.400##
+description:::Potencia: 520 W++Certificación: 80PLUS++Corriente 12V: 410A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/620C_jpg_100x100_q85.jpg
+name:::Antec Neo Eco 620C (620 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35388/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35579/##
+price:::$ 42.993##$ 44.520##
+description:::Potencia: 620 W++Certificación: 80PLUS++Corriente 12V: 48A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Antec_TPQ-1200_1_jpg_100x100_q85.jpg
+name:::Antec TruePower Quattro TPQ-1200 (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25450/##
+price:::$ 134.390##
+description:::Potencia: 1200 W++Certificación: 80PLUS Silver++Corriente 12V: 38A / 38A / 38A / 38A / 38A / 38A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPQ1200OC_q_jpg_100x100_q85.jpg
+name:::Antec TruePower Quattro TPQ-1200 OC (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24253/##
+price:::$ 159.735##
+description:::Potencia: 1200 W++Certificación: 80PLUS Silver++Corriente 12V: 38A / 38A / 38A / 38A / 38A / 38A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPN550_3DBOX_jpg_100x100_q85.jpg
+name:::Antec TruePower TP-550 (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24248/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25437/##
+price:::$ 49.513##$ 51.310##
+description:::Potencia: 550 W++Certificación: 80PLUS Bronze++Corriente 12V: 20A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPN650_3DBOX_jpg_100x100_q85.jpg
+name:::Antec TruePower TP-650  (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26909/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25440/##
+price:::$ 57.651##$ 59.660##
+description:::Potencia: 650 W++Certificación: 80PLUS Bronze++Corriente 12V: 22A / 22A / 25A / 25A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPN750_3DBOX_jpg_100x100_q85.jpg
+name:::Antec TruePower TP-750  (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35390/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25443/##
+price:::$ 74.288##$ 77.120##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 25A / 25A / 25A / 25A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Generic-Power-Supply_jpg_100x100_q85.jpg
+name:::Bestlink   200W (microATX) (200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25424/##
+price:::$ 7.750##
+description:::Potencia: 200 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4177_1_jpg_100x100_q85.jpg
+name:::Clio   500W (mini-ITX) (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25208/##
+price:::$ 15.990##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/xtech_jpg_100x100_q85.jpg
+name:::Clio   ATX650 (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24823/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28843/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25176/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/27493/##
+price:::$ 7.082##$ 7.371##$ 7.900##$ 9.945##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: 22A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/616-1011-large_jpg_100x100_q85.jpg
+name:::Clio   Micro ATX 500W (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32753/##
+price:::$ 8.900##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8232_1_jpg_100x100_q85.jpg
+name:::Cooler Master Elite Power RS460-PSARJ3 (460 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32007/##
+price:::$ 32.300##
+description:::Potencia: 460 W++Certificación: Sin certificación++Corriente 12V: 18A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/RS500-PCARA3-US_jpg_100x100_q85.jpg
+name:::Cooler Master eXtreme Power Plus RS500-PCARA3-US (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34959/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28367/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27022/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34989/##
+price:::$ 31.990##$ 33.954##$ 35.880##$ 38.590##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: 18A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top1_jpg_100x100_q85.jpg
+name:::Cooler Master eXtreme Power Plus RS550-PCAR-E3 (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27336/##
+price:::$ 39.177##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 16A / 16A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/rs600pmain_jpg_100x100_q85.jpg
+name:::Cooler Master eXtreme Power Plus RS600-PCAR-E3 (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26097/##
+price:::$ 48.580##
+description:::Potencia: 600 W++Certificación: Sin certificación++Corriente 12V: 18A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/rs600pmain_jpg_100x100_q85.jpg
+name:::Cooler Master eXtreme Power Plus RS700-PCAA-E3 (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26098/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25442/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34987/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25219/##
+price:::$ 53.281##$ 59.160##$ 65.550##$ 65.990##
+description:::Potencia: 700 W++Certificación: Sin certificación++Corriente 12V: 52A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2190_5_jpg_100x100_q85.jpg
+name:::Cooler Master Gamer Xtreme GX-450W (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25215/##
+price:::$ 40.990##
+description:::Potencia: 450 W++Certificación: 80PLUS Bronze++Corriente 12V: 35A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top1_1_jpg_100x100_q85.jpg
+name:::Cooler Master Gamer Xtreme GX-650W (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24233/##
+price:::$ 61.900##
+description:::Potencia: 650 W++Certificación: 80PLUS++Corriente 12V: 52A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CM_GX750__98413_zoom_jpg_100x100_q85.jpg
+name:::Cooler Master Gamer Xtreme GX-750W (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27028/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26753/##
+price:::$ 67.890##$ 70.519##
+description:::Potencia: 750 W++Certificación: 80PLUS++Corriente 12V: 60A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/RS-650-ACAA-E3_jpg_100x100_q85.jpg
+name:::Cooler Master Gamer Xtreme RS-650-ACAA-E3 (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34988/##
+price:::$ 74.500##
+description:::Potencia: 650 W++Certificación: 80PLUS Bronze++Corriente 12V: 52A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/9b143b5ca0fd452bb0810d0c0c9d331e_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro Gold RS-A00-80GA-D3 (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31587/##
+price:::$ 160.800##
+description:::Potencia: 1000 W++Certificación: 80PLUS Gold++Corriente 12V: 82A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/50390_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro Gold RS-C00-80GA-D3 (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25236/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25454/##
+price:::$ 149.990##$ 161.260##
+description:::Potencia: 1200 W++Certificación: 80PLUS Gold++Corriente 12V: 98A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/RS700-AMBAD3-US_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro M RS700-AMBAD3-US (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34960/##
+price:::$ 83.900##
+description:::Potencia: 700 W++Certificación: 80PLUS Bronze++Corriente 12V: 50A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8229_2_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro M RS700AMBAD3  (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25222/##
+price:::$ 84.090##
+description:::Potencia: 700 W++Certificación: 80PLUS Bronze++Corriente 12V: 50A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8885_3_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro M RS850AMBAJ3 (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25225/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27029/##
+price:::$ 93.990##$ 101.650##
+description:::Potencia: 850 W++Certificación: 80PLUS Bronze++Corriente 12V: 66A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/7794_1_jpg_100x100_q85.jpg
+name:::Cooler Master Silent Pro M RSA00AMBAJ3 (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25449/##
+price:::$ 119.260##
+description:::Potencia: 1000 W++Certificación: 80PLUS Bronze++Corriente 12V: 80A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CUL-850B_png_100x100_q85.jpg
+name:::Coolmax   CUL-750B (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30990/##
+price:::$ 49.624##
+description:::Potencia: 750 W++Certificación: Sin certificación++Corriente 12V: 16A / 16A / 15A / 12A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CUL-850B_png_100x100_q85.jpg
+name:::Coolmax   CUL-850B (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26099/##
+price:::$ 55.370##
+description:::Potencia: 850 W++Certificación: Sin certificación++Corriente 12V: 16A / 16A / 16A / 18A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CUL-950B_gif_100x100_q85.jpg
+name:::Coolmax   CUL-950B (950 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26102/##
+price:::$ 62.683##
+description:::Potencia: 950 W++Certificación: Sin certificación++Corriente 12V: 16A / 16A / 15A / 16A / 12A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VL-600B_jpg_100x100_q85.jpg
+name:::Coolmax   VL-600B (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27487/##
+price:::$ 29.252##
+description:::Potencia: 600 W++Certificación: Sin certificación++Corriente 12V: 18A / 18A / 15A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/coolmax_jpg_100x100_q85.jpg
+name:::Coolmax   ZP750B (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31588/##
+price:::$ 95.189##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 30A / 30A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZU-700B_png_100x100_q85.jpg
+name:::Coolmax   ZU-700B (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26100/##
+price:::$ 57.460##
+description:::Potencia: 700 W++Certificación: 80PLUS Bronze++Corriente 12V: 59A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GS500_jpg_100x100_q85.jpg
+name:::Corsair   GS500  (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31862/##
+price:::$ 49.990##
+description:::Potencia: 500 W++Certificación: 80PLUS++Corriente 12V: 39A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AX750_jpg_100x100_q85.jpg
+name:::Corsair AX AX750  (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31863/##
+price:::$ 114.990##
+description:::Potencia: 750 W++Certificación: 80PLUS Gold++Corriente 12V: 62A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/u_10735919_jpg_100x100_q85.jpg
+name:::Corsair CX CMPSU-430CXV2 (430 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33014/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30362/##
+price:::$ 34.726##$ 34.990##
+description:::Potencia: 430 W++Certificación: 80PLUS++Corriente 12V: 28A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CX500_V2_jpg_100x100_q85.jpg
+name:::Corsair CX CMPSU-500CXV2 (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33015/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31859/##
+price:::$ 44.200##$ 44.990##
+description:::Potencia: 500 W++Certificación: 80PLUS++Corriente 12V: 34A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GS600_jpg_100x100_q85.jpg
+name:::Corsair GS GS600 (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31866/##
+price:::$ 59.990##
+description:::Potencia: 600 W++Certificación: 80PLUS++Corriente 12V: 48A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3370_1_jpg_100x100_q85.jpg
+name:::Corsair HX CMPSU-1050HX (1050 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25234/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33020/##
+price:::$ 131.990##$ 147.358##
+description:::Potencia: 1050 W++Certificación: 80PLUS Silver++Corriente 12V: 87A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_HX650W_jpg_100x100_q85.jpg
+name:::Corsair HX CMPSU-650HX (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30383/##
+price:::$ 89.990##
+description:::Potencia: 650 W++Certificación: 80PLUS Bronze++Corriente 12V: 52A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_HX_750_jpg_100x100_q85.jpg
+name:::Corsair HX CMPSU-750HX (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30367/##
+price:::$ 104.990##
+description:::Potencia: 750 W++Certificación: 80PLUS Silver++Corriente 12V: 62A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_HX850_jpg_100x100_q85.jpg
+name:::Corsair HX CMPSU-850HX (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30370/##
+price:::$ 119.990##
+description:::Potencia: 850 W++Certificación: 80PLUS Silver++Corriente 12V: 70A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HX1050_jpg_100x100_q85.jpg
+name:::Corsair HX HX1050  (1050 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31868/##
+price:::$ 139.990##
+description:::Potencia: 1050 W++Certificación: 80PLUS Bronze++Corriente 12V: 30A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/9901_1_jpg_100x100_q85.jpg
+name:::Corsair TX CMPSU-750TXV2 (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25224/##
+price:::$ 90.090##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 62A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_TX_850_jpg_100x100_q85.jpg
+name:::Corsair TX CMPSU-850TXV2 (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30371/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33019/##
+price:::$ 89.990##$ 108.411##
+description:::Potencia: 850 W++Certificación: 80PLUS Bronze++Corriente 12V: 70A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TX650_V2_jpg_100x100_q85.jpg
+name:::Corsair TX TX650 V2 (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31867/##
+price:::$ 69.990##
+description:::Potencia: 650 W++Certificación: 80PLUS Bronze++Corriente 12V: 53A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TX750_jpg_100x100_q85.jpg
+name:::Corsair TX TX750 V2 (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31865/##
+price:::$ 79.990##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 62A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_4_jpg_100x100_q85.jpg
+name:::HEC      HP585D ORION (585 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26488/##
+price:::$ 21.939##
+description:::Potencia: 585 W++Certificación: Sin certificación++Corriente 12V: 19A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_5_jpg_100x100_q85.jpg
+name:::Linkcage   650W (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25175/##
+price:::$ 7.900##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LOGISYS_SLI_READY_jpg_100x100_q85.jpg
+name:::Logisys   575W (575 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26092/##
+price:::$ 18.283##
+description:::Potencia: 575 W++Certificación: Sin certificación++Corriente 12V: 25A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MBPS-480E12_jpg_100x100_q85.jpg
+name:::Logisys   PS480E12 (480 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/34153/##
+price:::$ 11.492##
+description:::Potencia: 480 W++Certificación: Sin certificación++Corriente 12V: 16A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LOGISYS_BLACK_BEAUTY_jpg_100x100_q85.jpg
+name:::Logisys Black Beauty 550w (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26091/##
+price:::$ 15.671##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 25A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_3_jpg_100x100_q85.jpg
+name:::Microlab           (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25174/##
+price:::$ 6.800##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/microlab650_gif_100x100_q85.jpg
+name:::Microlab    650w (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/27957/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26120/##
+price:::$ 7.900##$ 10.330##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: 16A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_200_6_jpg_100x100_q85.jpg
+name:::Multimarca        (900 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26616/##
+price:::$ 15.900##
+description:::Potencia: 900 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Atx_Power_Supply_jpg_100x100_q85.jpg
+name:::Multimarca   450W (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25421/##
+price:::$ 5.810##
+description:::Potencia: 450 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/fuentegeneria_550_gif_100x100_q85.jpg
+name:::Multimarca   550w (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26123/##
+price:::$ 13.892##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/fuente_generica550w_gif_100x100_q85.jpg
+name:::Multimarca   550w (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26125/##
+price:::$ 13.890##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/600W_jpg_100x100_q85.jpg
+name:::Multimarca   650W (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26104/##
+price:::$ 14.000##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/20089322722322_jpg_100x100_q85.jpg
+name:::Multimarca   ATX500 (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25098/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25177/##
+price:::$ 7.772##$ 8.900##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/616-1011-large_jpg_100x100_q85.jpg
+name:::Multimarca   Micro ATX 550W (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25178/##
+price:::$ 9.900##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/616-1011-large_jpg_100x100_q85.jpg
+name:::Multimarca   Micro ATX 650W (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31594/##
+price:::$ 9.790##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_2002_jpg_100x100_q85.jpg
+name:::Njoy   ATX800 (800 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25180/##
+price:::$ 12.900##
+description:::Potencia: 800 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OCZ700MXSP_jpg_100x100_q85.jpg
+name:::OCZ ModXStream Pro OCZ700MXSP (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30012/##
+price:::$ 76.500##
+description:::Potencia: 700 W++Certificación: 80PLUS++Corriente 12V: 25A / 25A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/600AF_jpg_100x100_q85.jpg
+name:::Raidmax   600AF (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32890/##
+price:::$ 35.830##
+description:::Potencia: 600 W++Certificación: 80PLUS Bronze++Corriente 12V: 22A / 22A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/raidmax-modular-80p-gold-psu-001-600x600_jpg_100x100_q85.jpg
+name:::Raidmax   RX-1200AE (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25448/##
+price:::$ 112.710##
+description:::Potencia: 1200 W++Certificación: 80PLUS Bronze++Corriente 12V: 40A / 40A / 40A / 40A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/RX-500AF_jpg_100x100_q85.jpg
+name:::Raidmax   RX-500AF (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32889/##
+price:::$ 32.740##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/RX-700AC_jpg_100x100_q85.jpg
+name:::Raidmax   RX-700AC (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27476/##
+price:::$ 44.130##
+description:::Potencia: 700 W++Certificación: 80PLUS Bronze++Corriente 12V: 23A / 23A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/raidmax-modular-80p-gold-psu-001-600x600_jpg_100x100_q85.jpg
+name:::Raidmax   RX-850AE (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25441/##
+price:::$ 81.960##
+description:::Potencia: 850 W++Certificación: 80PLUS Gold++Corriente 12V: 34A / 34A / 34A / 34A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/redfox650_gif_100x100_q85.jpg
+name:::Redfox   650w (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26122/##
+price:::$ 9.900##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/redfox800w_gif_100x100_q85.jpg
+name:::Redfox   800w (800 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26126/##
+price:::$ 21.551##
+description:::Potencia: 800 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/04-AM-750_jpg_100x100_q85.jpg
+name:::Seasonic M12II SS-750AM (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25445/##
+price:::$ 88.070##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 62A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/06-XP-860_jpg_100x100_q85.jpg
+name:::Seasonic P SS-860XP (860 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25453/##
+price:::$ 158.100##
+description:::Potencia: 860 W++Certificación: 80PLUS Platinum++Corriente 12V: 71A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/06-XM-1250_1_jpg_100x100_q85.jpg
+name:::Seasonic X SS-1250XM (1250 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25455/##
+price:::$ 184.330##
+description:::Potencia: 1250 W++Certificación: 80PLUS Gold++Corriente 12V: 104A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/06-KM-560_jpg_100x100_q85.jpg
+name:::Seasonic X SS-560KM (560 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25444/##
+price:::$ 86.770##
+description:::Potencia: 560 W++Certificación: 80PLUS Gold++Corriente 12V: 46A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/06-KM-850_jpg_100x100_q85.jpg
+name:::Seasonic X SS-850KM (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25451/##
+price:::$ 145.490##
+description:::Potencia: 850 W++Certificación: 80PLUS Gold++Corriente 12V: 70A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BRP460-OS_LITE_png_100x100_q85.jpg
+name:::Sentey   BRP460-OS LITE (460 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34422/##
+price:::$ 26.900##
+description:::Potencia: 460 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BRP600W_png_100x100_q85.jpg
+name:::Sentey   BRP600W (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28095/##
+price:::$ 36.990##
+description:::Potencia: 600 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SENTEY-ERP-400-SS_jpg_100x100_q85.jpg
+name:::Sentey   ERP400-SS (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/29935/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26115/##
+price:::$ 20.900##$ 23.515##
+description:::Potencia: 400 W++Certificación: Sin certificación++Corriente 12V: 14A / 15A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ERP450-SS_jpg_100x100_q85.jpg
+name:::Sentey   ERP450-SS (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/28136/##
+price:::$ 26.900##
+description:::Potencia: 450 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ERP550-SS_png_100x100_q85.jpg
+name:::Sentey   ERP550-SS (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/28137/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32077/##
+price:::$ 34.900##$ 39.900##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sentey_jpg_100x100_q85.jpg
+name:::Sentey   ERP700-SM (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25105/##
+price:::$ 51.177##
+description:::Potencia: 700 W++Certificación: Sin certificación++Corriente 12V: 20A / 18A / 18A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ERP750-SS_png_100x100_q85.jpg
+name:::Sentey   ERP750-SS (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/28138/##
+price:::$ 53.900##
+description:::Potencia: 750 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/96926193_473392821_o_gif_100x100_q85.jpg
+name:::Sentey   GSP1000-SM (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25255/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25230/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24829/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29721/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28851/##
+price:::$ 128.991##$ 130.990##$ 131.611##$ 146.460##$ 149.900##
+description:::Potencia: 1000 W++Certificación: 80PLUS Gold++Corriente 12V: 83A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sentey2_jpg_100x100_q85.jpg
+name:::Sentey   GSP850-SM (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25108/##
+price:::$ 114.155##
+description:::Potencia: 850 W++Certificación: 80PLUS Gold++Corriente 12V: 70A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/52202_400x400_Fonte_de_Energia_para_Gabinete_ATX_Sentey__jpg_100x100_q85.jpg
+name:::Sentey   HBP1100-SM (1100 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/35004/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25109/##
+price:::$ 69.900##$ 121.080##
+description:::Potencia: 1100 W++Certificación: 80PLUS Bronze++Corriente 12V: 35A / 35A / 20A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HBP900-SM_jpg_100x100_q85.jpg
+name:::Sentey   HBP900-SM (900 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25195/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/32636/##
+price:::$ 63.900##$ 104.989##
+description:::Potencia: 900 W++Certificación: 80PLUS Bronze++Corriente 12V: 35A / 35A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LTP1000-SM_png_100x100_q85.jpg
+name:::Sentey   LTP1000-SM (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28124/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27974/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29256/##
+price:::$ 189.990##$ 206.584##$ 229.880##
+description:::Potencia: 1000 W++Certificación: 80PLUS Platinum++Corriente 12V: Desconocido++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SDP850-SS_png_100x100_q85.jpg
+name:::Sentey   SDP850-SS (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/34154/##
+price:::$ 80.833##
+description:::Potencia: 850 W++Certificación: 80PLUS++Corriente 12V: 70A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8572_1_jpg_100x100_q85.jpg
+name:::Spektra          (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25206/##
+price:::$ 13.990##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 17A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8572_1_jpg_100x100_q85.jpg
+name:::Spektra         (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25207/##
+price:::$ 12.990##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: 19A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8275_1_jpg_100x100_q85.jpg
+name:::Spektra         (800 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25212/##
+price:::$ 24.990##
+description:::Potencia: 800 W++Certificación: Sin certificación++Corriente 12V: 29A / 29A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/8295_1_jpg_100x100_q85.jpg
+name:::Spektra     80 plus (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26398/##
+price:::$ 24.990##
+description:::Potencia: 450 W++Certificación: 80PLUS++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3753_1_jpg_100x100_q85.jpg
+name:::Spektra     80 plus (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26399/##
+price:::$ 34.990##
+description:::Potencia: 550 W++Certificación: 80PLUS++Corriente 12V: 25A / 25A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/thermaltake-litepower-w0095e_0_png_100x100_q85.jpg
+name:::Thermaltake Litepower W0311 (430 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24223/##
+price:::$ 28.500##
+description:::Potencia: 430 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/W0329RU_jpg_100x100_q85.jpg
+name:::Thermaltake Purepower W0329RU (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27034/##
+price:::$ 34.800##
+description:::Potencia: 450 W++Certificación: Sin certificación++Corriente 12V: 15A / 15A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/12751415341_jpg_100x100_q85.jpg
+name:::Thermaltake Purepower W0330RU (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34310/##
+price:::$ 44.700##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 18A / 18A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_main_pic_stand.jpg_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower TP-1350M (1350 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24245/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32831/##
+price:::$ 189.900##$ 206.390##
+description:::Potencia: 1350 W++Certificación: 80PLUS Silver++Corriente 12V: 60A / 60A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2178_1_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower TP-1500M (1500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24246/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25237/##
+price:::$ 189.900##$ 213.390##
+description:::Potencia: 1500 W++Certificación: 80PLUS Silver++Corriente 12V: 50A / 50A / 30A / 30A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_0_angleview_450.gif_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower W0132RE (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24243/##
+price:::$ 164.900##
+description:::Potencia: 1000 W++Certificación: 80PLUS++Corriente 12V: 36A / 36A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_01_angleview_450.gif_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower W0133R (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24244/##
+price:::$ 159.900##
+description:::Potencia: 1200 W++Certificación: 80PLUS++Corriente 12V: 36A / 36A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPX-1275M_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower XT TPX-1275M (1275 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32377/##
+price:::$ 219.990##
+description:::Potencia: 1275 W++Certificación: 80PLUS Platinum++Corriente 12V: 45A / 65A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TPX-1475M_jpg_100x100_q85.jpg
+name:::Thermaltake Toughpower XT TPX-1475M (1475 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32378/##
+price:::$ 259.990##
+description:::Potencia: 1475 W++Certificación: 80PLUS Gold++Corriente 12V: 55A / 75A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/7993_1_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 RX TRX-1000M (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25231/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31954/##
+price:::$ 123.990##$ 129.990##
+description:::Potencia: 1000 W++Certificación: 80PLUS++Corriente 12V: 50A / 50A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_TRX1200M.jpg_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 RX TRX-1200M (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24242/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25235/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31972/##
+price:::$ 127.900##$ 129.990##$ 149.990##
+description:::Potencia: 1200 W++Certificación: 80PLUS Bronze++Corriente 12V: 60A / 60A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_Main.jpg_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TR-500 (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31963/##
+price:::$ 32.990##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: 18A / 17A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/B_TR-500P.jpg_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TR-500PCEU (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24229/##
+price:::$ 50.900##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: 36A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TR-600PCEU_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TR-600P W0388RU (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31596/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27716/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25218/##
+price:::$ 47.750##$ 60.690##$ 61.790##
+description:::Potencia: 600 W++Certificación: 80PLUS Bronze++Corriente 12V: 50A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TRX-650M_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TRX-650 (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31978/##
+price:::$ 56.990##
+description:::Potencia: 650 W++Certificación: 80PLUS Bronze++Corriente 12V: 44A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TRX-750M_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TRX-750 (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27717/##
+price:::$ 79.690##
+description:::Potencia: 750 W++Certificación: 80PLUS Bronze++Corriente 12V: 56A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/W0319RU_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 TRX-850 W0319RU (850 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31975/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25226/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24240/##
+price:::$ 94.990##$ 99.990##$ 129.900##
+description:::Potencia: 850 W++Certificación: 80PLUS Bronze++Corriente 12V: 69A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2735_1_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 W0070RUC (430 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26127/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31976/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25213/##
+price:::$ 27.690##$ 29.990##$ 31.890##
+description:::Potencia: 430 W++Certificación: Sin certificación++Corriente 12V: 14A / 15A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/W0134RE_jpg_100x100_q85.jpg
+name:::Thermaltake TR2 W0134 (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24231/##
+price:::$ 56.900##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 15A / 14A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/W0379RU_gif_100x100_q85.jpg
+name:::Thermaltake TR2 W0379RU (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26129/##
+price:::$ 37.690##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: 25A / 18A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_7_jpg_100x100_q85.jpg
+name:::Topower        (1200 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31840/##
+price:::$ 151.441##
+description:::Potencia: 1200 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A / 20A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_6_jpg_100x100_q85.jpg
+name:::Topower       (1000 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31839/##
+price:::$ 127.979##
+description:::Potencia: 1000 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A / 20A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_5_jpg_100x100_q85.jpg
+name:::Topower   M5 (700 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32245/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/35698/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31838/##
+price:::$ 60.140##$ 66.800##$ 69.997##
+description:::Potencia: 700 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A / 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/m9_400_1_gif_100x100_q85.jpg
+name:::Topower   M9 400 (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26116/##
+price:::$ 54.379##
+description:::Potencia: 400 W++Certificación: 80PLUS++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/m9_400_1_gif_100x100_q85.jpg
+name:::Topower   M9 450 (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32241/##
+price:::$ 31.230##
+description:::Potencia: 450 W++Certificación: 80PLUS++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/m9_gif_100x100_q85.jpg
+name:::Topower   M9 550 (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32243/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/35003/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31836/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/35696/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26113/##
+price:::$ 36.460##$ 36.900##$ 42.834##$ 43.500##$ 63.932##
+description:::Potencia: 550 W++Certificación: 80PLUS++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4178_01_topower_top_1000wg_1000w_power_supply_review_jpg_100x100_q85.jpg
+name:::Topower   M9 650 (650 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25192/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/35697/##
+price:::$ 49.900##$ 50.900##
+description:::Potencia: 650 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4178_01_topower_top_1000wg_1000w_power_supply_review_jpg_100x100_q85.jpg
+name:::Topower   M9 750 (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25193/##
+price:::$ 77.900##
+description:::Potencia: 750 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_3_1_jpg_100x100_q85.jpg
+name:::Topower   NINJA   (550 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32242/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31938/##
+price:::$ 33.470##$ 39.700##
+description:::Potencia: 550 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_2_1_jpg_100x100_q85.jpg
+name:::Topower   NINJA  (450 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32240/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31936/##
+price:::$ 27.150##$ 32.386##
+description:::Potencia: 450 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ps3_gif_100x100_q85.jpg
+name:::Topower   Ps3 (370 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26114/##
+price:::$ 24.248##
+description:::Potencia: 370 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_2_2_jpg_100x100_q85.jpg
+name:::Topower   SAMURAI (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31937/##
+price:::$ 36.565##
+description:::Potencia: 400 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: Sí++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/treeto_cp85_jpg_100x100_q85.jpg
+name:::TreeTop   CP85 (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27468/##
+price:::$ 26.143##
+description:::Potencia: 400 W++Certificación: 80PLUS Bronze++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/treeto_cp85_jpg_100x100_q85.jpg
+name:::TreeTop   CP85 (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27469/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26752/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26118/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26107/##
+price:::$ 31.829##$ 37.610##$ 39.427##$ 39.500##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1535-2874-thickbox_jpg_100x100_q85.jpg
+name:::TreeTop   P85  (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25429/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25539/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26108/##
+price:::$ 34.910##$ 35.990##$ 45.900##
+description:::Potencia: 500 W++Certificación: 80PLUS Bronze++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1535-2874-thickbox_jpg_100x100_q85.jpg
+name:::TreeTop   P85 (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/28118/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25428/##
+price:::$ 31.500##$ 31.530##
+description:::Potencia: 400 W++Certificación: 80PLUS Bronze++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Fuentetreetop500WP85_JPG_100x100_q85.jpg
+name:::TreeTop   P85 (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27187/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26121/##
+price:::$ 51.900##$ 73.480##
+description:::Potencia: 600 W++Certificación: 80PLUS Bronze++Corriente 12V: 18A / 17A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Treetop_TA-80_400W_jpg_100x100_q85.jpg
+name:::TreeTop   TA80 (400 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25283/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/28117/##
+price:::$ 21.900##$ 24.900##
+description:::Potencia: 400 W++Certificación: Sin certificación++Corriente 12V: 18A / 17A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Treetop_TA-80_400W_jpg_100x100_q85.jpg
+name:::TreeTop   TA80 (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25181/##
+price:::$ 28.900##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: 20A / 20A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P1-750S-NLB9_jpg_100x100_q85.jpg
+name:::XFX Core Edition P1-750S-NLB9 (750 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27923/##
+price:::$ 67.030##
+description:::Potencia: 750 W++Certificación: 80PLUS++Corriente 12V: 62A++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/xtech_jpg_100x100_q85.jpg
+name:::XTech   500W (500 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26111/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24220/##
+price:::$ 9.554##$ 11.900##
+description:::Potencia: 500 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/xtech_jpg_100x100_q85.jpg
+name:::XTech   600W (600 W)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/24221/##
+price:::$ 12.900##
+description:::Potencia: 600 W++Certificación: Sin certificación++Corriente 12V: Desconocido++PFC activo: No++
+######

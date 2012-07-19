@@ -1,0 +1,1080 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailpng_png_100x100_q85.jpg
+name:::AMD A4-3300
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23129/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/18453/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24850/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23191/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23099/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26401/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34983/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23187/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29847/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/22510/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25585/##
+price:::$ 35.662##$ 39.700##$ 39.760##$ 39.890##$ 39.990##$ 39.990##$ 39.990##$ 40.222##$ 41.225##$ 50.703##$ 52.990##
+description:::Frecuencia: 2500 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailpng_png_100x100_q85.jpg
+name:::AMD A4-3400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35787/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/17761/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24851/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29498/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26030/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19187/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17620/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25510/##
+price:::$ 39.297##$ 39.990##$ 42.200##$ 42.670##$ 43.990##$ 44.890##$ 51.714##$ 56.635##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd_a6_box_1_jpeg_100x100_q85.jpg
+name:::AMD A6-3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20697/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17484/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18333/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17621/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25586/##
+price:::$ 47.779##$ 49.990##$ 50.930##$ 60.072##$ 64.990##
+description:::Frecuencia: 2100 MHz++Núcleos: Tri-core++Cache: 3072 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd_a6_box_jpeg_100x100_q85.jpg
+name:::AMD A6-3650
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/18090/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32883/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27705/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17485/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/15129/##
+price:::$ 67.662##$ 67.790##$ 69.990##$ 72.990##$ 73.131##
+description:::Frecuencia: 2600 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-aseries-apu-a63670-box-sm_jpg_100x100_q85.jpg
+name:::AMD A6-3670K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27771/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23381/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30526/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29708/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24618/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24853/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23888/##
+price:::$ 65.558##$ 68.997##$ 69.990##$ 71.295##$ 72.051##$ 73.230##$ 82.533##
+description:::Frecuencia: 2700 MHz++Núcleos: Quad-core++Cache: 4x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_8_jpg_100x100_q85.jpg
+name:::AMD A8-3850
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23311/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17487/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/16207/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/15422/##
+price:::$ 71.936##$ 79.990##$ 91.570##$ 94.025##
+description:::Frecuencia: 2900 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-aseries-apu-a83870-box-sm_jpg_100x100_q85.jpg
+name:::AMD A8-3870K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23155/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26402/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24619/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27965/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26387/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23889/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31514/##
+price:::$ 77.590##$ 84.499##$ 85.985##$ 89.909##$ 89.990##$ 94.025##$ 98.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 250
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19673/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/7651/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7720/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35759/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8991/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7374/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7475/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32485/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28575/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29280/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25503/##
+price:::$ 35.573##$ 37.820##$ 38.132##$ 38.359##$ 39.200##$ 40.500##$ 40.900##$ 40.990##$ 41.132##$ 41.700##$ 44.450##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 255
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7624/##
+price:::$ 35.955##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 260
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19118/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/11705/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18480/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28576/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7477/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29394/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/22509/##
+price:::$ 40.543##$ 41.990##$ 42.900##$ 43.407##$ 43.900##$ 44.135##$ 45.881##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 270
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27769/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23192/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30413/##
+price:::$ 43.226##$ 45.815##$ 47.045##
+description:::Frecuencia: 3400 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 445
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/16233/##
+price:::$ 53.200##
+description:::Frecuencia: 3100 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 450
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9807/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7376/##
+price:::$ 48.490##$ 50.900##
+description:::Frecuencia: 3200 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 455
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22571/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/21486/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16599/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25378/##
+price:::$ 54.300##$ 54.848##$ 58.083##$ 68.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_15_jpg_100x100_q85.jpg
+name:::AMD Athlon II X4 631
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26739/##
+price:::$ 43.650##
+description:::Frecuencia: 2600 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/product_1083_jpg_100x100_q85.jpg
+name:::AMD FX-4100
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/27259/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32490/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31924/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19967/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24854/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21523/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/29921/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29138/##
+price:::$ 71.989##$ 74.990##$ 75.555##$ 75.743##$ 76.620##$ 79.100##$ 82.992##$ 83.905##
+description:::Frecuencia: 3600 MHz++Núcleos: Quad-core++Cache: 2x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AMD_FX-4170_jpg_100x100_q85.jpg
+name:::AMD FX-4170
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34429/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26232/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27474/##
+price:::$ 82.690##$ 87.411##$ 90.940##
+description:::Frecuencia: 4200 MHz++Núcleos: Quad-core++Cache: 2x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_16_jpg_100x100_q85.jpg
+name:::AMD FX-6100
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27112/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19691/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/21276/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21333/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19968/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18334/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30930/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34984/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21524/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/21288/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32494/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29794/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31986/##
+price:::$ 82.273##$ 84.621##$ 84.695##$ 86.990##$ 88.802##$ 90.200##$ 91.690##$ 91.900##$ 94.500##$ 94.900##$ 94.990##$ 95.545##$ 96.551##
+description:::Frecuencia: 3300 MHz++Núcleos: Hexa-core++Cache: 6144 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/fx_6200_jpg_100x100_q85.jpg
+name:::AMD FX-6200
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/34008/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26482/##
+price:::$ 107.607##$ 126.090##
+description:::Frecuencia: 3800 MHz++Núcleos: Hexa-core++Cache: 3x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_16_jpg_100x100_q85.jpg
+name:::AMD FX-8120
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/22087/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/27038/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27770/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30478/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26862/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18335/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32496/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29275/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31515/##
+price:::$ 105.441##$ 107.990##$ 111.087##$ 113.900##$ 115.900##$ 115.910##$ 119.990##$ 120.765##$ 152.100##
+description:::Frecuencia: 3100 MHz++Núcleos: Octa-core++Cache: 2x 4096 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_21_jpg_100x100_q85.jpg
+name:::AMD FX-8150
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31729/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30830/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24855/##
+price:::$ 139.900##$ 139.990##$ 141.610##
+description:::Frecuencia: 3600 MHz++Núcleos: Octa-core++Cache: 2x 4096 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-960t-x4-amd-phenom-ii-x4-960t-am3-black-retail_jpg_100x100_q85.jpg
+name:::AMD Phenom II X4 960T Black Edition
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25587/##
+price:::$ 105.990##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 512 KB L2 / 6 MB L3++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Phenom_II_Black_1_png_100x100_q85.jpg
+name:::AMD Phenom II X4 965 Black Edition
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18824/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31338/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/32247/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31286/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20326/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8999/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7483/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32493/##
+price:::$ 76.036##$ 81.445##$ 81.690##$ 81.965##$ 82.900##$ 83.500##$ 84.900##$ 84.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 512 KB L2 / 6 MB L3++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sempron_jpg_100x100_q85.jpg
+name:::AMD Sempron 140
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/7733/##
+price:::$ 26.522##
+description:::Frecuencia: 2700 MHz++Núcleos: Single-core++Cache: 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sempron_jpg_100x100_q85.jpg
+name:::AMD Sempron 145
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30294/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/16194/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/16990/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/22463/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18019/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32482/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16429/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31987/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29555/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25376/##
+price:::$ 22.457##$ 22.990##$ 23.500##$ 23.690##$ 23.900##$ 23.990##$ 23.990##$ 24.024##$ 24.735##$ 29.990##
+description:::Frecuencia: 2800 MHz++Núcleos: Single-core++Cache: 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Celeron-430_jpg_100x100_q85.jpg
+name:::Intel Celeron 430
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18805/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28580/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29693/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7354/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24705/##
+price:::$ 25.197##$ 27.027##$ 27.150##$ 31.900##$ 36.990##
+description:::Frecuencia: 1800 MHz++Núcleos: Single-core++Cache: 512 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Celeron-430_1_jpg_100x100_q85.jpg
+name:::Intel Celeron E3400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31908/##
+price:::$ 33.000##
+description:::Frecuencia: 2600 MHz++Núcleos: Dual-core++Cache: 1024 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/procesador-intel-celeron-G440_jpg_100x100_q85.jpg
+name:::Intel Celeron G440
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30856/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27475/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21331/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32483/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30932/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29274/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25015/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30915/##
+price:::$ 21.769##$ 22.800##$ 22.990##$ 24.990##$ 25.100##$ 25.210##$ 26.700##$ 28.326##
+description:::Frecuencia: 1600 MHz++Núcleos: Single-core++Cache: 256 KB L2 / 1 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80623g530_jpg_100x100_q85.jpg
+name:::Intel Celeron G530
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19918/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/20518/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32484/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29466/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31056/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/20960/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25588/##
+price:::$ 27.319##$ 27.650##$ 28.990##$ 29.090##$ 30.900##$ 31.500##$ 37.990##
+description:::Frecuencia: 2400 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 2 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80623g530_jpg_100x100_q85.jpg
+name:::Intel Celeron G540
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19919/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29545/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30914/##
+price:::$ 34.368##$ 37.345##$ 40.707##
+description:::Frecuencia: 2500 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 2 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e4600_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E4600 OEM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26363/##
+price:::$ 41.900##
+description:::Frecuencia: 2400 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E7500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19202/##
+price:::$ 81.990##
+description:::Frecuencia: 2930 MHz++Núcleos: Dual-core++Cache: 3072 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E7600
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19205/##
+price:::$ 88.120##
+description:::Frecuencia: 3070 MHz++Núcleos: Dual-core++Cache: 3072 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E8400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7491/##
+price:::$ 103.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 6144 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2100
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34338/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19203/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32491/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30378/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11861/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32607/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25589/##
+price:::$ 73.900##$ 76.990##$ 77.990##$ 79.990##$ 88.532##$ 90.300##$ 104.990##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2105
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24891/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29805/##
+price:::$ 76.098##$ 82.935##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2120
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30857/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25536/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23315/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7361/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32894/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31390/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32492/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29119/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25994/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32606/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25590/##
+price:::$ 76.070##$ 79.990##$ 80.690##$ 80.900##$ 82.500##$ 82.900##$ 82.990##$ 85.350##$ 88.303##$ 92.990##$ 109.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2130
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20012/##
+price:::$ 96.160##
+description:::Frecuencia: 3400 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_jpg_100x100_q85.jpg
+name:::Intel Core i3-540
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/12339/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9162/##
+price:::$ 61.116##$ 66.900##$ 68.900##
+description:::Frecuencia: 3070 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_jpg_100x100_q85.jpg
+name:::Intel Core i3-560
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9496/##
+price:::$ 89.900##
+description:::Frecuencia: 3330 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2300
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13121/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11198/##
+price:::$ 120.270##$ 135.278##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2310
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21401/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24795/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34421/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25130/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23848/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32495/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24856/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7719/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30227/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29259/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32603/##
+price:::$ 111.591##$ 111.690##$ 112.900##$ 112.990##$ 113.900##$ 113.990##$ 116.390##$ 117.009##$ 119.900##$ 125.615##$ 138.950##
+description:::Frecuencia: 2900 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2320
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30858/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19693/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34953/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/20227/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29565/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32497/##
+price:::$ 118.435##$ 118.575##$ 119.990##$ 125.367##$ 127.555##$ 127.990##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2400
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7795/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/12512/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18814/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23501/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32498/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7363/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30381/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18502/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29066/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/17591/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31536/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10931/##
+price:::$ 119.621##$ 121.990##$ 123.576##$ 128.690##$ 129.190##$ 129.900##$ 129.990##$ 133.900##$ 135.315##$ 135.320##$ 147.200##$ 148.732##
+description:::Frecuencia: 3100 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19694/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21231/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19209/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12401/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30363/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31234/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32501/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29389/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13272/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7364/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/18359/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31521/##
+price:::$ 133.259##$ 134.068##$ 138.690##$ 139.900##$ 139.990##$ 141.900##$ 143.590##$ 145.015##$ 145.490##$ 145.900##$ 153.693##$ 165.680##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/intel_core_i5_2500k_3_3ghz_box_socket_1155_jpg_100x100_q85.jpg
+name:::Intel Core i5-2500K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19696/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/9362/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24321/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32503/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26166/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31529/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25592/##
+price:::$ 139.491##$ 143.650##$ 151.310##$ 154.990##$ 155.900##$ 170.000##$ 195.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3450
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30943/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30454/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34954/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34339/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31420/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32600/##
+price:::$ 124.797##$ 125.990##$ 130.990##$ 130.990##$ 131.900##$ 141.038##$ 155.500##
+description:::Frecuencia: 3100 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3550
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30453/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27455/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31421/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32502/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30406/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32601/##
+price:::$ 135.989##$ 143.585##$ 146.261##$ 149.990##$ 156.160##$ 164.900##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3570K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30463/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/35121/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27674/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32504/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32884/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30404/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/34157/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32599/##
+price:::$ 158.179##$ 159.990##$ 162.105##$ 169.990##$ 170.230##$ 171.680##$ 187.109##$ 195.900##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-650
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19206/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/10499/##
+price:::$ 120.990##$ 124.322##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_unlcoked_png_100x100_q85.jpg
+name:::Intel Core i5-655K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7643/##
+price:::$ 97.210##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-661
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9808/##
+price:::$ 129.580##
+description:::Frecuencia: 3330 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-670
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19695/##
+price:::$ 109.731##
+description:::Frecuencia: 3470 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-680
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7644/##
+price:::$ 186.936##
+description:::Frecuencia: 3600 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-760
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7642/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32500/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/9361/##
+price:::$ 120.344##$ 127.990##$ 134.247##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_locked_jpg_100x100_q85.jpg
+name:::Intel Core i7-2600
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19464/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19698/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13436/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7365/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19214/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/16719/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12402/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32506/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29710/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27924/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31531/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/15096/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25379/##
+price:::$ 192.736##$ 193.487##$ 196.420##$ 197.900##$ 198.690##$ 198.900##$ 199.900##$ 199.990##$ 208.540##$ 211.557##$ 215.990##$ 228.062##$ 266.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_unlocked_png_100x100_q85.jpg
+name:::Intel Core i7-2600K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20328/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/9887/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/8587/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26671/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30304/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15186/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29286/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32507/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25593/##
+price:::$ 203.847##$ 203.875##$ 204.766##$ 208.974##$ 213.880##$ 218.989##$ 221.645##$ 223.990##$ 284.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_unlocked_png_100x100_q85.jpg
+name:::Intel Core i7-2700K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23383/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24621/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/31257/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25358/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34955/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29090/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34448/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25594/##
+price:::$ 214.850##$ 220.055##$ 222.900##$ 223.343##$ 224.900##$ 230.850##$ 246.500##$ 305.990##
+description:::Frecuencia: 3500 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/i7-3820_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-3770
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31728/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35116/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34447/##
+price:::$ 219.900##$ 219.990##$ 232.000##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 1024 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3770k_jpg_100x100_q85.jpg
+name:::Intel Core i7-3770K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30179/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/35324/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32508/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29306/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30946/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27676/##
+price:::$ 225.468##$ 225.990##$ 229.990##$ 233.285##$ 246.441##$ 254.667##
+description:::Frecuencia: 3500 MHz++Núcleos: Quad-core++Cache: 1024 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/i7-3820_jpg_100x100_q85.jpg
+name:::Intel Core i7-3820
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30728/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26234/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30446/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28379/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32509/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31516/##
+price:::$ 200.391##$ 205.521##$ 207.570##$ 207.990##$ 229.990##$ 271.000##
+description:::Frecuencia: 3600 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 10 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1156-2036-thickbox_jpg_100x100_q85.jpg
+name:::Intel Core i7-3930K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31244/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31389/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32510/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31519/##
+price:::$ 390.867##$ 404.005##$ 419.990##$ 699.000##
+description:::Frecuencia: 3200 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/intel-core-i7-processor-box-1_jpg_100x100_q85.jpg
+name:::Intel Core i7-3960X
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24325/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30730/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31356/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34064/##
+price:::$ 675.171##$ 692.520##$ 715.850##$ 729.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 15 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/core_i7_unlocked_jpg_100x100_q85.jpg
+name:::Intel Core i7-875K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7504/##
+price:::$ 199.900##
+description:::Frecuencia: 2930 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i7_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-930
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7505/##
+price:::$ 157.900##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i7_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-960
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/9555/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32505/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24520/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19929/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31377/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31525/##
+price:::$ 169.289##$ 179.990##$ 187.800##$ 200.627##$ 207.570##$ 213.990##
+description:::Frecuencia: 3200 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Ci7_ext_Gulftown_jpg_100x100_q85.jpg
+name:::Intel Core i7-980
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31523/##
+price:::$ 429.700##
+description:::Frecuencia: 3330 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Ci7_ext_Gulftown_jpg_100x100_q85.jpg
+name:::Intel Core i7-990X
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19699/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/11127/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16673/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19466/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31351/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31538/##
+price:::$ 597.051##$ 633.990##$ 671.718##$ 697.661##$ 721.195##$ 780.990##
+description:::Frecuencia: 3470 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34385/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34296/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34321/##
+price:::$ 41.292##$ 44.226##$ 45.105##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5500
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7715/##
+price:::$ 193.274##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5700
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16591/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8992/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32487/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31534/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7355/##
+price:::$ 42.167##$ 43.800##$ 44.990##$ 45.380##$ 61.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_1_jpg_100x100_q85.jpg
+name:::Intel Pentium E6700
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31533/##
+price:::$ 60.690##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G620
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18831/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/15278/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15184/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/13937/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21547/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19197/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32486/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32604/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16428/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29198/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19976/##
+price:::$ 38.061##$ 38.790##$ 39.990##$ 40.500##$ 40.900##$ 41.800##$ 41.990##$ 42.800##$ 42.900##$ 44.610##$ 46.747##
+description:::Frecuencia: 2600 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G630
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34083/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34337/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34022/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24861/##
+price:::$ 40.730##$ 43.900##$ 44.135##$ 44.990##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_2_jpg_100x100_q85.jpg
+name:::Intel Pentium G6950
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7637/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/9501/##
+price:::$ 50.143##$ 58.500##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G840
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16593/##
+price:::$ 46.937##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G850
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27210/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32489/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15183/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/15271/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29766/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30923/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32605/##
+price:::$ 48.726##$ 54.990##$ 55.989##$ 58.900##$ 59.160##$ 63.038##$ 63.250##
+description:::Frecuencia: 2900 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1089-1884_jpg_100x100_q85.jpg
+name:::Intel Xeon E3-1240
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31526/##
+price:::$ 237.900##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1027-1767_jpg_100x100_q85.jpg
+name:::Intel Xeon E3-1270
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31528/##
+price:::$ 295.000##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/%C3%ADndice_8_jpeg_100x100_q85.jpg
+name:::Intel Xeon E5-2609
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31510/##
+price:::$ 255.450##
+description:::Frecuencia: 2400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 10 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/%C3%ADndice_7_jpeg_100x100_q85.jpg
+name:::Intel Xeon E5-2620
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31509/##
+price:::$ 336.845##
+description:::Frecuencia: 2000 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 15 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Xeon-Retail-Box_1_jpg_100x100_q85.jpg
+name:::Intel Xeon E5405
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27547/##
+price:::$ 275.990##
+description:::Frecuencia: 2000 MHz++Núcleos: Quad-core++Cache: 2x 6144 KB L2++Socket: LGA 771++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Xeon-Retail-Box_1_jpg_100x100_q85.jpg
+name:::Intel Xeon E5410
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19213/##
+price:::$ 211.582##
+description:::Frecuencia: 2330 MHz++Núcleos: Quad-core++Cache: 2x 6144 KB L2++Socket: LGA 771++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5503
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30337/##
+price:::$ 123.128##
+description:::Frecuencia: 2000 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5504
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35762/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29780/##
+price:::$ 203.271##$ 208.540##
+description:::Frecuencia: 2000 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5506
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31128/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31537/##
+price:::$ 223.026##$ 287.800##
+description:::Frecuencia: 2130 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5520
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34620/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34981/##
+price:::$ 396.720##$ 401.310##
+description:::Frecuencia: 2270 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5530
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31134/##
+price:::$ 504.699##
+description:::Frecuencia: 2400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5540
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31135/##
+price:::$ 620.115##
+description:::Frecuencia: 2530 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_2_JPG_100x100_q85.jpg
+name:::Intel Xeon E5606
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18859/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29126/##
+price:::$ 238.650##$ 245.895##
+description:::Frecuencia: 2130 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailpng_png_100x100_q85.jpg
+name:::AMD A4-3300
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23129/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/18453/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24850/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23191/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23099/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26401/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34983/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23187/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29847/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/22510/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25585/##
+price:::$ 35.662##$ 39.700##$ 39.760##$ 39.890##$ 39.990##$ 39.990##$ 39.990##$ 40.222##$ 41.225##$ 50.703##$ 52.990##
+description:::Frecuencia: 2500 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailpng_png_100x100_q85.jpg
+name:::AMD A4-3400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35787/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/17761/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24851/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29498/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26030/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19187/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17620/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25510/##
+price:::$ 39.297##$ 39.990##$ 42.200##$ 42.670##$ 43.990##$ 44.890##$ 51.714##$ 56.635##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd_a6_box_1_jpeg_100x100_q85.jpg
+name:::AMD A6-3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20697/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17484/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18333/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/17621/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25586/##
+price:::$ 47.779##$ 49.990##$ 50.930##$ 60.072##$ 64.990##
+description:::Frecuencia: 2100 MHz++Núcleos: Tri-core++Cache: 3072 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd_a6_box_jpeg_100x100_q85.jpg
+name:::AMD A6-3650
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/18090/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32883/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27705/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17485/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/15129/##
+price:::$ 67.662##$ 67.790##$ 69.990##$ 72.990##$ 73.131##
+description:::Frecuencia: 2600 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-aseries-apu-a63670-box-sm_jpg_100x100_q85.jpg
+name:::AMD A6-3670K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27771/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23381/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30526/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29708/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24618/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24853/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23888/##
+price:::$ 65.558##$ 68.997##$ 69.990##$ 71.295##$ 72.051##$ 73.230##$ 82.533##
+description:::Frecuencia: 2700 MHz++Núcleos: Quad-core++Cache: 4x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_8_jpg_100x100_q85.jpg
+name:::AMD A8-3850
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/23311/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17487/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/16207/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/15422/##
+price:::$ 71.936##$ 79.990##$ 91.570##$ 94.025##
+description:::Frecuencia: 2900 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-aseries-apu-a83870-box-sm_jpg_100x100_q85.jpg
+name:::AMD A8-3870K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23155/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26402/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24619/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27965/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26387/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23889/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31514/##
+price:::$ 77.590##$ 84.499##$ 85.985##$ 89.909##$ 89.990##$ 94.025##$ 98.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 1024 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 250
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19673/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/7651/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7720/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35759/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8991/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7374/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7475/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32485/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28575/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29280/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25503/##
+price:::$ 35.573##$ 37.820##$ 38.132##$ 38.359##$ 39.200##$ 40.500##$ 40.900##$ 40.990##$ 41.132##$ 41.700##$ 44.450##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 255
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7624/##
+price:::$ 35.955##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 260
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19118/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/11705/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18480/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28576/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7477/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29394/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/22509/##
+price:::$ 40.543##$ 41.990##$ 42.900##$ 43.407##$ 43.900##$ 44.135##$ 45.881##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X2 270
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27769/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23192/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30413/##
+price:::$ 43.226##$ 45.815##$ 47.045##
+description:::Frecuencia: 3400 MHz++Núcleos: Dual-core++Cache: 2x 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 445
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/16233/##
+price:::$ 53.200##
+description:::Frecuencia: 3100 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 450
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9807/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7376/##
+price:::$ 48.490##$ 50.900##
+description:::Frecuencia: 3200 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Athlon_II_jpg_100x100_q85.jpg
+name:::AMD Athlon II X3 455
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22571/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/21486/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16599/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25378/##
+price:::$ 54.300##$ 54.848##$ 58.083##$ 68.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Tri-core++Cache: 3x 512 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_15_jpg_100x100_q85.jpg
+name:::AMD Athlon II X4 631
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26739/##
+price:::$ 43.650##
+description:::Frecuencia: 2600 MHz++Núcleos: Quad-core++Cache: 4096 KB L2++Socket: FM1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/product_1083_jpg_100x100_q85.jpg
+name:::AMD FX-4100
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/27259/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32490/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31924/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19967/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24854/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21523/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/29921/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29138/##
+price:::$ 71.989##$ 74.990##$ 75.555##$ 75.743##$ 76.620##$ 79.100##$ 82.992##$ 83.905##
+description:::Frecuencia: 3600 MHz++Núcleos: Quad-core++Cache: 2x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AMD_FX-4170_jpg_100x100_q85.jpg
+name:::AMD FX-4170
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34429/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26232/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27474/##
+price:::$ 82.690##$ 87.411##$ 90.940##
+description:::Frecuencia: 4200 MHz++Núcleos: Quad-core++Cache: 2x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_16_jpg_100x100_q85.jpg
+name:::AMD FX-6100
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27112/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19691/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/21276/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21333/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19968/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18334/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30930/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34984/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21524/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/21288/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32494/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29794/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31986/##
+price:::$ 82.273##$ 84.621##$ 84.695##$ 86.990##$ 88.802##$ 90.200##$ 91.690##$ 91.900##$ 94.500##$ 94.900##$ 94.990##$ 95.545##$ 96.551##
+description:::Frecuencia: 3300 MHz++Núcleos: Hexa-core++Cache: 6144 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/fx_6200_jpg_100x100_q85.jpg
+name:::AMD FX-6200
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/34008/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26482/##
+price:::$ 107.607##$ 126.090##
+description:::Frecuencia: 3800 MHz++Núcleos: Hexa-core++Cache: 3x 2048 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_16_jpg_100x100_q85.jpg
+name:::AMD FX-8120
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/22087/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/27038/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27770/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30478/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26862/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/18335/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32496/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29275/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31515/##
+price:::$ 105.441##$ 107.990##$ 111.087##$ 113.900##$ 115.900##$ 115.910##$ 119.990##$ 120.765##$ 152.100##
+description:::Frecuencia: 3100 MHz++Núcleos: Octa-core++Cache: 2x 4096 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_21_jpg_100x100_q85.jpg
+name:::AMD FX-8150
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31729/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30830/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24855/##
+price:::$ 139.900##$ 139.990##$ 141.610##
+description:::Frecuencia: 3600 MHz++Núcleos: Octa-core++Cache: 2x 4096 KB L2 / 8 MB L3++Socket: AM3+++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/amd-960t-x4-amd-phenom-ii-x4-960t-am3-black-retail_jpg_100x100_q85.jpg
+name:::AMD Phenom II X4 960T Black Edition
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25587/##
+price:::$ 105.990##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 512 KB L2 / 6 MB L3++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Phenom_II_Black_1_png_100x100_q85.jpg
+name:::AMD Phenom II X4 965 Black Edition
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18824/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31338/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/32247/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31286/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20326/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8999/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7483/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32493/##
+price:::$ 76.036##$ 81.445##$ 81.690##$ 81.965##$ 82.900##$ 83.500##$ 84.900##$ 84.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 512 KB L2 / 6 MB L3++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sempron_jpg_100x100_q85.jpg
+name:::AMD Sempron 140
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/7733/##
+price:::$ 26.522##
+description:::Frecuencia: 2700 MHz++Núcleos: Single-core++Cache: 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sempron_jpg_100x100_q85.jpg
+name:::AMD Sempron 145
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30294/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/16194/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/16990/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/22463/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18019/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32482/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16429/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31987/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29555/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25376/##
+price:::$ 22.457##$ 22.990##$ 23.500##$ 23.690##$ 23.900##$ 23.990##$ 23.990##$ 24.024##$ 24.735##$ 29.990##
+description:::Frecuencia: 2800 MHz++Núcleos: Single-core++Cache: 1024 KB L2++Socket: AM3++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Celeron-430_jpg_100x100_q85.jpg
+name:::Intel Celeron 430
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18805/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28580/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29693/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7354/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24705/##
+price:::$ 25.197##$ 27.027##$ 27.150##$ 31.900##$ 36.990##
+description:::Frecuencia: 1800 MHz++Núcleos: Single-core++Cache: 512 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Celeron-430_1_jpg_100x100_q85.jpg
+name:::Intel Celeron E3400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31908/##
+price:::$ 33.000##
+description:::Frecuencia: 2600 MHz++Núcleos: Dual-core++Cache: 1024 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/procesador-intel-celeron-G440_jpg_100x100_q85.jpg
+name:::Intel Celeron G440
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30856/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27475/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21331/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32483/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30932/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29274/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25015/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30915/##
+price:::$ 21.769##$ 22.800##$ 22.990##$ 24.990##$ 25.100##$ 25.210##$ 26.700##$ 28.326##
+description:::Frecuencia: 1600 MHz++Núcleos: Single-core++Cache: 256 KB L2 / 1 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80623g530_jpg_100x100_q85.jpg
+name:::Intel Celeron G530
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19918/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/20518/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32484/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29466/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31056/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/20960/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25588/##
+price:::$ 27.319##$ 27.650##$ 28.990##$ 29.090##$ 30.900##$ 31.500##$ 37.990##
+description:::Frecuencia: 2400 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 2 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80623g530_jpg_100x100_q85.jpg
+name:::Intel Celeron G540
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19919/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29545/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30914/##
+price:::$ 34.368##$ 37.345##$ 40.707##
+description:::Frecuencia: 2500 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 2 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e4600_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E4600 OEM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26363/##
+price:::$ 41.900##
+description:::Frecuencia: 2400 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E7500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19202/##
+price:::$ 81.990##
+description:::Frecuencia: 2930 MHz++Núcleos: Dual-core++Cache: 3072 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E7600
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19205/##
+price:::$ 88.120##
+description:::Frecuencia: 3070 MHz++Núcleos: Dual-core++Cache: 3072 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_2__Duo_2_jpg_100x100_q85.jpg
+name:::Intel Core 2 Duo E8400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7491/##
+price:::$ 103.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 6144 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2100
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34338/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19203/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32491/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30378/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11861/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32607/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25589/##
+price:::$ 73.900##$ 76.990##$ 77.990##$ 79.990##$ 88.532##$ 90.300##$ 104.990##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2105
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24891/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29805/##
+price:::$ 76.098##$ 82.935##
+description:::Frecuencia: 3100 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2120
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30857/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25536/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23315/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7361/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32894/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31390/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32492/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29119/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/25994/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32606/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25590/##
+price:::$ 76.070##$ 79.990##$ 80.690##$ 80.900##$ 82.500##$ 82.900##$ 82.990##$ 85.350##$ 88.303##$ 92.990##$ 109.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i3-2130
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20012/##
+price:::$ 96.160##
+description:::Frecuencia: 3400 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_jpg_100x100_q85.jpg
+name:::Intel Core i3-540
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/12339/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9162/##
+price:::$ 61.116##$ 66.900##$ 68.900##
+description:::Frecuencia: 3070 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i3_jpg_100x100_q85.jpg
+name:::Intel Core i3-560
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9496/##
+price:::$ 89.900##
+description:::Frecuencia: 3330 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2300
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13121/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/11198/##
+price:::$ 120.270##$ 135.278##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2310
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21401/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24795/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34421/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25130/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23848/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32495/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24856/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7719/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30227/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29259/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32603/##
+price:::$ 111.591##$ 111.690##$ 112.900##$ 112.990##$ 113.900##$ 113.990##$ 116.390##$ 117.009##$ 119.900##$ 125.615##$ 138.950##
+description:::Frecuencia: 2900 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2320
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30858/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19693/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34953/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/20227/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29565/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32497/##
+price:::$ 118.435##$ 118.575##$ 119.990##$ 125.367##$ 127.555##$ 127.990##
+description:::Frecuencia: 3000 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2400
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7795/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/12512/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18814/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23501/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32498/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7363/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30381/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/18502/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29066/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/17591/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31536/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10931/##
+price:::$ 119.621##$ 121.990##$ 123.576##$ 128.690##$ 129.190##$ 129.900##$ 129.990##$ 133.900##$ 135.315##$ 135.320##$ 147.200##$ 148.732##
+description:::Frecuencia: 3100 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Core i5-2500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19694/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21231/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19209/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12401/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30363/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/31234/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32501/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29389/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13272/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7364/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/18359/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31521/##
+price:::$ 133.259##$ 134.068##$ 138.690##$ 139.900##$ 139.990##$ 141.900##$ 143.590##$ 145.015##$ 145.490##$ 145.900##$ 153.693##$ 165.680##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/intel_core_i5_2500k_3_3ghz_box_socket_1155_jpg_100x100_q85.jpg
+name:::Intel Core i5-2500K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19696/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/9362/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24321/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32503/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26166/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31529/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25592/##
+price:::$ 139.491##$ 143.650##$ 151.310##$ 154.990##$ 155.900##$ 170.000##$ 195.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3450
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30943/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30454/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34954/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34339/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31420/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32600/##
+price:::$ 124.797##$ 125.990##$ 130.990##$ 130.990##$ 131.900##$ 141.038##$ 155.500##
+description:::Frecuencia: 3100 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3550
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30453/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27455/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31421/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32502/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30406/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32601/##
+price:::$ 135.989##$ 143.585##$ 146.261##$ 149.990##$ 156.160##$ 164.900##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bx80637i53450-1_1_1_png_100x100_q85.jpg
+name:::Intel Core i5-3570K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30463/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/35121/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27674/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32504/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32884/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30404/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/34157/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32599/##
+price:::$ 158.179##$ 159.990##$ 162.105##$ 169.990##$ 170.230##$ 171.680##$ 187.109##$ 195.900##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 6 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-650
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19206/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/10499/##
+price:::$ 120.990##$ 124.322##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_unlcoked_png_100x100_q85.jpg
+name:::Intel Core i5-655K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7643/##
+price:::$ 97.210##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-661
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9808/##
+price:::$ 129.580##
+description:::Frecuencia: 3330 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-670
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19695/##
+price:::$ 109.731##
+description:::Frecuencia: 3470 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-680
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7644/##
+price:::$ 186.936##
+description:::Frecuencia: 3600 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i5_jpg_100x100_q85.jpg
+name:::Intel Core i5-760
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7642/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32500/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/9361/##
+price:::$ 120.344##$ 127.990##$ 134.247##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_locked_jpg_100x100_q85.jpg
+name:::Intel Core i7-2600
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19464/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19698/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13436/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7365/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19214/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/16719/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12402/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32506/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29710/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27924/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31531/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/15096/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25379/##
+price:::$ 192.736##$ 193.487##$ 196.420##$ 197.900##$ 198.690##$ 198.900##$ 199.900##$ 199.990##$ 208.540##$ 211.557##$ 215.990##$ 228.062##$ 266.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_unlocked_png_100x100_q85.jpg
+name:::Intel Core i7-2600K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20328/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/9887/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/8587/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26671/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30304/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15186/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29286/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32507/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25593/##
+price:::$ 203.847##$ 203.875##$ 204.766##$ 208.974##$ 213.880##$ 218.989##$ 221.645##$ 223.990##$ 284.990##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sandy_Bridge_Core_i7_unlocked_png_100x100_q85.jpg
+name:::Intel Core i7-2700K
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23383/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24621/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/31257/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25358/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34955/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29090/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34448/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25594/##
+price:::$ 214.850##$ 220.055##$ 222.900##$ 223.343##$ 224.900##$ 230.850##$ 246.500##$ 305.990##
+description:::Frecuencia: 3500 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/i7-3820_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-3770
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31728/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/35116/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34447/##
+price:::$ 219.900##$ 219.990##$ 232.000##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 1024 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3770k_jpg_100x100_q85.jpg
+name:::Intel Core i7-3770K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30179/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/35324/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32508/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29306/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30946/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/27676/##
+price:::$ 225.468##$ 225.990##$ 229.990##$ 233.285##$ 246.441##$ 254.667##
+description:::Frecuencia: 3500 MHz++Núcleos: Quad-core++Cache: 1024 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/i7-3820_jpg_100x100_q85.jpg
+name:::Intel Core i7-3820
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30728/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26234/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30446/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28379/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32509/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31516/##
+price:::$ 200.391##$ 205.521##$ 207.570##$ 207.990##$ 229.990##$ 271.000##
+description:::Frecuencia: 3600 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 10 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1156-2036-thickbox_jpg_100x100_q85.jpg
+name:::Intel Core i7-3930K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31244/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31389/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32510/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31519/##
+price:::$ 390.867##$ 404.005##$ 419.990##$ 699.000##
+description:::Frecuencia: 3200 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/intel-core-i7-processor-box-1_jpg_100x100_q85.jpg
+name:::Intel Core i7-3960X
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24325/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30730/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31356/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34064/##
+price:::$ 675.171##$ 692.520##$ 715.850##$ 729.990##
+description:::Frecuencia: 3300 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 15 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/core_i7_unlocked_jpg_100x100_q85.jpg
+name:::Intel Core i7-875K
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7504/##
+price:::$ 199.900##
+description:::Frecuencia: 2930 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i7_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-930
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7505/##
+price:::$ 157.900##
+description:::Frecuencia: 2800 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Core_i7_1_jpg_100x100_q85.jpg
+name:::Intel Core i7-960
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/9555/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32505/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24520/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19929/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31377/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31525/##
+price:::$ 169.289##$ 179.990##$ 187.800##$ 200.627##$ 207.570##$ 213.990##
+description:::Frecuencia: 3200 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Ci7_ext_Gulftown_jpg_100x100_q85.jpg
+name:::Intel Core i7-980
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31523/##
+price:::$ 429.700##
+description:::Frecuencia: 3330 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Ci7_ext_Gulftown_jpg_100x100_q85.jpg
+name:::Intel Core i7-990X
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19699/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/11127/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16673/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19466/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31351/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31538/##
+price:::$ 597.051##$ 633.990##$ 671.718##$ 697.661##$ 721.195##$ 780.990##
+description:::Frecuencia: 3470 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 12 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5400
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34385/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34296/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34321/##
+price:::$ 41.292##$ 44.226##$ 45.105##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5500
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7715/##
+price:::$ 193.274##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_jpg_100x100_q85.jpg
+name:::Intel Pentium E5700
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16591/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/8992/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32487/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31534/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7355/##
+price:::$ 42.167##$ 43.800##$ 44.990##$ 45.380##$ 61.900##
+description:::Frecuencia: 3000 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_1_jpg_100x100_q85.jpg
+name:::Intel Pentium E6700
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31533/##
+price:::$ 60.690##
+description:::Frecuencia: 3200 MHz++Núcleos: Dual-core++Cache: 2048 KB L2++Socket: LGA 775++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G620
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18831/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/15278/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15184/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/13937/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21547/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19197/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32486/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32604/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16428/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29198/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19976/##
+price:::$ 38.061##$ 38.790##$ 39.990##$ 40.500##$ 40.900##$ 41.800##$ 41.990##$ 42.800##$ 42.900##$ 44.610##$ 46.747##
+description:::Frecuencia: 2600 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G630
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34083/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/34337/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34022/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24861/##
+price:::$ 40.730##$ 43.900##$ 44.135##$ 44.990##
+description:::Frecuencia: 2700 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-E5700-Dual-Core-3.0GHz-Processor_Picture_1_enl_2_jpg_100x100_q85.jpg
+name:::Intel Pentium G6950
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7637/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/9501/##
+price:::$ 50.143##$ 58.500##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1156++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G840
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16593/##
+price:::$ 46.937##
+description:::Frecuencia: 2800 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Pentium_Sandy_Bridge_jpg_100x100_q85.jpg
+name:::Intel Pentium G850
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27210/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32489/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15183/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/15271/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29766/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30923/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32605/##
+price:::$ 48.726##$ 54.990##$ 55.989##$ 58.900##$ 59.160##$ 63.038##$ 63.250##
+description:::Frecuencia: 2900 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 3 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1089-1884_jpg_100x100_q85.jpg
+name:::Intel Xeon E3-1240
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31526/##
+price:::$ 237.900##
+description:::Frecuencia: 3300 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1027-1767_jpg_100x100_q85.jpg
+name:::Intel Xeon E3-1270
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31528/##
+price:::$ 295.000##
+description:::Frecuencia: 3400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1155++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/%C3%ADndice_8_jpeg_100x100_q85.jpg
+name:::Intel Xeon E5-2609
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31510/##
+price:::$ 255.450##
+description:::Frecuencia: 2400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 10 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/%C3%ADndice_7_jpeg_100x100_q85.jpg
+name:::Intel Xeon E5-2620
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31509/##
+price:::$ 336.845##
+description:::Frecuencia: 2000 MHz++Núcleos: Hexa-core++Cache: 6x 256 KB L2 / 15 MB L3++Socket: LGA 2011++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Xeon-Retail-Box_1_jpg_100x100_q85.jpg
+name:::Intel Xeon E5405
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27547/##
+price:::$ 275.990##
+description:::Frecuencia: 2000 MHz++Núcleos: Quad-core++Cache: 2x 6144 KB L2++Socket: LGA 771++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-Xeon-Retail-Box_1_jpg_100x100_q85.jpg
+name:::Intel Xeon E5410
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19213/##
+price:::$ 211.582##
+description:::Frecuencia: 2330 MHz++Núcleos: Quad-core++Cache: 2x 6144 KB L2++Socket: LGA 771++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5503
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30337/##
+price:::$ 123.128##
+description:::Frecuencia: 2000 MHz++Núcleos: Dual-core++Cache: 2x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5504
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/35762/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29780/##
+price:::$ 203.271##$ 208.540##
+description:::Frecuencia: 2000 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5506
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31128/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31537/##
+price:::$ 223.026##$ 287.800##
+description:::Frecuencia: 2130 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 4 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5520
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34620/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34981/##
+price:::$ 396.720##$ 401.310##
+description:::Frecuencia: 2270 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5530
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31134/##
+price:::$ 504.699##
+description:::Frecuencia: 2400 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_JPG_100x100_q85.jpg
+name:::Intel Xeon E5540
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31135/##
+price:::$ 620.115##
+description:::Frecuencia: 2530 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Xeon_2_JPG_100x100_q85.jpg
+name:::Intel Xeon E5606
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18859/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29126/##
+price:::$ 238.650##$ 245.895##
+description:::Frecuencia: 2130 MHz++Núcleos: Quad-core++Cache: 4x 256 KB L2 / 8 MB L3++Socket: LGA 1366++
+######

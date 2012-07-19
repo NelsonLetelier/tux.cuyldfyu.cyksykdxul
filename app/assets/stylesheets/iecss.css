@@ -1,0 +1,9 @@
+img, div { behavior: url(iepngfix.htc) }
+div.product_img{  
+  height: 100px;
+}
+
+img.product_img{    
+  max-width: 85px;
+  max-height: 95px;
+}

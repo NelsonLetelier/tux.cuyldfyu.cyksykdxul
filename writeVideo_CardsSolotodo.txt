@@ -1,0 +1,1500 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1218-2220-thickbox_jpg_100x100_q85.jpg
+name:::AMD V3900 (V3900)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32609/##
+price:::$ 97.990##
+description:::GPU: AMD FirePro V3900++Memoria: 1024 MB GDDR3 (128 bit)++Frecuencias: 650 MHz core / 0 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1219-2221_jpg_100x100_q85.jpg
+name:::AMD V4900 (V4900)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32608/##
+price:::$ 138.000##
+description:::GPU: AMD FirePro V4900++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 0 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_G_210_png_100x100_q85.jpg
+name:::ASUS G 210 (EN210 SILENT/DI/1GD3/V2(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32784/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25845/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32094/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25031/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/10566/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/25636/##
+price:::$ 24.154##$ 24.820##$ 26.675##$ 26.900##$ 27.500##$ 28.990##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 589 MHz core / 1402 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GT_430_png_100x100_q85.jpg
+name:::ASUS GT 430 (ENGT430/DI/1GD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32334/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30683/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24546/##
+price:::$ 38.790##$ 39.800##$ 41.841##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/84278259_jpg_100x100_q85.jpg
+name:::ASUS GT 440 (ENGT440 DC SL/DI/1GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32758/##
+price:::$ 49.021##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1410_1_jpg_100x100_q85.jpg
+name:::ASUS GT 440 (ENGT440/DI/1GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26004/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25124/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26489/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31647/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25032/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32091/##
+price:::$ 46.398##$ 49.989##$ 50.500##$ 50.890##$ 51.900##$ 53.835##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB GDDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GT_440_png_100x100_q85.jpg
+name:::ASUS GT 440 (ENGT440/DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32234/##
+price:::$ 49.950##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 822 MHz core / 1644 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GT_520_jpg_100x100_q85.jpg
+name:::ASUS GT 520 (ENGT520 SILENT/DI/1GD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26003/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27840/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/25637/##
+price:::$ 33.471##$ 33.500##$ 33.890##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ENGT520-SL-DI-1GD3-V2_jpg_100x100_q85.jpg
+name:::ASUS GT 520 (ENGT520-SL-DI-1GD3-V2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31641/##
+price:::$ 31.990##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1330 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1MDG2VusCWV68Hb3_500_jpg_100x100_q85.jpg
+name:::ASUS GT 610 (GT610-SL-1GD3-L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31942/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31933/##
+price:::$ 35.889##$ 37.088##
+description:::GPU: NVIDIA GeForce GT 610++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/uOP2hs9dSaKUxkcE_500_jpg_100x100_q85.jpg
+name:::ASUS GT 620 (GT620-1GD3-L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31934/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31944/##
+price:::$ 42.834##$ 44.164##
+description:::GPU: NVIDIA GeForce GT 620++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/177203_png_100x100_q85.jpg
+name:::ASUS GT 630 (GT630-2GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31935/##
+price:::$ 53.281##
+description:::GPU: NVIDIA GeForce GT 630++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 910 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX_550_jpg_100x100_q85.jpg
+name:::ASUS GTX 550 Ti (ENGTX550 Ti DC TOP/DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25727/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14505/##
+price:::$ 96.246##$ 110.090##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 975 MHz core / 1950 MHz shaders / 1026 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_16_jpg_100x100_q85.jpg
+name:::ASUS GTX 550 Ti (ENGTX550 Ti DC/DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23200/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/27447/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31651/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28556/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29931/##
+price:::$ 93.700##$ 93.900##$ 94.090##$ 95.186##$ 96.515##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 910 MHz core / 1820 MHz shaders / 1026 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX_550_1_jpg_100x100_q85.jpg
+name:::ASUS GTX 550 Ti (ENGTX550 Ti/DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21185/##
+price:::$ 91.900##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1026 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_27_jpg_100x100_q85.jpg
+name:::ASUS GTX 560 (ENGTX560 DC/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21186/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14963/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31653/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28560/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29491/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31543/##
+price:::$ 129.900##$ 129.900##$ 135.290##$ 140.049##$ 141.610##$ 152.700##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX_560_jpg_100x100_q85.jpg
+name:::ASUS GTX 560 (ENGTX560 DCII OC/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21484/##
+price:::$ 146.960##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 850 MHz core / 1700 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1390_1_jpg_100x100_q85.jpg
+name:::ASUS GTX 560 Ti (DC/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25123/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25033/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29079/##
+price:::$ 155.990##$ 162.900##$ 173.620##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX560_jpg_100x100_q85.jpg
+name:::ASUS GTX 560 Ti (ENGTX560 Ti DCII TOP/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31727/##
+price:::$ 176.400##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX560_jpg_100x100_q85.jpg
+name:::ASUS GTX 560 Ti (ENGTX560 TI DCII/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25400/##
+price:::$ 158.261##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 830 MHz core / 1660 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX_570_jpg_100x100_q85.jpg
+name:::ASUS GTX 570 (ENGTX570 DCII/2DIS/1280MD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32236/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/17279/##
+price:::$ 251.570##$ 259.900##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 742 MHz core / 1484 MHz shaders / 950 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_GTX_580_jpg_100x100_q85.jpg
+name:::ASUS GTX 580 (ENGTX580 DCII/2DIS/1536MD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31660/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25967/##
+price:::$ 290.690##$ 339.800##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 782 MHz core / 1544 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_5450_png_100x100_q85.jpg
+name:::ASUS HD 5450 (EAH5450 SILENT/DI/1GD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/10567/##
+price:::$ 28.200##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 450 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6450_jpg_100x100_q85.jpg
+name:::ASUS HD 6450 (EAH6450 SILENT/DI/1GD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25126/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/22095/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/22528/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32345/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29825/##
+price:::$ 32.991##$ 33.940##$ 34.900##$ 35.854##$ 36.375##
+description:::GPU: AMD Radeon HD 6450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 550 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6450_jpg_100x100_q85.jpg
+name:::ASUS HD 6450 (EAH6450 SILENT/DI/512MD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26754/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20736/##
+price:::$ 32.600##$ 32.890##
+description:::GPU: AMD Radeon HD 6450++Memoria: 512 MB DDR3 (32 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 550 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6570_jpg_100x100_q85.jpg
+name:::ASUS HD 6570 (EAH6570/DI/1GD3(LP))
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/25030/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25127/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25085/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30258/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32050/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29339/##
+price:::$ 44.900##$ 46.534##$ 47.012##$ 48.400##$ 50.900##$ 51.895##
+description:::GPU: AMD Radeon HD 6570++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6670_1_jpg_100x100_q85.jpg
+name:::ASUS HD 6670 (EAH6670/DI/1GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14502/##
+price:::$ 64.010##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6670_jpg_100x100_q85.jpg
+name:::ASUS HD 6670 (EAH6670/DIS/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20691/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32051/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/32622/##
+price:::$ 63.975##$ 64.900##$ 67.900##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 810 MHz core / 810 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P_500_15_jpg_100x100_q85.jpg
+name:::ASUS HD 6770 (EAH6770 DC/2DI/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32756/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24903/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27702/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29932/##
+price:::$ 85.310##$ 85.900##$ 91.900##$ 93.605##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 850 MHz core / 850 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6850_png_100x100_q85.jpg
+name:::ASUS HD 6850 (EAH6850 DC/2DIS/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24904/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21387/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30284/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23201/##
+price:::$ 105.600##$ 107.180##$ 107.900##$ 119.900##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 790 MHz core / 790 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6850_png_100x100_q85.jpg
+name:::ASUS HD 6850 (EAH6850 DC/2DIS/1GD5/V2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32794/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26777/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29929/##
+price:::$ 104.875##$ 106.562##$ 114.945##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 790 MHz core / 790 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6870_2_png_100x100_q85.jpg
+name:::ASUS HD 6870 (EAH6870 DC/2DI2S/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32195/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32095/##
+price:::$ 133.566##$ 146.460##
+description:::GPU: AMD Radeon HD 6870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 915 MHz core / 915 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6870_png_100x100_q85.jpg
+name:::ASUS HD 6870 (EAH6870/2DI2S/1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32235/##
+price:::$ 141.120##
+description:::GPU: AMD Radeon HD 6870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 915 MHz core / 915 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6970_2_jpg_100x100_q85.jpg
+name:::ASUS HD 6970 (EAH6970 DCII/2DI4S/2GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14507/##
+price:::$ 260.440##
+description:::GPU: AMD Radeon HD 6970++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 890 MHz core / 890 MHz shaders / 1375 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PpRyv4dKDO8PREPM_500_jpg_100x100_q85.jpg
+name:::ASUS HD 7750 (HD7750-1GD5-V2)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30275/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31418/##
+price:::$ 82.900##$ 86.190##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 820 MHz core / 820 MHz shaders / 1150 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HD7770-DC-1GD5_jpg_100x100_q85.jpg
+name:::ASUS HD 7770 GHz Edition (HD7770-DC-1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26136/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30528/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32052/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30260/##
+price:::$ 108.651##$ 110.990##$ 112.500##$ 115.420##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1020 MHz core / 1020 MHz shaders / 1150 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_7870_jpg_100x100_q85.jpg
+name:::ASUS HD 7870 (HD7870-DC2-2GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27233/##
+price:::$ 237.944##
+description:::GPU: AMD Radeon HD 7870++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 1010 MHz core / 1010 MHz shaders / 1210 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_7950_jpg_100x100_q85.jpg
+name:::ASUS HD 7950 (HD7950-DC2-3GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32453/##
+price:::$ 286.651##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 800 MHz core / 1600 MHz shaders / 1250 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HD7970_jpg_100x100_q85.jpg
+name:::ASUS HD 7970 (HD7970-3GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24214/##
+price:::$ 446.190##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 925 MHz core / 925 MHz shaders / 1375 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_G_210_1_jpg_100x100_q85.jpg
+name:::ECS G 210 (N210C-512MQS-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18754/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/29867/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28542/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25512/##
+price:::$ 21.206##$ 21.900##$ 22.568##$ 24.620##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 512 MB DDR2 (64 bit)++Frecuencias: 589 MHz core / 1402 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NG210C-1GQM-H2_jpg_100x100_q85.jpg
+name:::ECS G 210 (NG210C-1GQM-H2 )
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31311/##
+price:::$ 20.837##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB GDDR3 (64 bit)++Frecuencias: 589 MHz core / 1178 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5872_1_jpg_100x100_q85.jpg
+name:::ECS G 210 (NG210C-1GQO-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31636/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31985/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31913/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26757/##
+price:::$ 21.990##$ 22.386##$ 23.270##$ 34.106##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 580 MHz core / 1160 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_GT_200_1_1_png_100x100_q85.jpg
+name:::ECS GT 220 (NGT220-1GQS-F Low profile)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25508/##
+price:::$ 41.782##
+description:::GPU: NVIDIA GeForce GT 220++Memoria: 1024 MB DDR2 (128 bit)++Frecuencias: 625 MHz core / 1360 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT430C-1GQKL-F_jpg_100x100_q85.jpg
+name:::ECS GT 430 (NGT430C-1GQKL-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27111/##
+price:::$ 34.322##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_GT_430_jpg_100x100_q85.jpg
+name:::ECS GT 430 (NGT430C-1GQR-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7206/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31554/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19492/##
+price:::$ 35.900##$ 41.380##$ 45.515##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT430C-1GQKL-F_jpg_100x100_q85.jpg
+name:::ECS GT 430 (NGT430C-2GQKL-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30199/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30224/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30422/##
+price:::$ 39.242##$ 41.900##$ 43.165##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_qqo1334737513_jpg_100x100_q85.jpg
+name:::ECS GT 440 (NGT440-2GQM-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30225/##
+price:::$ 52.900##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 2048 MB GDDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GT520C-1GQM-F_jpg_100x100_q85.jpg
+name:::ECS GT 520 (GT520C-1GQM-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31312/##
+price:::$ 27.083##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT520-1GQK-F_jpg_100x100_q85.jpg
+name:::ECS GT 520 (NGT520-1GQK-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31637/##
+price:::$ 29.190##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1700 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT520C-1GQK-F_430300_jpg_100x100_q85.jpg
+name:::ECS GT 520 (NGT520C-1GQK-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/15049/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/29919/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29838/##
+price:::$ 28.990##$ 29.120##$ 30.555##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 850 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT520C-1GQK-F_430300_jpg_100x100_q85.jpg
+name:::ECS GT 520 (NGT520C-2GQK-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21466/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29161/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31549/##
+price:::$ 31.201##$ 34.435##$ 44.200##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 850 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGT520C-2GQKL-F_png_100x100_q85.jpg
+name:::ECS GT 520 (NGT520C-2GQKL-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31643/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26669/##
+price:::$ 35.990##$ 41.178##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_GTX_275_jpg_100x100_q85.jpg
+name:::ECS GTX 275 (NBGTX275-896MX-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31561/##
+price:::$ 149.000##
+description:::GPU: NVIDIA GeForce GTX 275++Memoria: 896 MB GDDR3 (448 bit)++Frecuencias: 665 MHz core / 1330 MHz shaders / 1134 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ECS_GTX_460_png_100x100_q85.jpg
+name:::ECS GTX 460 (NGTX460-1GPI-F1)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7061/##
+price:::$ 96.055##
+description:::GPU: NVIDIA GeForce GTX 460++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 675 MHz core / 1350 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGTX550TI-1GPLI-F_430300_jpg_100x100_q85.jpg
+name:::ECS GTX 550 Ti (NGTX550TI-1GPLI-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26467/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27178/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29457/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31548/##
+price:::$ 79.845##$ 81.369##$ 90.695##$ 93.990##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGTX550TI-1GPLI-F1_430300_jpg_100x100_q85.jpg
+name:::ECS GTX 550 Ti (NGTX550TI-1GPLI-F1)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30366/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/30226/##
+price:::$ 85.990##$ 86.900##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GEFORCE_NGTX560-1GPI-F1_jpg_100x100_q85.jpg
+name:::ECS GTX 560 (GEFORCE NGTX560-1GPI-F1)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31243/##
+price:::$ 117.387##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 4000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NBGTX560-1GPI-F_430300_jpg_100x100_q85.jpg
+name:::ECS GTX 560 (NBGTX560-1GPI-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/19973/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21213/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29685/##
+price:::$ 118.900##$ 121.900##$ 131.435##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 870 MHz core / 1740 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/NGTX570-1280PI-F_580_jpg_100x100_q85.jpg
+name:::ECS GTX 570 (NGTX570-1280PI-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32760/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29651/##
+price:::$ 223.227##$ 243.955##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 732 MHz core / 1464 MHz shaders / 950 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ngtx580-1536pi-f-2_png_100x100_q85.jpg
+name:::ECS GTX 580 (MGTX580-1536PI-F)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22520/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28571/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29695/##
+price:::$ 297.209##$ 313.586##$ 324.465##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 770 MHz core / 1540 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_6200_png_100x100_q85.jpg
+name:::EVGA 6200 (512-A8-N403-LR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26040/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30306/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31640/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/7325/##
+price:::$ 30.852##$ 32.800##$ 33.090##$ 39.546##
+description:::GPU: NVIDIA GeForce 6200++Memoria: 512 MB DDR2 (64 bit)++Frecuencias: 350 MHz core / 350 MHz shaders / 266 MHz memorias++Bus: AGP 8x++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_8400_GS_png_100x100_q85.jpg
+name:::EVGA 8400 GS (01G-P3-1302-LR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/21573/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/28459/##
+price:::$ 23.990##$ 27.604##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1230 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_8400_GS_png_100x100_q85.jpg
+name:::EVGA 8400 GS (512-P3-1300-KL)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18730/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28540/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30211/##
+price:::$ 19.294##$ 20.566##$ 22.490##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 512 MB DDR3 (32 bit)++Frecuencias: 520 MHz core / 1230 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_8400_GS_png_100x100_q85.jpg
+name:::EVGA 8400 GS (512-P3-1300-LR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18753/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28541/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14622/##
+price:::$ 19.903##$ 20.111##$ 23.129##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 512 MB DDR3 (32 bit)++Frecuencias: 520 MHz core / 1200 MHz shaders / 300 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_G_210_2_png_100x100_q85.jpg
+name:::EVGA G 210 (01G-P3-1312-LR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23500/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28339/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28546/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29601/##
+price:::$ 22.990##$ 24.542##$ 26.117##$ 27.150##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1402 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_430_png_100x100_q85.jpg
+name:::EVGA GT 430 (01G-P3-1335-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28553/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19176/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29048/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14624/##
+price:::$ 38.584##$ 38.890##$ 40.255##$ 46.257##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 600 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_430_png_100x100_q85.jpg
+name:::EVGA GT 430 (01G-P3-1430-LR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18751/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7039/##
+price:::$ 36.269##$ 48.057##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 700 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_440_png_100x100_q85.jpg
+name:::EVGA GT 440 (01G-P3-1441-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31645/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14511/##
+price:::$ 49.890##$ 61.183##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_520_jpg_100x100_q85.jpg
+name:::EVGA GT 520 (01G-P3-1521-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31639/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14509/##
+price:::$ 31.190##$ 37.306##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 700 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_520_jpg_100x100_q85.jpg
+name:::EVGA GT 520 (01G-P3-1525-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19171/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18759/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28550/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/18389/##
+price:::$ 31.890##$ 33.285##$ 35.490##$ 36.565##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_520_jpg_100x100_q85.jpg
+name:::EVGA GT 520 (02G-P3-1529-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24793/##
+price:::$ 39.890##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GT_610_jpg_100x100_q85.jpg
+name:::EVGA GT 610 (01G-P3-2616-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31943/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31932/##
+price:::$ 35.610##$ 36.565##
+description:::GPU: NVIDIA GeForce GT 610++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTS_450_png_100x100_q85.jpg
+name:::EVGA GTS 450 (01G-P3-1351-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30940/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30716/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29441/##
+price:::$ 74.267##$ 81.020##$ 89.725##
+description:::GPU: NVIDIA GeForce GTS 450++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 83 MHz core / 1566 MHz shaders / 902 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTS_450_png_100x100_q85.jpg
+name:::EVGA GTS 450 (01G-P3-1450-TR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7040/##
+price:::$ 86.190##
+description:::GPU: NVIDIA GeForce GTS 450++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 822 MHz core / 1645 MHz shaders / 902 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_460_1_png_100x100_q85.jpg
+name:::EVGA GTX 460 (01G-P3-1370-TR)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18147/##
+price:::$ 118.900##
+description:::GPU: NVIDIA GeForce GTX 460++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 720 MHz core / 1440 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_550_jpg_100x100_q85.jpg
+name:::EVGA GTX 550 Ti (01G-P3-1556-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25357/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31650/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11265/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29184/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/13070/##
+price:::$ 89.881##$ 90.690##$ 96.900##$ 99.425##$ 101.338##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 951 MHz core / 1902 MHz shaders / 1134 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1718-3189-thickbox_jpg_100x100_q85.jpg
+name:::EVGA GTX 560 (01G-P3-1460-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22568/##
+price:::$ 149.900##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_gtx_560_jpg_100x100_q85.jpg
+name:::EVGA GTX 560 (01G-P3-1463-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20134/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28561/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29348/##
+price:::$ 136.033##$ 148.512##$ 150.340##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 850 MHz core / 1700 MHz shaders / 1026 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/01G-P3-1464-KR_LG_1_jpg_100x100_q85.jpg
+name:::EVGA GTX 560 SE (01G-P3-1464-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30941/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31542/##
+price:::$ 92.496##$ 108.100##
+description:::GPU: NVIDIA GeForce GTX 560 SE++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 776 MHz core / 1552 MHz shaders / 957 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_560_png_100x100_q85.jpg
+name:::EVGA GTX 560 Ti (01G-P3-1563-AR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7986/##
+price:::$ 147.525##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1053 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_560_jpg_100x100_q85.jpg
+name:::EVGA GTX 560 Ti (01G-P3-1567-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20003/##
+price:::$ 172.971##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1053 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/02G-P3-1568-KR_jpg_100x100_q85.jpg
+name:::EVGA GTX 560 Ti (02G-P3-1568-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31656/##
+price:::$ 184.290##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 822 MHz core / 1645 MHz shaders / 4000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_570_jpg_100x100_q85.jpg
+name:::EVGA GTX 570 (012-P3-1571-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31555/##
+price:::$ 266.100##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 732 MHz core / 1464 MHz shaders / 950 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_18_jpg_100x100_q85.jpg
+name:::EVGA GTX 570 (012-P3-1573-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21395/##
+price:::$ 238.610##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (384 bit)++Frecuencias: 797 MHz core / 1594 MHz shaders / 975 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/EVGA_GTX_580_png_100x100_q85.jpg
+name:::EVGA GTX 580 (015-P3-1580-AR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31658/##
+price:::$ 286.090##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 772 MHz core / 1544 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1134-1977_jpg_100x100_q85.jpg
+name:::EVGA GTX 580 (03G-P3-1584-AR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/28159/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31551/##
+price:::$ 395.480##$ 510.000##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 772 MHz core / 1544 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/03G-P3-1598-AR_LG_1_jpg_100x100_q85.jpg
+name:::EVGA GTX 590 (03G-P3-1598-AR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/15629/##
+price:::$ 534.950##
+description:::GPU: NVIDIA GeForce GTX 590++Memoria: 3072 MB GDDR5 (768 bit)++Frecuencias: 630 MHz core / 1260 MHz shaders / 864 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/02G-P4-2670-KR_XL_1_jpg_100x100_q85.jpg
+name:::EVGA GTX 670 (02G-P4-2670-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31757/##
+price:::$ 299.990##
+description:::GPU: NVIDIA GeForce GTX 670++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 915 MHz core / 915 MHz shaders / 1502 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/04G-P4-2690-KR_LG_1_jpg_100x100_q85.jpg
+name:::EVGA GTX 690 (04G-P4-2690-KR)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32454/##
+price:::$ 754.075##
+description:::GPU: NVIDIA GeForce GTX 690++Memoria: 4096 MB GDDR5 (512 bit)++Frecuencias: 915 MHz core / 915 MHz shaders / 1502 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GV-N520D3-1GI_gif_100x100_q85.jpg
+name:::Gigabyte GT 520 (GV-N520D3-1GI )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31259/##
+price:::$ 31.890##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GTX_550_Ti_jpg_100x100_q85.jpg
+name:::Gigabyte GTX 550 Ti (GV-N550D5-1GI)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32570/##
+price:::$ 90.369##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GTX_550_TI_jpg_100x100_q85.jpg
+name:::Gigabyte GTX 550 Ti (GV-N550OC-1GI)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31544/##
+price:::$ 99.200##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 970 MHz core / 1940 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_17_jpg_100x100_q85.jpg
+name:::Gigabyte GTX 560 (GV-N56GOC-1GI)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7034/##
+price:::$ 130.591##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 830 MHz core / 1660 MHz shaders / 1002 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_GV-R577UD-1GD_1_jpg_100x100_q85.jpg
+name:::Gigabyte HD 5770 (GV-R577UD-1GD)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/12098/##
+price:::$ 85.900##
+description:::GPU: AMD Radeon HD 5770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 850 MHz core / 850 MHz shaders / 1200 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Gigabyte_6770_jpg_100x100_q85.jpg
+name:::Gigabyte HD 6770 (GV-R677D5-1GD)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/20459/##
+price:::$ 76.656##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 775 MHz core / 775 MHz shaders / 4000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/5688_big_jpg_100x100_q85.jpg
+name:::Gigabyte HD 7850 (GV-R785OC-2GD)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27994/##
+price:::$ 181.338##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 975 MHz core / 975 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GV-R797OC-3GD_jpg_100x100_q85.jpg
+name:::Gigabyte HD 7970 (GV-R797OC-3GD)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31268/##
+price:::$ 393.390##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 1000 MHz core / 1000 MHz shaders / 1375 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_Quadro_6000_jpg_100x100_q85.jpg
+name:::HP 2000 (WS094AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/15377/##
+price:::$ 359.900##
+description:::GPU: NVIDIA Quadro 2000++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 625 MHz core / 1250 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_FirePro_V8400_png_100x100_q85.jpg
+name:::HP 3D V4800 (WL049AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18797/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32354/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29800/##
+price:::$ 125.447##$ 132.405##$ 137.255##
+description:::GPU: AMD FirePro 3D V4800++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 775 MHz core / 775 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNY_4000_png_100x100_q85.jpg
+name:::HP 4000 (WS095AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23795/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29719/##
+price:::$ 620.795##$ 678.020##
+description:::GPU: NVIDIA Quadro 4000++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 475 MHz core / 950 MHz shaders / 700 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_Quadro_600_jpg_100x100_q85.jpg
+name:::HP 600 (WS093AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19914/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32355/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/32093/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/15376/##
+price:::$ 131.881##$ 139.139##$ 144.045##$ 149.900##
+description:::GPU: NVIDIA Quadro 600++Memoria: 1024 MB GDDR3 (128 bit)++Frecuencias: 640 MHz core / 1280 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_FX_1800_png_100x100_q85.jpg
+name:::HP FX 1800 (FY946AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18788/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28568/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29386/##
+price:::$ 334.520##$ 352.989##$ 365.205##
+description:::GPU: NVIDIA Quadro FX 1800++Memoria: 768 MB GDDR3 (192 bit)++Frecuencias: 500 MHz core / 1375 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XP612AA_400x400_jpg_100x100_q85.jpg
+name:::HP NVS 300 (XP612AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18795/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29657/##
+price:::$ 73.982##$ 80.995##
+description:::GPU: NVIDIA Quadro NVS 300++Memoria: 512 MB DDR3 (64 bit)++Frecuencias: 589 MHz core / 1402 MHz shaders / 395 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LS992AA_400x400_jpg_100x100_q85.jpg
+name:::HP V5900 (LS992AA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21099/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32357/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29155/##
+price:::$ 282.411##$ 305.396##$ 308.450##
+description:::GPU: AMD FirePro V5900++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 600 MHz core / 600 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_8400_GS_jpg_100x100_q85.jpg
+name:::MSI 8400 GS (N8400GS-D512D3H/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/12526/##
+price:::$ 25.495##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 512 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1230 MHz shaders / 550 MHz memorias++Bus: PCI Express x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_8400_GS_jpg_100x100_q85.jpg
+name:::MSI 8400 GS (N8400GS-MD1GD3H/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18755/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/10447/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28543/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30843/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29117/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27488/##
+price:::$ 22.081##$ 22.800##$ 23.024##$ 23.991##$ 24.735##$ 24.900##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1230 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_8400_GS_png_100x100_q85.jpg
+name:::MSI 8400 GS (NX8400GS-TD512EH)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/30574/##
+price:::$ 18.018##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 512 MB GDDR2 (64 bit)++Frecuencias: 567 MHz core / 1134 MHz shaders / 400 MHz memorias++Bus: PCI Express x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_N210-MD1G_jpg_100x100_q85.jpg
+name:::MSI G 210 (N210-MD1G)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24307/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9902/##
+price:::$ 23.991##$ 24.740##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB GDDR2 (128 bit)++Frecuencias: 475 MHz core / 950 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_N210-MD1G-D3_jpg_100x100_q85.jpg
+name:::MSI G 210 (N210-MD1G/D3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20734/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32348/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31371/##
+price:::$ 23.608##$ 24.661##$ 25.705##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB GDDR3 (128 bit)++Frecuencias: 589 MHz core / 1178 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_VN120_png_100x100_q85.jpg
+name:::MSI G 210 (VN210-MD512)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14623/##
+price:::$ 30.589##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 512 MB GDDR2 (64 bit)++Frecuencias: 589 MHz core / 1178 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N430GT-MD1GLP_jpg_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD1G/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31360/##
+price:::$ 39.760##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GT_430_jpg_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD1GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/9805/##
+price:::$ 39.760##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/51NR0kbxcdL_jpg_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD1GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21380/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/21571/##
+price:::$ 36.976##$ 39.900##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GT_430_png_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD1GD3/OC/LP Dual Fan)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18789/##
+price:::$ 38.564##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 785 MHz core / 1570 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GT_430_1_jpg_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD1GD3/OC/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/30128/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30037/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14263/##
+price:::$ 41.041##$ 42.670##$ 56.775##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 785 MHz core / 1570 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/msi_gt_430_jpg_100x100_q85.jpg
+name:::MSI GT 430 (N430GT-MD2GD3/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24598/##
+price:::$ 47.421##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 730 MHz core / 1460 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GT_440_png_100x100_q85.jpg
+name:::MSI GT 440 (N440GT-MD1GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31646/##
+price:::$ 45.990##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GT_520_jpg_100x100_q85.jpg
+name:::MSI GT 520 (N520GT-MD1GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21040/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26733/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/18280/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18737/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28548/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29834/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14608/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31642/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/12753/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19491/##
+price:::$ 27.891##$ 29.743##$ 29.991##$ 30.293##$ 31.577##$ 33.465##$ 34.910##$ 35.390##$ 42.311##$ 48.504##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/n520gt-md2gd32_jpg_100x100_q85.jpg
+name:::MSI GT 520 (N520GT-MD2GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21381/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28552/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24185/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/22529/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29255/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/27201/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30274/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23157/##
+price:::$ 36.269##$ 38.766##$ 38.790##$ 39.990##$ 40.255##$ 41.900##$ 42.900##$ 47.013##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1791-3315-thickbox_jpg_100x100_q85.jpg
+name:::MSI GTS 450 (N450GTS-M2D1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26491/##
+price:::$ 69.900##
+description:::GPU: NVIDIA GeForce GTS 450++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 783 MHz core / 0 MHz shaders / 902 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_20100622195201_jpg_100x100_q85.jpg
+name:::MSI GTX 465 (Twin Frozr II Golden Edition)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31558/##
+price:::$ 235.690##
+description:::GPU: NVIDIA GeForce GTX 465++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 607 MHz core / 1215 MHz shaders / 801 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_480_jpg_100x100_q85.jpg
+name:::MSI GTX 480 (N480GTX-M2D15)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7068/##
+price:::$ 216.897##
+description:::GPU: NVIDIA GeForce GTX 480++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 924 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_550_jpg_100x100_q85.jpg
+name:::MSI GTX 550 Ti (N550GTX-Ti Cyclone II 1GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21382/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/18281/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12656/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31652/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32349/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29475/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31550/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/15281/##
+price:::$ 92.643##$ 92.990##$ 93.500##$ 93.990##$ 98.918##$ 98.930##$ 106.990##$ 125.208##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 950 MHz core / 1900 MHz shaders / 1075 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_550_2_jpg_100x100_q85.jpg
+name:::MSI GTX 550 Ti (N550GTX-Ti-M2D1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/12823/##
+price:::$ 92.150##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/N550GTX-Ti-MD1GD5_jpg_100x100_q85.jpg
+name:::MSI GTX 550 Ti (N550GTX-Ti-MD1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28113/##
+price:::$ 87.757##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 4000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_560_jpg_100x100_q85.jpg
+name:::MSI GTX 560 (N560GTX Twin Frozr II/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31654/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21383/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/24772/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29557/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32350/##
+price:::$ 145.290##$ 162.994##$ 168.723##$ 173.620##$ 173.628##
+description:::GPU: NVIDIA GeForce GTX 560++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 870 MHz core / 1740 MHz shaders / 1020 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_560_Hawk_jpg_100x100_q85.jpg
+name:::MSI GTX 560 Ti (N560GTX-Ti Hawk)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30721/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/18279/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31380/##
+price:::$ 172.106##$ 174.990##$ 183.320##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 950 MHz core / 1900 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Twin__png_100x100_q85.jpg
+name:::MSI GTX 560 Ti (N560GTX-Ti Twin Frozr II)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31547/##
+price:::$ 232.100##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 822 MHz core / 1644 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Twin__png_100x100_q85.jpg
+name:::MSI GTX 560 Ti (N560GTX-Ti Twin Frozr II/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28569/##
+price:::$ 175.994##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 880 MHz core / 1760 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_Twin__png_100x100_q85.jpg
+name:::MSI GTX 560 Ti 448 (N560GTX-Ti 448 Twin Frozr III PE/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25019/##
+price:::$ 218.865##
+description:::GPU: NVIDIA GeForce GTX 560 Ti 448++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 750 MHz core / 1500 MHz shaders / 975 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_570_1_jpg_100x100_q85.jpg
+name:::MSI GTX 570 (N570GTX Twin Frozr III Power Edition/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21672/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/29920/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31354/##
+price:::$ 236.357##$ 251.706##$ 251.715##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 770 MHz core / 1540 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_670_jpg_100x100_q85.jpg
+name:::MSI GTX 670 (N670GTX-PM2D2GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31039/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30988/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32625/##
+price:::$ 280.730##$ 289.911##$ 299.790##
+description:::GPU: NVIDIA GeForce GTX 670++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 965 MHz core / 965 MHz shaders / 1502 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_GTX_680_jpg_100x100_q85.jpg
+name:::MSI GTX 680 (N680GTX-PM2D2GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30722/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31885/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27996/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31352/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31662/##
+price:::$ 339.218##$ 353.261##$ 354.321##$ 361.800##$ 370.990##
+description:::GPU: NVIDIA GeForce GTX 680++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 1006 MHz core / 1006 MHz shaders / 1502 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2556_20120411142323_jpg_100x100_q85.jpg
+name:::MSI GTX 680 (Twin Frozr 2GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27997/##
+price:::$ 370.131##
+description:::GPU: NVIDIA GeForce GTX 680++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 1058 MHz core / 1058 MHz shaders / 1502 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_5450_1_jpg_100x100_q85.jpg
+name:::MSI HD 5450 (R5450-MD1GD3H/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28530/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26481/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18745/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29672/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25519/##
+price:::$ 23.296##$ 23.760##$ 24.478##$ 27.150##$ 32.829##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_5450_png_100x100_q85.jpg
+name:::MSI HD 5450 (R5450-MD1GH)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21639/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7049/##
+price:::$ 22.990##$ 27.749##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_5870_png_100x100_q85.jpg
+name:::MSI HD 5870 (R5870 Lightning)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23128/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29311/##
+price:::$ 194.034##$ 212.915##
+description:::GPU: AMD Radeon HD 5870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1200 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_6450_jpg_100x100_q85.jpg
+name:::MSI HD 6450 (R6450-MD1GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32786/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29501/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24378/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/17226/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26732/##
+price:::$ 25.688##$ 27.645##$ 27.891##$ 29.090##$ 32.156##
+description:::GPU: AMD Radeon HD 6450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/R6570MD2GD3LP_jpg_100x100_q85.jpg
+name:::MSI HD 6570 (R6570-MD2GD3/LP)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26444/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29120/##
+price:::$ 46.319##$ 49.460##
+description:::GPU: AMD Radeon HD 6570++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 1334 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_6670_1_jpg_100x100_q85.jpg
+name:::MSI HD 6670 (R6670-MD1GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/20692/##
+price:::$ 58.589##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_6670_jpg_100x100_q85.jpg
+name:::MSI HD 6670 (R6670-MD1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/19540/##
+price:::$ 69.474##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/R6670-MD1GD3_jpg_100x100_q85.jpg
+name:::MSI HD 6670 (R6670-MD2GD3)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26446/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24499/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27489/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/27357/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31541/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31388/##
+price:::$ 57.720##$ 57.990##$ 58.900##$ 64.980##$ 65.500##$ 65.950##
+description:::GPU: AMD Radeon HD 6670++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1334 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1552-2905-thickbox_jpg_100x100_q85.jpg
+name:::MSI HD 6770 (R6770-MD1GD5)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25312/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30099/##
+price:::$ 78.297##$ 79.399##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 0 MHz shaders / 1100 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_6850_jpg_100x100_q85.jpg
+name:::MSI HD 6850 (Cyclone 1GD5 Power Edition/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21483/##
+price:::$ 123.180##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 860 MHz core / 860 MHz shaders / 1100 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_6870_png_100x100_q85.jpg
+name:::MSI HD 6870 (R6870 Twin Frozr II)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21389/##
+price:::$ 164.600##
+description:::GPU: AMD Radeon HD 6870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_6970_jpg_100x100_q85.jpg
+name:::MSI HD 6970 (R6970 Lightning)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23153/##
+price:::$ 242.400##
+description:::GPU: AMD Radeon HD 6970++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 940 MHz core / 940 MHz shaders / 1375 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_7750_jpg_100x100_q85.jpg
+name:::MSI HD 7750 (R7750-PMD1GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25788/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32626/##
+price:::$ 86.190##$ 93.990##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 830 MHz core / 830 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_7770_jpg_100x100_q85.jpg
+name:::MSI HD 7770 GHz Edition (R7770-2PMD1GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30720/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26995/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32627/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31373/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31540/##
+price:::$ 107.607##$ 107.990##$ 112.390##$ 114.945##$ 122.000##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1020 MHz core / 1020 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2563_20120416105951_jpg_100x100_q85.jpg
+name:::MSI HD 7850 (R7850 Power Edition 2GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32452/##
+price:::$ 197.567##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 950 MHz core / 950 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MSI_HD_7850_jpg_100x100_q85.jpg
+name:::MSI HD 7850 (Twin Frozr 2GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32628/##
+price:::$ 196.190##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/five_pictures1_2513_20120130105230_jpg_100x100_q85.jpg
+name:::MSI HD 7950 (R7950-2PMD3GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25856/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30719/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27185/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31883/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31384/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32629/##
+price:::$ 302.989##$ 304.905##$ 315.400##$ 316.862##$ 324.940##$ 330.990##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 832 MHz core / 1792 MHz shaders / 1250 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/R7970-2PMD3GD5OC_jpg_100x100_q85.jpg
+name:::MSI HD 7970 (R7970-2PMD3GD5/OC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27186/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26996/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30855/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/31884/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30812/##
+price:::$ 365.800##$ 366.990##$ 367.880##$ 384.930##$ 400.125##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 1010 MHz core / 1010 MHz shaders / 5500 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNY_Quadro_2000_png_100x100_q85.jpg
+name:::PNY 2000 (VCQ2000-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18787/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31686/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32356/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31750/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16848/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19668/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/12120/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31556/##
+price:::$ 273.409##$ 279.990##$ 288.470##$ 298.750##$ 307.000##$ 309.648##$ 319.000##$ 322.050##
+description:::GPU: NVIDIA Quadro 2000++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 625 MHz core / 1250 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNX_Quadro_400_jpg_100x100_q85.jpg
+name:::PNY 400 (VCQ400-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18771/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/21284/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32351/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29318/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31553/##
+price:::$ 89.419##$ 89.900##$ 94.367##$ 97.960##$ 111.990##
+description:::GPU: NVIDIA Quadro 400++Memoria: 512 MB DDR3 (64 bit)++Frecuencias: 600 MHz core / 1200 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNY_4000_png_100x100_q85.jpg
+name:::PNY 4000 (VCQ4000-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19670/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31687/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26493/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16849/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31560/##
+price:::$ 556.140##$ 599.390##$ 599.900##$ 619.900##$ 717.120##
+description:::GPU: NVIDIA Quadro 4000++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 475 MHz core / 950 MHz shaders / 700 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1697_1_jpg_100x100_q85.jpg
+name:::PNY 5000 (VCQ5000-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26494/##
+price:::$ 1.346.000##
+description:::GPU: NVIDIA Quadro 5000++Memoria: 2560 MB GDDR5 (320 bit)++Frecuencias: 513 MHz core / 1026 MHz shaders / 750 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VCQ600-PB_jpg_100x100_q85.jpg
+name:::PNY 600 (VCQ600-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31685/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18796/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28567/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9899/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29374/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/16389/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31557/##
+price:::$ 99.990##$ 108.718##$ 114.751##$ 114.900##$ 118.825##$ 133.900##$ 135.990##
+description:::GPU: NVIDIA Quadro 600++Memoria: 1024 MB GDDR3 (128 bit)++Frecuencias: 640 MHz core / 1280 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1698_1_jpg_100x100_q85.jpg
+name:::PNY 6000 (VCQ6000-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/25633/##
+price:::$ 2.420.330##
+description:::GPU: NVIDIA Quadro 6000++Memoria: 6144 MB GDDR5 (384 bit)++Frecuencias: 0 MHz core / 0 MHz shaders / 0 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNy_NVS_295_png_100x100_q85.jpg
+name:::PNY NVS 295 (VCQ295NVS-X1-DVI-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18784/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28566/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25499/##
+price:::$ 98.294##$ 104.650##$ 124.601##
+description:::GPU: NVIDIA Quadro NVS 295++Memoria: 256 MB GDDR3 (64 bit)++Frecuencias: 550 MHz core / 1300 MHz shaders / 700 MHz memorias++Bus: PCI Express 2.0 x1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNY_NVS_300_jpg_100x100_q85.jpg
+name:::PNY NVS 300 (VCNVS300X16-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19915/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28565/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29822/##
+price:::$ 95.852##$ 101.101##$ 104.750##
+description:::GPU: NVIDIA Quadro NVS 300++Memoria: 512 MB DDR3 (64 bit)++Frecuencias: 589 MHz core / 1402 MHz shaders / 790 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PNY_NVS_450_png_100x100_q85.jpg
+name:::PNY NVS 450 (VCQ450NVS-X16-DVI-PB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23378/##
+price:::$ 363.172##
+description:::GPU: NVIDIA Quadro NVS 450++Memoria: 512 MB GDDR3 (128 bit)++Frecuencias: 550 MHz core / 1300 MHz shaders / 700 MHz memorias++Bus: PCI Express x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_5450_jpg_100x100_q85.jpg
+name:::Sapphire HD 5450 (100292L / DDR2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7033/##
+price:::$ 28.730##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR2 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 406 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_5450_jpg_100x100_q85.jpg
+name:::Sapphire HD 5450 (100292L / DDR3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26766/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19624/##
+price:::$ 23.690##$ 26.597##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 406 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-AE164-800SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 5450 (299-AE164-800SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31666/##
+price:::$ 22.990##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 1334 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-E164-000SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 5450 (299-E164-000SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31667/##
+price:::$ 27.090##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 1334 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_6450_jpg_100x100_q85.jpg
+name:::Sapphire HD 6450 (100322L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/21575/##
+price:::$ 30.690##
+description:::GPU: AMD Radeon HD 6450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_6570_jpg_100x100_q85.jpg
+name:::Sapphire HD 6570 (100323L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21042/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/20244/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/12754/##
+price:::$ 43.598##$ 44.900##$ 49.624##
+description:::GPU: AMD Radeon HD 6570++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-2E193-800SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 6570 (299-2E193-800SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31672/##
+price:::$ 50.990##
+description:::GPU: AMD Radeon HD 6570++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD6670_jpeg_100x100_q85.jpg
+name:::Sapphire HD 6670 (100326DDR3L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/18414/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19636/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/21542/##
+price:::$ 49.102##$ 49.560##$ 55.900##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SAPPHIRE_6670ULTIMATE_jpg_100x100_q85.jpg
+name:::Sapphire HD 6670 (100326UL)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/20520/##
+price:::$ 63.728##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2007_1_jpg_100x100_q85.jpg
+name:::Sapphire HD 6670 (299-1E194-A00SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32481/##
+price:::$ 59.990##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 0 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E194-C00SA_gif_100x100_q85.jpg
+name:::Sapphire HD 6670 (299-1E194-C00SA )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31423/##
+price:::$ 66.690##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E195-001SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 6670 (299-1E195-001SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31673/##
+price:::$ 59.990##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sapphire_radeon_hd_6750_1gb_gddr5_3_jpg_100x100_q85.jpg
+name:::Sapphire HD 6750 (100327L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14503/##
+price:::$ 75.650##
+description:::GPU: AMD Radeon HD 6750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 700 MHz core / 700 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire-Radeon-HD-6770-Flex-KitGuru_jpg_100x100_q85.jpg
+name:::Sapphire HD 6770 (100328FLEX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31261/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24548/##
+price:::$ 85.590##$ 86.350##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 850 MHz core / 850 MHz shaders / 1200 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_5_jpg_100x100_q85.jpg
+name:::Sapphire HD 6770 (100328VXL)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/16536/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19642/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26790/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/20597/##
+price:::$ 82.690##$ 82.761##$ 92.900##$ 92.981##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 860 MHz core / 0 MHz shaders / 1200 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_6790_jpg_100x100_q85.jpg
+name:::Sapphire HD 6790 (100316L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19648/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/21482/##
+price:::$ 94.004##$ 101.930##
+description:::GPU: AMD Radeon HD 6790++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 840 MHz core / 840 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_6850_png_100x100_q85.jpg
+name:::Sapphire HD 6850 (100315L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19651/##
+price:::$ 106.941##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 775 MHz core / 775 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-3E174-430SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 6870 (299-3E174-430SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31678/##
+price:::$ 120.590##
+description:::GPU: AMD Radeon HD 6870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 4200 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1580_1_jpg_100x100_q85.jpg
+name:::Sapphire HD 6950 (100312-3L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25731/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30006/##
+price:::$ 173.681##$ 183.600##
+description:::GPU: AMD Radeon HD 6950++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1250 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sapphire_radeon_hd_6990_4gb_gddr5_jpg_100x100_q85.jpg
+name:::Sapphire HD 6990 (100310SR)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/16941/##
+price:::$ 531.550##
+description:::GPU: AMD Radeon HD 6990++Memoria: 4096 MB GDDR5 (256 bit)++Frecuencias: 830 MHz core / 830 MHz shaders / 1250 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/7750_jpg_100x100_q85.jpg
+name:::Sapphire HD 7750 (11202-00-20G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26582/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31424/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26135/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26789/##
+price:::$ 74.577##$ 75.890##$ 77.310##$ 79.900##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_7_jpeg_100x100_q85.jpg
+name:::Sapphire HD 7750 (11202-03-40G Ultimate)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/28259/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27031/##
+price:::$ 85.364##$ 94.025##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E213-300SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 7750 (299-1E213-300SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32121/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32569/##
+price:::$ 79.990##$ 82.533##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 850 MHz core / 850 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_7770_jpg_100x100_q85.jpg
+name:::Sapphire HD 7770 GHz Edition (11201-00-20G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26859/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26791/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25457/##
+price:::$ 109.500##$ 119.900##$ 122.755##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1000 MHz core / 1000 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E214-000SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 7770 GHz Edition (299-1E214-000SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31676/##
+price:::$ 110.590##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1000 MHz core / 1000 MHz shaders / 4500 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_7850_noOC_jpg_100x100_q85.jpg
+name:::Sapphire HD 7850 (11200-00-20G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31760/##
+price:::$ 174.990##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 860 MHz core / 860 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E217-000SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 7870 (299-1E217-000SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31679/##
+price:::$ 237.490##
+description:::GPU: AMD Radeon HD 7870++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 1000 MHz core / 1000 MHz shaders / 4800 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_HD_7950_jpg_100x100_q85.jpg
+name:::Sapphire HD 7950 (11196-00-40G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24549/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32123/##
+price:::$ 322.477##$ 339.990##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 810 MHz core / 810 MHz shaders / 1250 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HD_7950_OC_png_100x100_q85.jpg
+name:::Sapphire HD 7950 (11196-02-40G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26138/##
+price:::$ 326.477##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1250 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sapphire_7970_jpg_100x100_q85.jpg
+name:::Sapphire HD 7970 (21197-00-40G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23380/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23154/##
+price:::$ 334.075##$ 433.100##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 925 MHz core / 925 MHz shaders / 1375 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/299-1E208-100SA_jpg_100x100_q85.jpg
+name:::Sapphire HD 7970 (299-1E208-100SA)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31682/##
+price:::$ 339.990##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 950 MHz core / 950 MHz shaders / 5700 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TVXFX08400-I_jpg_100x100_q85.jpg
+name:::XFX 8400 GS (PV-T86S-ZHF2 )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19168/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30212/##
+price:::$ 23.990##$ 25.000##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 589 MHz core / 0 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_GT_240_png_100x100_q85.jpg
+name:::XFX GT 240 (GT-240X-YAFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/9898/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/7054/##
+price:::$ 35.900##$ 53.440##
+description:::GPU: NVIDIA GeForce GT 240++Memoria: 512 MB DDR3 (128 bit)++Frecuencias: 550 MHz core / 1340 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GT-430x-CaF2_gif_100x100_q85.jpg
+name:::XFX GT 430 (GT-430X-CAF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27498/##
+price:::$ 41.890##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1066 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/222960493_004_jpg_100x100_q85.jpg
+name:::XFX GT 430 (GT-430X-ZAF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30268/##
+price:::$ 38.890##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_GT_520_jpg_100x100_q85.jpg
+name:::XFX GT 520 (GT-520M-CNF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27701/##
+price:::$ 39.890##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX-GT5201GB_jpg_100x100_q85.jpg
+name:::XFX GT 520 (GT-520M-ZNF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27700/##
+price:::$ 31.890##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB GDDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-11238-1_200_jpg_100x100_q85.jpg
+name:::XFX HD 4350 (ON-XFX1-PL )
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20129/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/20324/##
+price:::$ 24.542##$ 25.900##
+description:::GPU: AMD Radeon HD 4350++Memoria: 1024 MB DDR2 (128 bit)++Frecuencias: 600 MHz core / 600 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_4550_2_png_100x100_q85.jpg
+name:::XFX HD 4550 (HD-455X-ZAF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32346/##
+price:::$ 40.313##
+description:::GPU: AMD Radeon HD 4550++Memoria: 1024 MB DDR2 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_5670_png_100x100_q85.jpg
+name:::XFX HD 4670 (HD-467X-ZNL2)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22432/##
+price:::$ 34.900##
+description:::GPU: AMD Radeon HD 4670++Memoria: 1024 MB DDR2 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 900 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1020770204_jpg_100x100_q85.jpg
+name:::XFX HD 5450 (HD-545X-CDH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23374/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22433/##
+price:::$ 36.890##$ 39.990##
+description:::GPU: AMD Radeon HD 5450++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_5450_1_png_100x100_q85.jpg
+name:::XFX HD 5450 (HD-545X-ZCH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11923/##
+price:::$ 25.990##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 620 MHz core / 620 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HD-545X-ZQH2_jpg_100x100_q85.jpg
+name:::XFX HD 5450 (HD-545X-ZQH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30475/##
+price:::$ 25.073##
+description:::GPU: AMD Radeon HD 5450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-11460-1_200_jpg_100x100_q85.jpg
+name:::XFX HD 6450 (HD-645X-CNF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27278/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22434/##
+price:::$ 38.132##$ 42.900##
+description:::GPU: AMD Radeon HD 6450++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/pgn1322127786_jpeg_100x100_q85.jpg
+name:::XFX HD 6450 (HD-645X-CNH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/32053/##
+price:::$ 41.042##
+description:::GPU: AMD Radeon HD 6450++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ASUS_HD_6450_2_jpg_100x100_q85.jpg
+name:::XFX HD 6450 (HD-645X-ZNH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/15093/##
+price:::$ 38.790##
+description:::GPU: AMD Radeon HD 6450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 625 MHz core / 625 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TVXFX06451-II_gif_100x100_q85.jpg
+name:::XFX HD 6450 (HD-645X-ZQH2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27277/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25353/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19173/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29171/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31668/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18142/##
+price:::$ 30.297##$ 31.172##$ 31.690##$ 34.435##$ 34.990##$ 35.900##
+description:::GPU: AMD Radeon HD 6450++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 625 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_6570_jpg_100x100_q85.jpg
+name:::XFX HD 6570 (HD-657X-CNF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/28361/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24930/##
+price:::$ 50.669##$ 59.990##
+description:::GPU: AMD Radeon HD 6570++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 500 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_6570_jpg_100x100_q85.jpg
+name:::XFX HD 6570 (HD-657X-ZDF2)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31670/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24929/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25354/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30373/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29485/##
+price:::$ 39.990##$ 42.990##$ 44.048##$ 44.990##$ 48.985##
+description:::GPU: AMD Radeon HD 6570++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 650 MHz core / 650 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_6670_jpg_100x100_q85.jpg
+name:::XFX HD 6670 (HD-667X-ZHF3)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/21627/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31671/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/24392/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14093/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20136/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32347/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29352/##
+price:::$ 48.690##$ 49.290##$ 49.624##$ 52.900##$ 54.565##$ 58.148##$ 60.130##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD-667X-ZNFQ_jpg_100x100_q85.jpg
+name:::XFX HD 6670 (HD-667X-ZNFQ)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/27496/##
+price:::$ 70.884##
+description:::GPU: AMD Radeon HD 6670++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1600 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ThumbS3_1_jpg_100x100_q85.jpg
+name:::XFX HD 6750 (HD-675X-ZAF4)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26164/##
+price:::$ 59.900##
+description:::GPU: AMD Radeon HD 6750++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 700 MHz shaders / 1600 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_6770_jpg_100x100_q85.jpg
+name:::XFX HD 6770 (HD-677X-ZNLC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27279/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31539/##
+price:::$ 83.578##$ 106.600##
+description:::GPU: AMD Radeon HD 6770++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 850 MHz core / 850 MHz shaders / 1200 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1973_1_jpg_100x100_q85.jpg
+name:::XFX HD 6850 (HD-685X-ZCFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24794/##
+price:::$ 109.690##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 775 MHz core / 775 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_6850_png_100x100_q85.jpg
+name:::XFX HD 6850 (HD-685X-ZNFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/7042/##
+price:::$ 113.353##
+description:::GPU: AMD Radeon HD 6850++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 775 MHz core / 775 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TVXFX06871-I_gif_100x100_q85.jpg
+name:::XFX HD 6870 (HD-687A-ZHFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19183/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22567/##
+price:::$ 119.690##$ 124.900##
+description:::GPU: AMD Radeon HD 6870++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-10981-1_200_jpg_100x100_q85.jpg
+name:::XFX HD 6870 (HD-687X-CNFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25399/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31285/##
+price:::$ 159.367##$ 175.560##
+description:::GPU: AMD Radeon HD 6870++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1050 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_6990_jpg_100x100_q85.jpg
+name:::XFX HD 6990 (HD-699A-ENF9)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31684/##
+price:::$ 462.890##
+description:::GPU: AMD Radeon HD 6990++Memoria: 4096 MB GDDR5 (256 bit)++Frecuencias: 830 MHz core / 830 MHz shaders / 1250 MHz memorias++Bus: PCI Express 2.1 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-775A-ZNL4_jpg_100x100_q85.jpg
+name:::XFX HD 7750 (FX-775A-ZNL4)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31758/##
+price:::$ 84.990##
+description:::GPU: AMD Radeon HD 7750++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-777A-ZNB4_jpg_100x100_q85.jpg
+name:::XFX HD 7770 GHz Edition (FX-777A-ZNB4)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31677/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31425/##
+price:::$ 99.990##$ 103.690##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1095 MHz core / 1095 MHz shaders / 4980 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/XFX_HD_7770_jpg_100x100_q85.jpg
+name:::XFX HD 7770 GHz Edition (FX-777A-ZNF4)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26137/##
+price:::$ 123.800##
+description:::GPU: AMD Radeon HD 7770 GHz Edition++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 1000 MHz core / 1000 MHz shaders / 1125 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-785A-CDBC_1_jpg_100x100_q85.jpg
+name:::XFX HD 7850 (FX-785A-CNFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/32451/##
+price:::$ 179.955##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 860 MHz core / 860 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-785A-CDBC_jpg_100x100_q85.jpg
+name:::XFX HD 7850 (FX-785A-CNJC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32122/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32571/##
+price:::$ 179.990##$ 188.050##
+description:::GPU: AMD Radeon HD 7850++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 860 MHz core / 860 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-787A-CDFC_jpg_100x100_q85.jpg
+name:::XFX HD 7870 (FX-787A-CDFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31761/##
+price:::$ 259.990##
+description:::GPU: AMD Radeon HD 7870++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 100 MHz core / 100 MHz shaders / 1200 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-795A-TNFC_jpg_100x100_q85.jpg
+name:::XFX HD 7950 (FX-795A-TNBC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26751/##
+price:::$ 329.088##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 900 MHz core / 900 MHz shaders / 1375 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FX-795A-TNFC_jpg_100x100_q85.jpg
+name:::XFX HD 7950 (FX-795A-TNFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31681/##
+price:::$ 279.990##
+description:::GPU: AMD Radeon HD 7950++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 800 MHz core / 800 MHz shaders / 5000 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/xfx_hd_7970_jpg_100x100_q85.jpg
+name:::XFX HD 7970 (FX-797A-TNFC)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31683/##
+price:::$ 400.890##
+description:::GPU: AMD Radeon HD 7970++Memoria: 3072 MB GDDR5 (384 bit)++Frecuencias: 925 MHz core / 925 MHz shaders / 1375 MHz memorias++Bus: PCI Express 3.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_8400_GS_png_100x100_q85.jpg
+name:::Zotac 8400 GS (ZT-84GEH2M-HSL)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11922/##
+price:::$ 22.500##
+description:::GPU: NVIDIA GeForce 8400 GS++Memoria: 512 MB DDR2 (64 bit)++Frecuencias: 520 MHz core / 1040 MHz shaders / 333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_9500_GT_png_100x100_q85.jpg
+name:::Zotac 9500 GT (ZT-95TEK2M-FSL)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18735/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/9342/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12286/##
+price:::$ 31.698##$ 32.900##$ 37.306##
+description:::GPU: NVIDIA GeForce 9500 GT++Memoria: 1024 MB GDDR2 (128 bit)++Frecuencias: 550 MHz core / 1400 MHz shaders / 400 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotag_GT210_png_100x100_q85.jpg
+name:::Zotac G 210 (ZT-20308-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/22431/##
+price:::$ 26.900##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1040 MHz shaders / 667 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotag_GT210_png_100x100_q85.jpg
+name:::Zotac G 210 (ZT-20313-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28154/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30305/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/24791/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31635/##
+price:::$ 20.404##$ 22.900##$ 22.990##$ 22.990##
+description:::GPU: NVIDIA GeForce G 210++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 520 MHz core / 1040 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTS_430_png_100x100_q85.jpg
+name:::Zotac GT 430 (ZT-40603-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/12756/##
+price:::$ 45.968##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/10700_3_jpg_100x100_q85.jpg
+name:::Zotac GT 430 (ZT-40607-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31644/##
+price:::$ 35.990##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 1024 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZT-40608-10L_jpg_100x100_q85.jpg
+name:::Zotac GT 430 (ZT-40608-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26670/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29393/##
+price:::$ 49.528##$ 54.805##
+description:::GPU: NVIDIA GeForce GT 430++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 700 MHz core / 1400 MHz shaders / 1333 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GT_440_png_100x100_q85.jpg
+name:::Zotac GT 440 (ZT-40702-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14357/##
+price:::$ 57.460##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 800 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac__GeForce_GT440_jpg_100x100_q85.jpg
+name:::Zotac GT 440 (ZT-40707-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28343/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29655/##
+price:::$ 54.054##$ 59.655##
+description:::GPU: NVIDIA GeForce GT 440++Memoria: 2048 MB DDR3 (128 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 666 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/zt-50603-10l-1_png_100x100_q85.jpg
+name:::Zotac GT 520 (ZT-50603-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19172/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/17928/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19490/##
+price:::$ 31.890##$ 34.900##$ 38.797##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 666 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GT_520_jpg_100x100_q85.jpg
+name:::Zotac GT 520 (ZT-50604-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27912/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31638/##
+price:::$ 26.302##$ 29.690##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 1024 MB GDDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 533 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZT-50605-10L_jpg_100x100_q85.jpg
+name:::Zotac GT 520 (ZT-50605-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/30348/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27768/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27841/##
+price:::$ 36.500##$ 38.755##$ 42.500##
+description:::GPU: NVIDIA GeForce GT 520++Memoria: 2048 MB DDR3 (64 bit)++Frecuencias: 810 MHz core / 1620 MHz shaders / 1066 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTS_450_png_100x100_q85.jpg
+name:::Zotac GTS 450 (ZT-40503-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14939/##
+price:::$ 83.056##
+description:::GPU: NVIDIA GeForce GTS 450++Memoria: 1024 MB GDDR5 (128 bit)++Frecuencias: 810 MHz core / 1566 MHz shaders / 902 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTX_465_jpg_100x100_q85.jpg
+name:::Zotac GTX 465 (ZT-40301-10P)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/7214/##
+price:::$ 169.900##
+description:::GPU: NVIDIA GeForce GTX 465++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 607 MHz core / 1215 MHz shaders / 802 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_Gtx_550_jpg_100x100_q85.jpg
+name:::Zotac GTX 550 Ti (ZT-50401-10L)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/13218/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31649/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26041/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14358/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28558/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29758/##
+price:::$ 82.900##$ 83.690##$ 92.240##$ 92.981##$ 98.189##$ 101.840##
+description:::GPU: NVIDIA GeForce GTX 550 Ti++Memoria: 1024 MB GDDR5 (192 bit)++Frecuencias: 900 MHz core / 1800 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTX_560_png_100x100_q85.jpg
+name:::Zotac GTX 560 Ti (ZT-50301-10M)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/19493/##
+price:::$ 174.597##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 822 MHz core / 1644 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTX_560_ti_jpg_100x100_q85.jpg
+name:::Zotac GTX 560 Ti (ZT-50302-10M)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25643/##
+price:::$ 139.900##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 950 MHz core / 1900 MHz shaders / 1100 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/10223_2_jpg_100x100_q85.jpg
+name:::Zotac GTX 560 Ti (ZT-50306-10M)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31655/##
+price:::$ 139.990##
+description:::GPU: NVIDIA GeForce GTX 560 Ti++Memoria: 1024 MB GDDR5 (256 bit)++Frecuencias: 822 MHz core / 1645 MHz shaders / 1000 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Zotac_GTX_570_jpg_100x100_q85.jpg
+name:::Zotac GTX 570 (ZT-50203-10M)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31657/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22518/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28570/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14712/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29380/##
+price:::$ 203.290##$ 226.809##$ 241.514##$ 241.854##$ 250.250##
+description:::GPU: NVIDIA GeForce GTX 570++Memoria: 1280 MB GDDR5 (320 bit)++Frecuencias: 732 MHz core / 1464 MHz shaders / 950 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZT-50105-10P_jpg_100x100_q85.jpg
+name:::Zotac GTX 580 (ZT-50105-10P)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30724/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29654/##
+price:::$ 334.795##$ 369.085##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 772 MHz core / 1544 MHz shaders / 1004 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/zotac_jpg_100x100_q85.jpg
+name:::Zotac GTX 580 (ZT-50106-10P)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31659/##
+price:::$ 280.190##
+description:::GPU: NVIDIA GeForce GTX 580++Memoria: 1536 MB GDDR5 (384 bit)++Frecuencias: 815 MHz core / 1630 MHz shaders / 1025 MHz memorias++Bus: PCI Express 2.0 x16++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZT-60101-10P_jpg_100x100_q85.jpg
+name:::Zotac GTX 680 (ZT-60101-10P)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31661/##
+price:::$ 351.490##
+description:::GPU: NVIDIA GeForce GTX 680++Memoria: 2048 MB GDDR5 (256 bit)++Frecuencias: 1006 MHz core / 1006 MHz shaders / 6008 MHz memorias++Bus: PCI Express 3.0 x16++
+######

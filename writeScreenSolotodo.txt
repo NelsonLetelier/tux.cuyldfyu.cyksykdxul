@@ -1,0 +1,1698 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S230HL_jpg_100x100_q85.jpg
+name:::Acer   S230HL
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31428/##
+price:::$ 89.690##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 100000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dmweb_lonuevo_aoc_jpg_100x100_q85.jpg
+name:::AOC   2036S
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/8003/##
+price:::$ 76.850##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 60000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_5_png_100x100_q85.jpg
+name:::AOC   E1619SW
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23894/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31473/##
+price:::$ 48.500##$ 59.886##
+description:::Tipo: LCD tradicional++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 1500:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_5_png_100x100_q85.jpg
+name:::AOC   E1621SW
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20094/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/31254/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17910/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29809/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21469/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18481/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/30223/##
+price:::$ 43.890##$ 44.610##$ 44.990##$ 45.105##$ 45.759##$ 45.900##$ 46.300##$ 47.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/d50e6864da3c1e9a54c7acfcacf6081a_medium_png_100x100_q85.jpg
+name:::AOC   E1649FWU (USB PORT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27709/##
+price:::$ 83.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 500:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AOC_E2043FK_png_100x100_q85.jpg
+name:::AOC   E2043FK
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20230/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/29008/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10231/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14838/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30442/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14076/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28626/##
+price:::$ 65.650##$ 66.900##$ 67.490##$ 67.900##$ 68.385##$ 68.900##$ 69.979##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/aoc_e2043fs_1_jpg_100x100_q85.jpg
+name:::AOC   E2043FS
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14837/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/13012/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28625/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26987/##
+price:::$ 65.900##$ 66.900##$ 67.431##$ 73.990##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/aoc_e2043fs_1_jpg_100x100_q85.jpg
+name:::AOC   E2043FSK
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27773/##
+price:::$ 67.900##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2051SN_jpg_100x100_q85.jpg
+name:::AOC   E2051SN
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31427/##
+price:::$ 65.690##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2239Fwt_jpg_100x100_q85.jpg
+name:::AOC   E2239FWT
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/14429/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16458/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18937/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28639/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26994/##
+price:::$ 145.290##$ 145.900##$ 149.762##$ 158.339##$ 185.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S230HL_jpg_100x100_q85.jpg
+name:::Acer   S230HL
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31428/##
+price:::$ 89.690##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 100000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dmweb_lonuevo_aoc_jpg_100x100_q85.jpg
+name:::AOC   2036S
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/8003/##
+price:::$ 76.850##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 60000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_5_png_100x100_q85.jpg
+name:::AOC   E1619SW
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23894/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31473/##
+price:::$ 48.500##$ 59.886##
+description:::Tipo: LCD tradicional++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 1500:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_5_png_100x100_q85.jpg
+name:::AOC   E1621SW
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20094/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/31254/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17910/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29809/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21469/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/9499/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/18481/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/30223/##
+price:::$ 43.890##$ 44.610##$ 44.990##$ 45.105##$ 45.759##$ 45.900##$ 46.300##$ 47.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/d50e6864da3c1e9a54c7acfcacf6081a_medium_png_100x100_q85.jpg
+name:::AOC   E1649FWU (USB PORT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27709/##
+price:::$ 83.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 500:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AOC_E2043FK_png_100x100_q85.jpg
+name:::AOC   E2043FK
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20230/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/29008/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10231/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14838/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30442/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14076/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28626/##
+price:::$ 65.650##$ 66.900##$ 67.490##$ 67.900##$ 68.385##$ 68.900##$ 69.979##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/aoc_e2043fs_1_jpg_100x100_q85.jpg
+name:::AOC   E2043FS
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14837/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/13012/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28625/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26987/##
+price:::$ 65.900##$ 66.900##$ 67.431##$ 73.990##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/aoc_e2043fs_1_jpg_100x100_q85.jpg
+name:::AOC   E2043FSK
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27773/##
+price:::$ 67.900##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2051SN_jpg_100x100_q85.jpg
+name:::AOC   E2051SN
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31427/##
+price:::$ 65.690##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2239Fwt_jpg_100x100_q85.jpg
+name:::AOC   E2239FWT
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/14429/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16458/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18937/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28639/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26994/##
+price:::$ 145.290##$ 145.900##$ 149.762##$ 158.339##$ 185.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2243fwk_jpg_100x100_q85.jpg
+name:::AOC   E2243FWK 
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26251/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30527/##
+price:::$ 83.900##$ 83.990##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2343FSK_gif_100x100_q85.jpg
+name:::AOC   E2343FSK
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27710/##
+price:::$ 101.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AOC_E943FWK_png_100x100_q85.jpg
+name:::AOC   E943FWK
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/10748/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/14836/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14075/##
+price:::$ 57.590##$ 57.900##$ 59.900##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 50000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1950_1_jpg_100x100_q85.jpg
+name:::AOC   E950SW
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20952/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29465/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25039/##
+price:::$ 54.457##$ 55.775##$ 56.900##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L26W931_png_100x100_q85.jpg
+name:::AOC   L26W931
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/8011/##
+price:::$ 189.940##
+description:::Tipo: LCD tradicional++Tamaño: 26.0"++Resolución: HD (1366x768)++Contraste: 15000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L42H931_jpg_100x100_q85.jpg
+name:::AOC   L42H931
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/8010/##
+price:::$ 385.990##
+description:::Tipo: LCD tradicional++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 20000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LC32W134_jpg_100x100_q85.jpg
+name:::AOC   LC32W134
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31395/##
+price:::$ 179.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot1_15_png_100x100_q85.jpg
+name:::AOC   LE19W037
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/8759/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17134/##
+price:::$ 89.990##$ 89.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot1_14_png_100x100_q85.jpg
+name:::AOC   LE22H037
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17136/##http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/8517/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/28332/##
+price:::$ 109.990##$ 109.990##$ 109.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AOC_png_100x100_q85.jpg
+name:::AOC   LE24H037
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17629/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28448/##
+price:::$ 129.990##$ 135.990##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LE32W1342_jpg_100x100_q85.jpg
+name:::AOC   LE32W1342
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31919/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31436/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28444/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31345/##
+price:::$ 179.990##$ 191.854##$ 193.990##$ 195.455##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-10733-1_200_jpg_100x100_q85.jpg
+name:::AOC   N936SW
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/17554/##
+price:::$ 52.900##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 60000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Apple_Cinema_Display_png_100x100_q85.jpg
+name:::Apple Cinema Display 27" LED (MC007CI/A)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/8364/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24727/##
+price:::$ 639.000##$ 649.990##
+description:::Tipo: LCD LED++Tamaño: 27.0"++Resolución: 2560x1440++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ld0000806412_2_jpg_100x100_q85.jpg
+name:::ASUS   VH197D
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30205/##
+price:::$ 61.900##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bl2201pt_monitor6_jpg_100x100_q85.jpg
+name:::BenQ   BL2201PT
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30158/##
+price:::$ 121.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: 1680x1050++Contraste: 12000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/GL930-B_gif_100x100_q85.jpg
+name:::BenQ   GL930-B 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26504/##
+price:::$ 52.200##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 12000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H315_White_jpg_100x100_q85.jpg
+name:::Blusens   H315 (Black)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/28172/##
+price:::$ 79.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 80000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H315_White_jpg_100x100_q85.jpg
+name:::Blusens   H315 (White)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/28173/##
+price:::$ 79.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 80000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/H315_blue_jpg_100x100_q85.jpg
+name:::Blusens   H315 Blue Full HD 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/30849/##
+price:::$ 119.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 80000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Compaq-S1922_jpg_100x100_q85.jpg
+name:::Compaq   S1922
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18895/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28603/##
+price:::$ 62.281##$ 66.431##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 5000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_10_png_100x100_q85.jpg
+name:::Dell   E1912H
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/13741/##
+price:::$ 99.112##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2011H_jpg_100x100_q85.jpg
+name:::Dell   E2011H
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27548/##http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/10204/##
+price:::$ 79.990##$ 119.020##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2211H_jpg_100x100_q85.jpg
+name:::Dell   E2211H
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/10206/##
+price:::$ 139.045##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2311H_jpg_100x100_q85.jpg
+name:::Dell   E2311H
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27549/##
+price:::$ 129.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_13_png_100x100_q85.jpg
+name:::Dell   IN2030M
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/13740/##
+price:::$ 115.002##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P2011H_jpg_100x100_q85.jpg
+name:::Dell   P2011H
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/20288/##
+price:::$ 135.002##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P2311H_jpg_100x100_q85.jpg
+name:::Dell   P2311H
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/20299/##
+price:::$ 158.998##
+description:::Tipo: LCD tradicional++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/P2411H_jpg_100x100_q85.jpg
+name:::Dell   P2411H
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/17281/##
+price:::$ 169.154##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/monitor-Dell-S2330MX_jpg_100x100_q85.jpg
+name:::Dell   S2230MX 
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/16999/##
+price:::$ 118.879##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/monitor-Dell-S2330MX_jpg_100x100_q85.jpg
+name:::Dell   S2330MX
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/16965/##
+price:::$ 138.839##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/monitor-dell-st2220l-overview3_jpg_100x100_q85.jpg
+name:::Dell   ST2220L
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/14970/##
+price:::$ 139.002##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Dell-ST2220T-Monitor_jpg_100x100_q85.jpg
+name:::Dell   ST2220T
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/12668/##
+price:::$ 198.948##
+description:::Tipo: LCD tradicional++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/dell_st2320l_jpg_100x100_q85.jpg
+name:::Dell   ST2320L
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/8361/##
+price:::$ 159.003##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST2420L_jpg_100x100_q85.jpg
+name:::Dell   ST2420L
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/8362/##
+price:::$ 179.001##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/295_jpg_100x100_q85.jpg
+name:::Dell   U2312HM
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/17341/##
+price:::$ 149.123##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/U2410_jpg_100x100_q85.jpg
+name:::Dell   U2410
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/10214/##
+price:::$ 384.875##
+description:::Tipo: LCD tradicional++Tamaño: 24.0"++Resolución: 1920x1200++Contraste: 80000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/U2711_jpg_100x100_q85.jpg
+name:::Dell   U2711
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/10215/##
+price:::$ 539.186##
+description:::Tipo: LCD tradicional++Tamaño: 27.0"++Resolución: 2560x1440++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/U3011_jpg_100x100_q85.jpg
+name:::Dell   U3011
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/10216/##
+price:::$ 869.092##
+description:::Tipo: LCD tradicional++Tamaño: 30.0"++Resolución: 2560x1600++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AW2310_jpg_100x100_q85.jpg
+name:::Dell Alienware OptX AW2310
+store:::http://solotodo.net/media/pics/resize/store_logos/dell-jpg_jpg_140x90_q85.jpg++/store_product/8363/##
+price:::$ 330.128##
+description:::Tipo: LCD tradicional++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 80000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_9_png_100x100_q85.jpg
+name:::Haier   22K300
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/17824/##
+price:::$ 109.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Haier-L32K60B-LED-TV-Egypt_jpg_100x100_q85.jpg
+name:::Haier   32K60B
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27898/##
+price:::$ 149.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_11_png_100x100_q85.jpg
+name:::Haier   L32A300
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/25530/##
+price:::$ 199.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_11_png_100x100_q85.jpg
+name:::Haier   L32F6
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/25043/##
+price:::$ 179.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 3000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_11_png_100x100_q85.jpg
+name:::Haier   L42A300
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/17825/##
+price:::$ 339.990##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_11_png_100x100_q85.jpg
+name:::Haier   L42F6
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/25045/##
+price:::$ 279.990##
+description:::Tipo: LCD tradicional++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 4000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Captura_JPG_100x100_q85.jpg
+name:::Haier   LE55H320
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/23852/##
+price:::$ 649.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot1_24_png_100x100_q85.jpg
+name:::Hawk   HD-22
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/11507/##
+price:::$ 89.990##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_l1710_jpg_100x100_q85.jpg
+name:::HP   L1710
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28607/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/22525/##
+price:::$ 67.158##$ 77.631##
+description:::Tipo: LCD tradicional++Tamaño: 17.0"++Resolución: 1280x1024++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hp_l1710_jpg_100x100_q85.jpg
+name:::HP   LE1711
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19525/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29570/##
+price:::$ 62.711##$ 63.535##
+description:::Tipo: LCD tradicional++Tamaño: 17.0"++Resolución: 1280x1024++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LE1901W_jpg_100x100_q85.jpg
+name:::HP   LE1901W
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18916/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28606/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29829/##
+price:::$ 68.595##$ 73.255##$ 87.290##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L1908W_jpg_100x100_q85.jpg
+name:::HP   LE1908W
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/8605/##
+price:::$ 75.560##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_NK570AA_jpg_100x100_q85.jpg
+name:::HP   NK570AA
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31357/##
+price:::$ 70.325##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HP_S1933_jpg_100x100_q85.jpg
+name:::HP   S1933
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30831/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30684/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18875/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30571/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29054/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28627/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27077/##
+price:::$ 51.990##$ 56.900##$ 65.714##$ 65.890##$ 69.355##$ 71.071##$ 78.990##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 600:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ZR2040W_jpg_100x100_q85.jpg
+name:::HP   ZR2040W 
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20277/##
+price:::$ 143.159##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c02922257_jpg_100x100_q85.jpg
+name:::HP   ZR2440W
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31697/##
+price:::$ 280.624##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 2000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LCD2410FHD_jpg_100x100_q85.jpg
+name:::IRT   2410FHD
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28446/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/17454/##
+price:::$ 135.990##$ 139.990##
+description:::Tipo: LCD tradicional++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 800:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/D186_jpg_100x100_q85.jpg
+name:::Lenovo   D186
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28608/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26975/##
+price:::$ 80.808##$ 90.990##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 600:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/D186wA_jpg_100x100_q85.jpg
+name:::Lenovo   D186WA
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29317/##
+price:::$ 78.560##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 700:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L2021_gif_100x100_q85.jpg
+name:::Lenovo   L2021
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30743/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27133/##
+price:::$ 117.188##$ 132.990##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LT1952P_jpg_100x100_q85.jpg
+name:::Lenovo   LT1952P
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30738/##
+price:::$ 110.854##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L1711P_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L1711P
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18927/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28610/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29506/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26976/##
+price:::$ 82.348##$ 88.270##$ 88.755##$ 98.990##
+description:::Tipo: LCD tradicional++Tamaño: 17.0"++Resolución: 1280x1024++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Lenovo_Thinkvision_L1951p_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L1900p
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28613/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26978/##
+price:::$ 104.559##$ 111.990##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1280x1024++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Lenovo_Thinkvision_L1951p_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L1951p
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28611/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26977/##
+price:::$ 98.462##$ 104.990##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2448HB6_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L1951P
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29202/##
+price:::$ 93.605##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/L197w_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L197w
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31435/##
+price:::$ 85.518##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/lenovo_thinkvision_L2250p_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision L2250P
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27138/##
+price:::$ 164.990##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: 1680x1050++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Lenovo_LS_22_jpg_100x100_q85.jpg
+name:::Lenovo ThinkVision LS2421p
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30744/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27140/##
+price:::$ 203.341##$ 238.990##
+description:::Tipo: LCD LED++Tamaño: 23.6"++Resolución: Full HD (1920x1080)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_19LD350_LCD_TV_2_jpg_100x100_q85.jpg
+name:::LG   19LD350
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/8119/##
+price:::$ 119.990##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/lg-lcd-tv-22lk230-large_01_jpg_100x100_q85.jpg
+name:::LG   22LK230
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31764/##
+price:::$ 119.990##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: HD (1366x768)++Contraste: 5500:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1314244505_1_jpg_100x100_q85.jpg
+name:::LG   25" M2550A-PM 
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/18429/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31469/##
+price:::$ 144.990##$ 171.100##
+description:::Tipo: LCD LED++Tamaño: 25.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-10887-1_200_jpg_100x100_q85.jpg
+name:::LG   26LK311C
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16960/##
+price:::$ 149.900##
+description:::Tipo: LCD tradicional++Tamaño: 26.0"++Resolución: HD (1366x768)++Contraste: 60000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LD330_jpg_100x100_q85.jpg
+name:::LG   32LD330
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10872/##
+price:::$ 229.046##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LD330_jpg_100x100_q85.jpg
+name:::LG   32LD340
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28450/##
+price:::$ 193.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LE5300_png_100x100_q85.jpg
+name:::LG   32LE5500
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12412/##
+price:::$ 383.822##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/213213213213_jpg_100x100_q85.jpg
+name:::LG   32LK310
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/18399/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/17775/##
+price:::$ 169.990##$ 179.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LK450_jpg_100x100_q85.jpg
+name:::LG   32LK330
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16412/##
+price:::$ 270.363##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LK450_jpg_100x100_q85.jpg
+name:::LG   32LK450
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/13351/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/14276/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17180/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/16045/##
+price:::$ 159.990##$ 199.990##$ 239.990##$ 239.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/32LK451C_jpg_100x100_q85.jpg
+name:::LG   32LK451C
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27338/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30741/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29470/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27084/##
+price:::$ 187.000##$ 191.175##$ 199.335##$ 243.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/32LS3500_jpg_100x100_q85.jpg
+name:::LG   32LS3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30025/##
+price:::$ 259.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: 1280x720++Contraste: 1000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot2_15_png_100x100_q85.jpg
+name:::LG   32LV2500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/14160/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/14271/##
+price:::$ 259.990##$ 259.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 1000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/32LV255C_jpg_100x100_q85.jpg
+name:::LG   32LV255C
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27359/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29637/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27095/##
+price:::$ 219.990##$ 229.880##$ 275.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 1000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot4_5_png_100x100_q85.jpg
+name:::LG   32LV3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/13353/##
+price:::$ 219.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sdfg_jpg_100x100_q85.jpg
+name:::LG   32LV3700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/24998/##http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/22494/##
+price:::$ 279.990##$ 329.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot7_3_png_100x100_q85.jpg
+name:::LG   32LW5700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27448/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28457/##
+price:::$ 359.990##$ 368.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 8000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_42LD461_jpg_100x100_q85.jpg
+name:::LG   37LD461
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10596/##
+price:::$ 298.450##
+description:::Tipo: LCD tradicional++Tamaño: 37.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LK450_jpg_100x100_q85.jpg
+name:::LG   37LK450
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/13629/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/12776/##
+price:::$ 179.990##$ 289.990##
+description:::Tipo: LCD tradicional++Tamaño: 37.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/37LK451C_jpg_100x100_q85.jpg
+name:::LG   37LK451C
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27339/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29277/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27086/##
+price:::$ 255.990##$ 260.445##$ 297.990##
+description:::Tipo: LCD tradicional++Tamaño: 37.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_42LK450_jpg_100x100_q85.jpg
+name:::LG   42LK450
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/18427/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/16048/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28434/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/26968/##
+price:::$ 258.990##$ 279.990##$ 290.990##$ 299.990##
+description:::Tipo: LCD tradicional++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2000330082590.3_jpeg_100x100_q85.jpg
+name:::LG   42LK451C
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27087/##
+price:::$ 307.990##
+description:::Tipo: LCD tradicional++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3300145_2_1_jpg_100x100_q85.jpg
+name:::LG   42LS4600
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31621/##
+price:::$ 389.990##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3300145_2_jpg_100x100_q85.jpg
+name:::LG   42LS5700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31442/##
+price:::$ 419.990##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot4_5_png_100x100_q85.jpg
+name:::LG   42LV345C
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27142/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24434/##
+price:::$ 402.990##$ 455.137##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sdfg_jpg_100x100_q85.jpg
+name:::LG   42LV3700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/25001/##
+price:::$ 399.990##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LE5300_png_100x100_q85.jpg
+name:::LG   47LE5500
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8668/##
+price:::$ 731.037##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3300145_2_1_jpg_100x100_q85.jpg
+name:::LG   47LS4600
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31784/##
+price:::$ 599.990##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3300145_2_jpg_100x100_q85.jpg
+name:::LG   47LS5700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31622/##
+price:::$ 649.990##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot4_5_png_100x100_q85.jpg
+name:::LG   47LV3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/14493/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17161/##http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/14698/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16413/##
+price:::$ 359.990##$ 499.990##$ 499.990##$ 741.458##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sdfg_jpg_100x100_q85.jpg
+name:::LG   47LV3700 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/25007/##
+price:::$ 669.990##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/908984-999-001_jpg_100x100_q85.jpg
+name:::LG   47LW4500
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28442/##
+price:::$ 659.990##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: 4000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_50PA4500_jpg_100x100_q85.jpg
+name:::LG   50PA4500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/30172/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30311/##
+price:::$ 369.990##$ 369.990##
+description:::Tipo: Plasma  ++Tamaño: 50.0"++Resolución: 1024x768++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_42PW350_jpg_100x100_q85.jpg
+name:::LG   50PT250B
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/24516/##
+price:::$ 369.990##
+description:::Tipo: Plasma  ++Tamaño: 42.0"++Resolución: 1024x768++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_32LE5300_png_100x100_q85.jpg
+name:::LG   55LE5300
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12413/##
+price:::$ 896.047##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot4_5_png_100x100_q85.jpg
+name:::LG   55LV3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17451/##
+price:::$ 799.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/lg_55lw5700_jpg_100x100_q85.jpg
+name:::LG   55LW5700
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17540/##
+price:::$ 999.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 7000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1321_1_jpg_100x100_q85.jpg
+name:::LG   D2342P
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15782/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/21490/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/16890/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24741/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/16504/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31474/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20154/##
+price:::$ 118.890##$ 138.900##$ 139.900##$ 147.990##$ 149.900##$ 164.900##$ 164.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E1641S_jpg_100x100_q85.jpg
+name:::LG   E1641
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27150/##
+price:::$ 51.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E1641S_jpg_100x100_q85.jpg
+name:::LG   E1641S
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/27253/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27931/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/28053/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/23388/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26985/##
+price:::$ 48.900##$ 49.900##$ 49.900##$ 54.900##$ 55.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_E1940S_jpg_100x100_q85.jpg
+name:::LG   E1941S
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/12507/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24742/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/23389/##
+price:::$ 56.890##$ 63.990##$ 64.900##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1850-3410-large_jpg_100x100_q85.jpg
+name:::LG   E1942C
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30934/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30844/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32047/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29468/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/29007/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31738/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/28465/##
+price:::$ 53.890##$ 53.991##$ 55.860##$ 56.745##$ 57.900##$ 58.086##$ 64.900##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 5000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e1951s-21_JPG_100x100_q85.jpg
+name:::LG   E1951S
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27706/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/26755/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25131/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25613/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29616/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/23133/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25040/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/24186/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/25680/##
+price:::$ 57.890##$ 57.900##$ 57.990##$ 58.190##$ 59.160##$ 59.697##$ 59.900##$ 63.150##$ 63.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2060s-3_1_png_100x100_q85.jpg
+name:::LG   E1960S
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27255/##
+price:::$ 56.990##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2040S_jpg_100x100_q85.jpg
+name:::LG   E2041S 
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/11723/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/28020/##
+price:::$ 67.989##$ 84.990##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2042c_jpg_100x100_q85.jpg
+name:::LG   E2042c
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31313/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31230/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31193/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/31739/##
+price:::$ 63.981##$ 65.475##$ 68.900##$ 70.170##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/20_LG_FLATRON_E2050S-PN_8_jpeg_100x100_q85.jpg
+name:::LG   E2050S
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25645/##
+price:::$ 69.900##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E2051S_jpg_100x100_q85.jpg
+name:::LG   E2051S
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26990/##
+price:::$ 76.990##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2060s-3_1_png_100x100_q85.jpg
+name:::LG   E2060S
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/11807/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11748/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/17080/##
+price:::$ 59.990##$ 62.900##$ 76.715##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2341vg_jpg_100x100_q85.jpg
+name:::LG   E2241
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/27203/##
+price:::$ 88.900##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_E2250V_jpg_100x100_q85.jpg
+name:::LG   E2250S
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/21560/##
+price:::$ 82.900##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/416228_LB_00_FB.EPS_1000_jpg_100x100_q85.jpg
+name:::LG   E2251VR
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29370/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/26483/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/28123/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27205/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26829/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25646/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26993/##
+price:::$ 87.290##$ 87.780##$ 87.991##$ 89.890##$ 89.900##$ 92.900##$ 102.990##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_E2290V_jpg_100x100_q85.jpg
+name:::LG   E2290V
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/12137/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/17084/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21126/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19235/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28640/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26981/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16236/##
+price:::$ 150.090##$ 152.780##$ 153.928##$ 156.990##$ 159.614##$ 174.990##$ 179.073##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/e2360v-1_1_png_100x100_q85.jpg
+name:::LG   E2360V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/15132/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/29011/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13216/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/11927/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/13299/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/26830/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28634/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31470/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26979/##
+price:::$ 104.500##$ 104.990##$ 106.690##$ 106.800##$ 108.990##$ 109.900##$ 110.474##$ 125.890##$ 127.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/-var-www-fotos-11729-1_200_jpg_100x100_q85.jpg
+name:::LG   IPS235P
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/32237/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28233/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/26253/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27094/##
+price:::$ 132.740##$ 140.590##$ 141.393##$ 148.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/IPS235V-BN_18_1600x1600_jpg_100x100_q85.jpg
+name:::LG   IPS235V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31214/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30936/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27118/##
+price:::$ 107.816##$ 115.500##$ 121.821##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG-IPS236V_jpg_100x100_q85.jpg
+name:::LG   IPS236V
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13069/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/12560/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26980/##
+price:::$ 117.360##$ 119.900##$ 137.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_E1940S_jpg_100x100_q85.jpg
+name:::LG   L1942T
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/13028/##
+price:::$ 65.518##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 8000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LS3500_jpg_100x100_q85.jpg
+name:::LG   LS3500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/30084/##
+price:::$ 259.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 1000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sin_t%C3%ADtulo_1_jpg_100x100_q85.jpg
+name:::LG   M1950A
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29248/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19215/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/17969/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24736/##
+price:::$ 91.170##$ 94.300##$ 97.900##$ 104.990##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_M197WA_JPG_100x100_q85.jpg
+name:::LG   M197WA
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/14360/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10871/##
+price:::$ 80.966##$ 106.737##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 20000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_M2241A_jpg_100x100_q85.jpg
+name:::LG   M2241A
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27361/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/17028/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20525/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28445/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29366/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17414/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18920/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28612/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24738/##
+price:::$ 94.990##$ 96.700##$ 96.990##$ 96.990##$ 97.960##$ 97.990##$ 99.494##$ 103.194##$ 127.990##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_M2380AF_jpg_100x100_q85.jpg
+name:::LG   M2380A
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27360/##
+price:::$ 115.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/m2380a-pm_jpg_100x100_q85.jpg
+name:::LG   M2380A-PM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20967/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27934/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/19508/##
+price:::$ 116.900##$ 119.900##$ 120.590##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_M2380AF_jpg_100x100_q85.jpg
+name:::LG   M2380AF
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/15285/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12686/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24749/##
+price:::$ 128.900##$ 139.527##$ 143.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/m2550a-pm_2_jpg_100x100_q85.jpg
+name:::LG   M2550A-PM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/19509/##
+price:::$ 139.990##
+description:::Tipo: LCD LED++Tamaño: 25.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_Widescreen_sm_jpg_100x100_q85.jpg
+name:::LG   M3800S-BN
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26982/##
+price:::$ 937.990##
+description:::Tipo: LCD tradicional++Tamaño: 38.0"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_M6503C_png_100x100_q85.jpg
+name:::LG   M6503C
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26983/##
+price:::$ 3.398.990##
+description:::Tipo: LCD tradicional++Tamaño: 65.0"++Resolución: Full HD (1920x1080)++Contraste: 5000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG-W1742S_jpg_100x100_q85.jpg
+name:::LG   W1643S
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/26404/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/10716/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/18113/##
+price:::$ 48.990##$ 49.900##$ 56.094##
+description:::Tipo: LCD tradicional++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 8000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/W1942TQ-BF_jpg_100x100_q85.jpg
+name:::LG   W1942TQ-BF
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/12248/##
+price:::$ 67.900##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 8000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Monitor-LG-W1943C_jpg_100x100_q85.jpg
+name:::LG   W1943C
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19221/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30706/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19082/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/7996/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/8372/##
+price:::$ 52.490##$ 55.280##$ 55.844##$ 59.990##$ 62.900##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Monitor-LG-W1943C_jpg_100x100_q85.jpg
+name:::LG   W1943SE
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19122/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/31043/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/13360/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29930/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30511/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32090/##
+price:::$ 54.100##$ 54.990##$ 55.770##$ 55.775##$ 56.900##$ 62.900##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Monitor-LG-W1943C_jpg_100x100_q85.jpg
+name:::LG   W1943SE-PF
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29199/##
+price:::$ 55.280##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG-20-W2043S_jpg_100x100_q85.jpg
+name:::LG   W2043s
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/8373/##
+price:::$ 72.900##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_W2046S-BF_jpg_100x100_q85.jpg
+name:::LG   W2046S-BF
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/12249/##
+price:::$ 68.900##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 30000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/w2360v-pn-1_png_100x100_q85.jpg
+name:::LG   W2360V
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/10696/##
+price:::$ 119.382##
+description:::Tipo: LCD tradicional++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LG_W2363V_jpg_100x100_q85.jpg
+name:::LG   W2363V
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7888/##
+price:::$ 147.900##
+description:::Tipo: LCD tradicional++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TX-L42E30E-HiRes-Image__Image--1Europe-1WebA1001001A11B07C11909E90587_jpg_100x100_q85.jpg
+name:::Panasonic   L42E30
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/19429/##
+price:::$ 369.990##
+description:::Tipo: LCD LED++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 4000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TC-L32X5_jpg_100x100_q85.jpg
+name:::Panasonic   TC-L32X5
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31396/##
+price:::$ 229.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TC-L47E5L_jpg_100x100_q85.jpg
+name:::Panasonic   TC-L47E5L
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31434/##
+price:::$ 499.990##
+description:::Tipo: LCD LED++Tamaño: 47.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/856310F2_jpg_100x100_q85.jpg
+name:::Polaroid   19088-TEKB
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28431/##
+price:::$ 69.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 22000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/856309F1_jpg_100x100_q85.jpg
+name:::Polaroid   F088
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28432/##
+price:::$ 96.990##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 22000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3101658_1_jpg_100x100_q85.jpg
+name:::Recco   32D12
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/19862/##
+price:::$ 119.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3011295_png_100x100_q85.jpg
+name:::Recco   RLED-19D20
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/18398/##
+price:::$ 69.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3011295_png_100x100_q85.jpg
+name:::Recco   RLED-24D20
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31333/##
+price:::$ 99.990##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/2000331016242.2_jpg_100x100_q85.jpg
+name:::Samsung   32D403
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/16596/##
+price:::$ 179.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LC-S400DX_jpg_100x100_q85.jpg
+name:::Samsung   400DX-2
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14019/##
+price:::$ 789.900##
+description:::Tipo: LCD tradicional++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: 10000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/large_03_jpg_100x100_q85.jpg
+name:::Samsung   60"D6500
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/15748/##
+price:::$ 1.699.990##
+description:::Tipo: LCD LED++Tamaño: 60.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/933HD_jpg_100x100_q85.jpg
+name:::Samsung   933HD
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14913/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7887/##
+price:::$ 73.900##$ 109.900##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 10000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_B1630N_png_100x100_q85.jpg
+name:::Samsung   B1630N
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7868/##
+price:::$ 46.900##
+description:::Tipo: LCD tradicional++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/samsung-b1930n_jpg_100x100_q85.jpg
+name:::Samsung   B1930N
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/11544/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29572/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28602/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/25150/##
+price:::$ 55.370##$ 58.190##$ 59.059##$ 65.990##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung-B2230N-LCD_jpg_100x100_q85.jpg
+name:::Samsung   B2230N
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7881/##
+price:::$ 99.900##
+description:::Tipo: LCD tradicional++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 70000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/BX1931N_JPG_100x100_q85.jpg
+name:::Samsung   BX1931N
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31749/##
+price:::$ 64.980##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_BX1950N_png_100x100_q85.jpg
+name:::Samsung   BX1950N
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7877/##
+price:::$ 74.900##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/03_large_2_jpg_100x100_q85.jpg
+name:::Samsung   C23A750 Wireless
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/16707/##
+price:::$ 208.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E1720NRX_jpg_100x100_q85.jpg
+name:::Samsung   E1720NRX
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26051/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28604/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/12080/##
+price:::$ 64.932##$ 67.158##$ 76.990##
+description:::Tipo: LCD tradicional++Tamaño: 17.0"++Resolución: 1280x1024++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/E450A1GXPE_jpg_100x100_q85.jpg
+name:::Samsung   E450A1GXPE
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/29991/##
+price:::$ 379.990##
+description:::Tipo: Plasma  ++Tamaño: 43.0"++Resolución: 1024x768++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ES7000_jpg_100x100_q85.jpg
+name:::Samsung   E8000 64"
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31400/##
+price:::$ 1.799.990##
+description:::Tipo: LCD LED++Tamaño: 64.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UA46ES6800JXZK-81102-10-0_jpg_100x100_q85.jpg
+name:::Samsung   ES6800
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31399/##
+price:::$ 699.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ES7000_jpg_100x100_q85.jpg
+name:::Samsung   ES7000 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27101/##
+price:::$ 899.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: 25000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ES7000_jpg_100x100_q85.jpg
+name:::Samsung   ES7000 (55")
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27172/##
+price:::$ 1.399.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 25000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ES7000_jpg_100x100_q85.jpg
+name:::Samsung   ES8000 (55")
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27173/##
+price:::$ 1.599.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: 30000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_LN32D450_jpg_100x100_q85.jpg
+name:::Samsung   LN32D400
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/18011/##
+price:::$ 179.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_LN32D450_jpg_100x100_q85.jpg
+name:::Samsung   LN32D403T
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28436/##
+price:::$ 174.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1-330_jpg_100x100_q85.jpg
+name:::Samsung   LN40D503F7G
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/17832/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/17201/##
+price:::$ 199.990##$ 329.990##
+description:::Tipo: LCD tradicional++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_LN32D550_jpg_100x100_q85.jpg
+name:::Samsung   LN46D550
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/14163/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/15706/##
+price:::$ 399.990##$ 399.990##
+description:::Tipo: LCD tradicional++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_LS19_jpg_100x100_q85.jpg
+name:::Samsung   LS19A10NS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14411/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/14233/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18869/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29585/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/20962/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/21561/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/19099/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/15411/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28601/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/17056/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/17046/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30364/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/16491/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26986/##
+price:::$ 49.900##$ 53.350##$ 53.905##$ 54.310##$ 54.900##$ 55.900##$ 55.989##$ 56.990##$ 57.785##$ 57.900##$ 61.156##$ 64.990##$ 65.443##$ 65.990##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 700:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SAMSUNG-LS19A300_jpg_100x100_q85.jpg
+name:::Samsung   LS19A300
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/14571/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19226/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/14412/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19524/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29072/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/30567/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/20474/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26988/##
+price:::$ 58.990##$ 59.000##$ 59.900##$ 61.533##$ 62.565##$ 64.010##$ 67.138##$ 74.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LS19PUYKFZS_jpg_100x100_q85.jpg
+name:::Samsung   LS19PUYKF/ZS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31246/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31197/##
+price:::$ 57.456##$ 61.100##
+description:::Tipo: LCD tradicional++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SAMSUNG-LS19A300_jpg_100x100_q85.jpg
+name:::Samsung   LS20A300
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/17914/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30421/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27933/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24745/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25381/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28168/##
+price:::$ 71.990##$ 72.740##$ 73.850##$ 74.990##$ 76.990##$ 82.600##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 15000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SAMSUNG-LS19A300_jpg_100x100_q85.jpg
+name:::Samsung   LS22A300BS
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/28054/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/21336/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29608/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/21530/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30347/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25382/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23502/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/26991/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31471/##
+price:::$ 84.900##$ 84.990##$ 86.320##$ 87.990##$ 89.846##$ 89.990##$ 90.990##$ 98.990##$ 105.000##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_P2770HD_png_100x100_q85.jpg
+name:::Samsung   P2770HD
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/8594/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8662/##
+price:::$ 151.485##$ 202.242##
+description:::Tipo: LCD tradicional++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_jpg_100x100_q85.jpg
+name:::Samsung   PL51E8000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30312/##
+price:::$ 1.099.990##
+description:::Tipo: Plasma  ++Tamaño: 51.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S16A100_jpg_100x100_q85.jpg
+name:::Samsung   S16A100
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/31203/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30933/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30386/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26800/##
+price:::$ 49.989##$ 50.890##$ 51.800##$ 51.990##
+description:::Tipo: LCD LED++Tamaño: 15.6"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1852_1_jpg_100x100_q85.jpg
+name:::Samsung   S19A100
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24426/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/20095/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/27932/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17963/##http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/23457/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29368/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31472/##
+price:::$ 54.481##$ 55.890##$ 57.700##$ 57.990##$ 58.190##$ 58.190##$ 67.330##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S19A300B_jpg_100x100_q85.jpg
+name:::Samsung   S19A300B
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26388/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29622/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30935/##
+price:::$ 59.990##$ 63.040##$ 64.890##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S19B300N_jpg_100x100_q85.jpg
+name:::Samsung   S19B300N
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31426/##
+price:::$ 62.590##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S20A300B_jpg_100x100_q85.jpg
+name:::Samsung   S20A300B
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/29009/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/26052/##
+price:::$ 70.900##$ 71.561##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S20B300B_gif_100x100_q85.jpg
+name:::Samsung   S20B300B
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31211/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27707/##
+price:::$ 71.247##$ 72.990##
+description:::Tipo: LCD LED++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/S22B300N_jpg_100x100_q85.jpg
+name:::Samsung   S22B300N
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29535/##
+price:::$ 85.845##
+description:::Tipo: LCD LED++Tamaño: 21.5"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/4786_2_jpg_100x100_q85.jpg
+name:::Samsung   S23A700D 3D
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30938/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/21267/##
+price:::$ 183.890##$ 188.990##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ls23b370hs-1_jpg_100x100_q85.jpg
+name:::Samsung   S23B370
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31768/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/31124/##
+price:::$ 111.474##$ 125.367##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LS23B550VS-XK-33363-18-0_jpg_100x100_q85.jpg
+name:::Samsung   S23B550V 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/30937/##
+price:::$ 126.390##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 3000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LED400332NA_R45_0_JPG_100x100_q85.jpg
+name:::Samsung   UN19D4003BXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/15361/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27962/##
+price:::$ 119.990##$ 119.990##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/large_01_jpg_100x100_q85.jpg
+name:::Samsung   UN22D5003BRXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/17642/##
+price:::$ 139.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LED400332NA_R45_0_1_JPG_100x100_q85.jpg
+name:::Samsung   UN32D4003BGXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/16446/##
+price:::$ 219.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN32EH4000_jpg_100x100_q85.jpg
+name:::Samsung   UN32EH4000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28316/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/26965/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/27942/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/28387/##
+price:::$ 209.990##$ 219.990##$ 219.990##$ 219.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN32EH4000_jpg_100x100_q85.jpg
+name:::Samsung   UN32EH5000
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/27943/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/27415/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/28317/##
+price:::$ 199.990##$ 239.990##$ 250.790##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 3500000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/979455-999-001_jpg_100x100_q85.jpg
+name:::Samsung   UN32EH5300
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31305/##
+price:::$ 249.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 3500000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_un40d6000_led_hdtv_01_jpg_100x100_q85.jpg
+name:::Samsung   UN40D6000
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/16217/##
+price:::$ 499.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN40EH5000_jpg_100x100_q85.jpg
+name:::Samsung   UN40EH5000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30832/##
+price:::$ 344.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: 3500000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN40EH5300GXZS_gif_100x100_q85.jpg
+name:::Samsung   UN40EH5300GXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31221/##
+price:::$ 369.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN46ES6100GXZS_jpg_100x100_q85.jpg
+name:::Samsung   UN40ES6100 
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31398/##
+price:::$ 489.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN40ES6500GXZS_jpg_100x100_q85.jpg
+name:::Samsung   UN40ES6500GXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31222/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31309/##
+price:::$ 539.990##$ 539.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_un40d6000_led_hdtv_01_jpg_100x100_q85.jpg
+name:::Samsung   UN46D6000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/15196/##
+price:::$ 699.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN40EH5000_jpg_100x100_q85.jpg
+name:::Samsung   UN46EH5000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/27170/##
+price:::$ 449.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: 3500000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN40EH5000_jpg_100x100_q85.jpg
+name:::Samsung   UN46EH6000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/27859/##
+price:::$ 469.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN46ES6100GXZS_jpg_100x100_q85.jpg
+name:::Samsung   UN46ES6100GXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31223/##
+price:::$ 599.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/3335578_2_jpg_100x100_q85.jpg
+name:::Samsung   UN46ES6500GXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31785/##
+price:::$ 659.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN46ES7000GXZS_jpg_100x100_q85.jpg
+name:::Samsung   UN46ES7000GXZS
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31224/##
+price:::$ 899.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/UN55ES8000_jpg_100x100_q85.jpg
+name:::Samsung   UN55ES7000
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/28219/##
+price:::$ 1.399.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 25000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot1_37_png_100x100_q85.jpg
+name:::Sharp   LC-46LE620
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/24333/##
+price:::$ 369.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: 3000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/LC-52D78_jpg_100x100_q85.jpg
+name:::Sharp   LC-52D78
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/11865/##
+price:::$ 499.990##
+description:::Tipo: LCD tradicional++Tamaño: 52.0"++Resolución: Full HD (1920x1080)++Contraste: 50000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-22BX300_Principal_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-22BX325
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27080/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12606/##
+price:::$ 152.990##$ 182.579##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_KDL-32BX300_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-32BX325
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/11970/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27199/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/11508/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12607/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27083/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/13709/##
+price:::$ 179.990##$ 189.990##$ 199.990##$ 214.886##$ 218.990##$ 219.900##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 10000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/IMG_KDL-32BX355_M_4-KDL-32BX355-CCW-RL_JPG_100x100_q85.jpg
+name:::Sony Bravia KDL-32BX355
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31304/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32038/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30696/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/31983/##
+price:::$ 159.990##$ 188.392##$ 199.990##$ 199.990##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_KDL-32BX300_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-32BX425
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/11509/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27085/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/12608/##
+price:::$ 219.990##$ 261.990##$ 292.130##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: 10000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_32EX405_png_100x100_q85.jpg
+name:::Sony Bravia KDL-32EX405
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/8185/##
+price:::$ 229.000##
+description:::Tipo: LCD tradicional++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_Bravia_KDL-32EX425_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-32EX425
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/13731/##
+price:::$ 309.240##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: 10000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony-Bravia-KDL-32EX525_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-32EX525
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/12209/##
+price:::$ 279.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/IMG_KDL-32EX555_L_1-KDL-32EX555-H-TL-RE-ES_JPG_100x100_q85.jpg
+name:::Sony Bravia KDL-32EX555
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31220/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/31981/##
+price:::$ 279.990##$ 279.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: HD (1366x768)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55HX755_1_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-32HX755
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31308/##
+price:::$ 379.990##
+description:::Tipo: LCD LED++Tamaño: 32.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/kdl-40bx425_negro_1_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40BX425
+store:::http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28455/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/11808/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24433/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27088/##
+price:::$ 290.990##$ 299.990##$ 317.380##$ 327.990##
+description:::Tipo: LCD tradicional++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/IMG_KDL-40BX455_M_1-KDL-40BX455-H-RL_JPG_100x100_q85.jpg
+name:::Sony Bravia KDL-40BX455
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30697/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32037/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30816/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/31307/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/31984/##
+price:::$ 229.990##$ 276.630##$ 288.575##$ 299.990##$ 299.990##
+description:::Tipo: LCD tradicional++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-40EX405_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40EX405
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8666/##
+price:::$ 485.851##
+description:::Tipo: LCD tradicional++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony-Bravia-KDL-32EX525_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40EX525
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/13356/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20357/##http://solotodo.net/media/pics/resize/store_logos/logo-nuevo_jpg_140x90_q85.jpg++/store_product/28458/##http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/15433/##
+price:::$ 379.990##$ 414.471##$ 426.990##$ 439.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-32EX725_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40EX725
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/11900/##
+price:::$ 629.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55HX755_1_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40HX755
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30791/##
+price:::$ 599.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_KDL-40NX715_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40NX715
+store:::http://solotodo.net/media/pics/resize/store_logos/LaPolar_Logo_png_140x90_q85.jpg++/store_product/8115/##
+price:::$ 899.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sony_KDL-40NX715_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-40NX725
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/12212/##http://solotodo.net/media/pics/resize/store_logos/Logo_Paris_png_140x90_q85.jpg++/store_product/28389/##
+price:::$ 629.990##$ 749.990##
+description:::Tipo: LCD LED++Tamaño: 40.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-46EX705_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-46EX525
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Ripley_png_140x90_q85.jpg++/store_product/12211/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/21572/##
+price:::$ 449.990##$ 701.361##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55HX755_1_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-46HX755
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/31443/##
+price:::$ 799.990##
+description:::Tipo: LCD LED++Tamaño: 46.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55EX505sony_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-55EX505
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8738/##
+price:::$ 765.562##
+description:::Tipo: LCD tradicional++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/screenshot3_13_png_100x100_q85.jpg
+name:::Sony Bravia KDL-55EX725
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27340/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27143/##
+price:::$ 939.990##$ 1.067.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: 5000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55HX755_1_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-55HX755
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30783/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30702/##http://solotodo.net/media/pics/resize/store_logos/Logo_Falabella_png_140x90_q85.jpg++/store_product/30512/##
+price:::$ 970.519##$ 986.975##$ 999.990##
+description:::Tipo: LCD LED++Tamaño: 55.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/KDL-55EX505sony_jpg_100x100_q85.jpg
+name:::Sony Bravia KDL-60EX505
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8669/##
+price:::$ 1.123.584##
+description:::Tipo: LCD tradicional++Tamaño: 60.0"++Resolución: Full HD (1920x1080)++Contraste: Desconocido++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/PA3769U-1LCH_jpg_100x100_q85.jpg
+name:::Toshiba   PA3769U-1LCH
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31476/##
+price:::$ 141.590##
+description:::Tipo: LCD tradicional++Tamaño: 23.6"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/223_jpg_100x100_q85.jpg
+name:::Viewsonic   CD4233
+store:::http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27089/##
+price:::$ 675.990##
+description:::Tipo: LCD tradicional++Tamaño: 42.0"++Resolución: Full HD (1920x1080)++Contraste: 1100:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/V3D231_jpg_100x100_q85.jpg
+name:::Viewsonic   V3D231
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32025/##
+price:::$ 178.062##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/v3d245_jpg_100x100_q85.jpg
+name:::Viewsonic   V3D245
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19943/##
+price:::$ 260.670##
+description:::Tipo: LCD LED++Tamaño: 23.6"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA1903WB_jpg_100x100_q85.jpg
+name:::Viewsonic   VA1903WB
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/8606/##
+price:::$ 136.760##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 700:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA1931WA-LED_jpg_100x100_q85.jpg
+name:::Viewsonic   VA1931WA-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32023/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31747/##
+price:::$ 65.690##$ 66.920##
+description:::Tipo: LCD LED++Tamaño: 18.5"++Resolución: HD (1366x768)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA1932WM_jpg_100x100_q85.jpg
+name:::Viewsonic   VA1932WM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/8499/##
+price:::$ 60.255##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1440x900++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/images_jpg_100x100_q85.jpg
+name:::Viewsonic   VA1938wa-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23893/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21273/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/24768/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31363/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24471/##
+price:::$ 56.500##$ 57.647##$ 57.990##$ 58.190##$ 64.967##
+description:::Tipo: LCD LED++Tamaño: 19.0"++Resolución: HD (1366x768)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VIWVA2248MLED.PNG_jpeg_100x100_q85.jpg
+name:::Viewsonic   VA2248m-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/19506/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30167/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18906/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/19233/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/31382/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/28214/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28631/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24746/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/21015/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/14303/##
+price:::$ 92.990##$ 92.990##$ 93.117##$ 93.200##$ 94.080##$ 96.900##$ 100.555##$ 100.990##$ 105.081##$ 111.474##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA2431wm_jpg_100x100_q85.jpg
+name:::Viewsonic   VA2431wm
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30978/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/21034/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7884/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/9051/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28614/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/13104/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8680/##
+price:::$ 110.854##$ 113.871##$ 116.900##$ 117.790##$ 118.755##$ 129.106##$ 130.887##
+description:::Tipo: LCD tradicional++Tamaño: 23.6"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VIWVA2248MLED.PNG_jpeg_100x100_q85.jpg
+name:::Viewsonic   VA2448M-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21123/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30166/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/20828/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/19708/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24748/##
+price:::$ 112.124##$ 115.991##$ 121.990##$ 128.115##$ 132.990##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 10000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA2702W_jpg_100x100_q85.jpg
+name:::Viewsonic   VA2702W
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/8506/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8687/##
+price:::$ 165.253##$ 198.486##
+description:::Tipo: LCD tradicional++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 60000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VA705B_jpg_100x100_q85.jpg
+name:::Viewsonic   VA705B
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/8371/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18926/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/30402/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25912/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25661/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8674/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24735/##
+price:::$ 68.900##$ 72.214##$ 74.205##$ 75.900##$ 80.360##$ 84.561##$ 90.990##
+description:::Tipo: LCD tradicional++Tamaño: 17.0"++Resolución: 1280x1024++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/viewsonic_va926g_1_jpg_100x100_q85.jpg
+name:::Viewsonic   VA926G
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18918/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29358/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31266/##
+price:::$ 93.516##$ 96.020##$ 99.900##
+description:::Tipo: LCD tradicional++Tamaño: 19.0"++Resolución: 1280x1024++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VG2027wm_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2027wm
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/7885/##
+price:::$ 99.900##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 20000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/viewsonic_vg2028wm_1_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2028WM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/20276/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27079/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/21625/##
+price:::$ 106.073##$ 120.990##$ 121.537##
+description:::Tipo: LCD tradicional++Tamaño: 20.0"++Resolución: 1600x900++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VG2228WM_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2228WM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27563/##
+price:::$ 120.590##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VG2236WM-LED_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2236WM-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/28216/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18934/##
+price:::$ 125.900##$ 132.391##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VG2428WM_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2428WM
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18956/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27793/##
+price:::$ 153.331##$ 160.490##
+description:::Tipo: LCD tradicional++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/vg2436wm-led-1_jpg_100x100_q85.jpg
+name:::Viewsonic   VG2436WM-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18947/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24751/##
+price:::$ 145.064##$ 169.990##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/71Vp1KTZ2pL._AA1500__jpg_100x100_q85.jpg
+name:::Viewsonic   VG2732m-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/21626/##
+price:::$ 289.106##
+description:::Tipo: LCD LED++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Sin_t%C3%ADtulo_2_jpg_100x100_q85.jpg
+name:::Viewsonic   VP2365-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/18950/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/19573/##
+price:::$ 181.487##$ 230.790##
+description:::Tipo: LCD LED++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Viewsonic_VP2365wb_full_jpg_100x100_q85.jpg
+name:::Viewsonic   VP2365WB
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/8688/##
+price:::$ 243.132##
+description:::Tipo: LCD tradicional++Tamaño: 23.0"++Resolución: Full HD (1920x1080)++Contraste: 1000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VP2765-LED_jpg_100x100_q85.jpg
+name:::Viewsonic   VP2765-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31315/##
+price:::$ 303.426##
+description:::Tipo: LCD LED++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 20000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1578_1_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2253MH FHD
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/21559/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/19934/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/17356/##
+price:::$ 104.300##$ 105.790##$ 106.390##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 30000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VG2236WM-LED_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2253MH-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/28215/##
+price:::$ 105.990##
+description:::Tipo: LCD LED++Tamaño: 22.0"++Resolución: Full HD (1920x1080)++Contraste: 30000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VX2268wm_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2268WM
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/9416/##
+price:::$ 161.090##
+description:::Tipo: LCD tradicional++Tamaño: 22.0"++Resolución: 1680x1050++Contraste: 20000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VIEWSONIC_VX2453MH_LED_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2453mh-LED
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/17767/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27895/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24750/##
+price:::$ 113.985##$ 135.790##$ 158.990##
+description:::Tipo: LCD LED++Tamaño: 24.0"++Resolución: Full HD (1920x1080)++Contraste: 30000000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ViewSonic-VX2739WM_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2739WM
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/26769/##
+price:::$ 208.900##
+description:::Tipo: LCD tradicional++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 100000:1++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1938_1_jpg_100x100_q85.jpg
+name:::Viewsonic   VX2753MH FHD
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/21127/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/28641/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24753/##
+price:::$ 205.875##$ 220.583##$ 243.990##
+description:::Tipo: LCD LED++Tamaño: 27.0"++Resolución: Full HD (1920x1080)++Contraste: 30000000:1++
+######

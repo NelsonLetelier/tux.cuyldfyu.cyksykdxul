@@ -1,0 +1,1620 @@
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_jpg_100x100_q85.jpg
+name:::Corsair Force Series   40 GB (CSSD-F40GB2)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30369/##
+price:::$ 73.990##
+description:::Tipo: SSD++Capacidad: 40 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cssd-f60gb2-brkt-a_jpg_100x100_q85.jpg
+name:::Corsair Force Series   60 GB (CSSD-F60GB2-BRKT)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30375/##
+price:::$ 87.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsair_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 120 GB (CSSD-F120GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31860/##
+price:::$ 99.990##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd5_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 240 GB (CSSD-F240GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23628/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30361/##
+price:::$ 172.971##$ 249.990##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/11145948-1736_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 480 GB (CSSD-F480GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30359/##
+price:::$ 539.990##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CSSD-F60GB3-BK_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 60 GB (CSSD-F60GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30379/##
+price:::$ 99.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_Force_3_90_GB_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 90 GB (CSSD-F90GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23624/##
+price:::$ 89.177##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd3_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 120 GB (CSSD-F120GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23626/##
+price:::$ 112.058##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CSSD-F480GBGT-BK_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 480 GB (CSSD-F480GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34009/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/29987/##
+price:::$ 449.910##$ 450.990##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd2_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 90 GB (CSSD-F90GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23625/##
+price:::$ 110.474##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/654413_jpg_100x100_q85.jpg
+name:::Corsair Nova Series 2   60 GB (CSSD-V60GB2)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31861/##
+price:::$ 69.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT050M4SSC2BDA_jpg_100x100_q85.jpg
+name:::Crucial   Adrenaline 50 GB (CT050M4SSC2BDA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33487/##
+price:::$ 75.950##
+description:::Tipo: SSD++Capacidad: 50 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT128M4SSD_png_100x100_q85.jpg
+name:::Crucial   M4 128 GB (CT128M4SSD)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30102/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31703/##
+price:::$ 96.637##$ 103.004##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT128M4SSD2CCA_jpg_100x100_q85.jpg
+name:::Crucial   M4 128 GB (CT128M4SSD2CCA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34396/##
+price:::$ 95.333##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT256M4SSD_png_100x100_q85.jpg
+name:::Crucial   M4 256 GB (CT256M4SSD2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34419/##
+price:::$ 160.189##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT064M4SSD2_jpg_100x100_q85.jpg
+name:::Crucial   M4 64 GB (CT064M4SSD2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33713/##
+price:::$ 68.621##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT064M4SSD2CCA_jpg_100x100_q85.jpg
+name:::Crucial   M4 64 GB (CT064M4SSD2CCA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33204/##
+price:::$ 77.815##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgB95243_jpg_100x100_q85.jpg
+name:::Fujitsu     250 GB (MHZ2250BH)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23837/##
+price:::$ 39.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgB95243_jpg_100x100_q85.jpg
+name:::Fujitsu     80 GB (MHV2080BH)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23835/##
+price:::$ 31.900##
+description:::Tipo: HDD++Capacidad: 80 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi_deskstar_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   1000 GB (HDS721010CLA332)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23914/##
+price:::$ 66.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/758517_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   2000 GB (0S02861)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33608/##
+price:::$ 102.547##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi_deskstar_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   500 GB (HDS721050CLA362 )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23910/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30840/##
+price:::$ 48.990##$ 51.990##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HDS721050DLE630_gif_100x100_q85.jpg
+name:::Hitachi Deskstar   500 GB (HDS721050DLE630)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34649/##
+price:::$ 50.590##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi-7k100-pers_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   320 GB (HTS543232A7A384)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34350/##
+price:::$ 38.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi-7k100-pers_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   640 GB (HTS547564A9E384)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34355/##
+price:::$ 59.990##
+description:::Tipo: HDD++Capacidad: 640 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/758513_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   750 GB (0S03064)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33512/##
+price:::$ 91.549##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/571232-b21_png_100x100_q85.jpg
+name:::HP     250 GB (571232-B21)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27920/##
+price:::$ 66.116##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/recover-files-from-ibm-disk-drive_jpg_100x100_q85.jpg
+name:::IBM     500 GB (39M4514)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25993/##
+price:::$ 134.717##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-X25-V-SSD-1_jpg_100x100_q85.jpg
+name:::Intel             40 GB (X25V)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31099/##
+price:::$ 96.742##
+description:::Tipo: SSD++Capacidad: 40 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SNVP325_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 128 GB (SNVP325)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23928/##
+price:::$ 136.935##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/106336-kingston-18_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 180 128 GB (SVP180S2/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32809/##
+price:::$ 147.238##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 1.8"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FNS-KGN-SVP200S3B60G_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 200 120 GB (SVP200S3B/120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28110/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30919/##
+price:::$ 103.864##$ 124.920##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/10193_2_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 200 240 GB (SVP200S3B/240G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27467/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30916/##
+price:::$ 152.880##$ 268.211##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SVP100S2128G_gif_100x100_q85.jpg
+name:::Kingston SSDNow V+100 128 GB (SVP100S2/128G )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28130/##
+price:::$ 108.411##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c26-B00378KHVO-1-l_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V-Series 128 GB (SNV125-S2BN/128GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/23679/##
+price:::$ 199.000##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1308163681_1_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V-Series 128 GB (SV100S2N/128GZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23845/##
+price:::$ 134.900##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SV100S2N256GZ_jpg_100x100_q85.jpg
+name:::Kingston SSDNow v100 256 GB (SV100S2N/256GZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/26526/##
+price:::$ 190.000##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sv200s3d7-3_png_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 128 GB (SV200S3D7/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24820/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34449/##
+price:::$ 107.908##$ 110.095##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6862396-1729_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 128 GB (SV200S3N7A/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24141/##
+price:::$ 108.957##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/105292_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 256 GB (SV200S3D/256G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30921/##
+price:::$ 191.054##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SV200S3N256G_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 256 GB (SV200S3N/256G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26725/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29652/##
+price:::$ 211.499##$ 219.705##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6L300S0_jpg_100x100_q85.jpg
+name:::Maxtor     300 GB (6L300S0)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35572/##
+price:::$ 29.090##
+description:::Tipo: HDD++Capacidad: 300 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Fujitsu_25HDD7200_1_jpg_100x100_q85.jpg
+name:::Multimarca     160 GB (2.5", 5400 rpm, SATA 1 (1.5 Gb/s))
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23596/##
+price:::$ 39.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MKNSSDCR120GB_jpg_100x100_q85.jpg
+name:::Mushkin Chronos   120 GB (MKNSSDCR120GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34431/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34875/##
+price:::$ 93.690##$ 102.400##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MKNSSDCR60GB_gif_100x100_q85.jpg
+name:::Mushkin Chronos   60 GB (MKNSSDCR60GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34430/##
+price:::$ 65.690##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Agility3_2_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   120 GB (AGT3-25SAT3-120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25651/##
+price:::$ 99.900##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AGT3-25SAT3-240G_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   240 GB (AGT3-25SAT3-240G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31735/##
+price:::$ 184.900##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Agility3_2_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   90 GB (AGT3-25SAT3-90G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30692/##
+price:::$ 79.900##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OCT1-25SAT3-128G_jpg_100x100_q85.jpg
+name:::OCZ Octane   128 GB (OCT1-25SAT3-128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33156/##
+price:::$ 104.110##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VTX3-25SAT3-120G_jpg_100x100_q85.jpg
+name:::OCZ Vertex   120 GB (VTX3-25SAT3-120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34957/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34874/##
+price:::$ 94.900##$ 123.000##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 120 GB (OWCSSDEX6G120)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23666/##
+price:::$ 109.000##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 240 GB (OWCSSDEX6G240)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23668/##
+price:::$ 239.000##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 480 GB (OWCSSDEX6G480)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23670/##
+price:::$ 569.000##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OWC-Mercury-Extreme-Pro-6G-SSD-Review_jpg_100x100_q85.jpg
+name:::OWC Mercury Extreme Pro 6G 240 GB (OWCSSDMX6G240T)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23669/##
+price:::$ 279.000##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MZ-7PC064DAM_jpg_100x100_q85.jpg
+name:::Samsung 830 Series   64 GB (MZ-7PC064D/AM)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33491/##
+price:::$ 86.067##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_830_Series_SSD_jpg_100x100_q85.jpg
+name:::Samsung 830 Series   64 GB (MZ-7PC064Z)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32573/##
+price:::$ 60.072##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HM160HC_jpg_100x100_q85.jpg
+name:::Samsung M5  Serie 160 GB (HM160HC )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23921/##
+price:::$ 58.690##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HN-M101MBB_jpg_100x100_q85.jpg
+name:::Samsung Spinpoint M8   1000 GB (HN-M101MBB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33762/##
+price:::$ 95.333##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SDSSDH-120G-G25_jpg_100x100_q85.jpg
+name:::SanDisk     120 GB (SDSSDH-120G-G25)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34956/##
+price:::$ 93.900##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST1000DM003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30299/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25026/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27715/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26865/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26397/##
+price:::$ 60.503##$ 63.696##$ 66.990##$ 68.900##$ 69.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST31000524AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24111/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25614/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23869/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32803/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23828/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32614/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/28460/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29926/##
+price:::$ 61.498##$ 62.990##$ 65.090##$ 65.884##$ 67.900##$ 75.991##$ 78.627##$ 79.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST310005N1A1AS-RK_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST310005N1A1AS-RK)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33176/##
+price:::$ 86.971##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST31000DM003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32612/##
+price:::$ 88.255##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST160LT016_gif_100x100_q85.jpg
+name:::Seagate Barracuda   160 GB (ST160LT016)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28126/##
+price:::$ 58.990##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   2000 GB (ST2000DM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32032/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32130/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35383/##
+price:::$ 77.844##$ 84.990##$ 87.188##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/STBD2000101_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   2000 GB (STBD2000101)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33851/##
+price:::$ 88.086##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top7_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   250 GB (ST3250620A)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32076/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23906/##
+price:::$ 45.500##$ 75.870##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST3000DM001_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   3000 GB (ST3000DM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34512/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30082/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26169/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/27436/##
+price:::$ 118.500##$ 119.990##$ 124.900##$ 209.000##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top7_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   320 GB (ST3320620AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23822/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33013/##
+price:::$ 46.900##$ 96.190##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST3500413AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23941/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/25721/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24180/##
+price:::$ 49.281##$ 51.900##$ 54.875##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST3500841AS_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST3500841AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34958/##
+price:::$ 49.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST500DM002)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23911/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24103/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25243/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25655/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27611/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32802/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23824/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29450/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31745/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23901/##
+price:::$ 48.990##$ 49.338##$ 49.989##$ 51.900##$ 51.990##$ 52.234##$ 53.900##$ 56.745##$ 58.900##$ 59.228##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   750 GB (ST3750525AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34159/##
+price:::$ 57.690##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST380215A_gif_100x100_q85.jpg
+name:::Seagate Barracuda   80 GB (ST380012ACE)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31326/##
+price:::$ 30.550##
+description:::Tipo: HDD++Capacidad: 80 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_3_jpg_100x100_q85.jpg
+name:::Seagate Barracuda ES 500 GB (ST3500630NS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25459/##
+price:::$ 48.580##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda Green 1500 GB (ST1500DL003)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23917/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23604/##
+price:::$ 72.690##$ 76.900##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5900 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda Green 2000 GB (ST2000DL003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24125/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23919/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25242/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23606/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32745/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23832/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23873/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24183/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29927/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24377/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34615/##
+price:::$ 79.777##$ 81.690##$ 81.990##$ 82.900##$ 84.266##$ 89.900##$ 89.990##$ 96.193##$ 96.990##$ 98.399##$ 99.990##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5900 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST320LM001_jpg_100x100_q85.jpg
+name:::Seagate Momentus   320 GB (ST320LM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30009/##
+price:::$ 49.900##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/seagate-5400.4-250gb-st9250827as-pers_jpg_100x100_q85.jpg
+name:::Seagate Momentus   320 GB (ST9320325AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24096/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35520/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23899/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27098/##
+price:::$ 38.546##$ 41.314##$ 47.763##$ 63.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST905003N3A1AS-RK_jpg_100x100_q85.jpg
+name:::Seagate Momentus   500 GB (ST905003N3A1AS-RK)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33195/##
+price:::$ 89.683##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/seagate-5400.4-250gb-st9250827as-pers_jpg_100x100_q85.jpg
+name:::Seagate Momentus   500 GB (ST9500325AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24116/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23597/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29169/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35522/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34353/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27342/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26756/##
+price:::$ 48.525##$ 49.900##$ 51.895##$ 51.961##$ 52.990##$ 63.990##$ 66.133##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/drive_seagate-27945_full_jpg_100x100_q85.jpg
+name:::Seagate Momentus   750 GB (ST9750420AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/26224/##
+price:::$ 109.000##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bare_magic_trans_backgrnd-1_jpg_100x100_q85.jpg
+name:::Seagate Momentus XT 500 GB (ST95005620AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23609/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26229/##
+price:::$ 98.571##$ 99.900##
+description:::Tipo: Híbrido++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_26_jpg_100x100_q85.jpg
+name:::Seagate Momentus XT 750 GB (ST750LX003)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31879/##
+price:::$ 129.000##
+description:::Tipo: Híbrido++Capacidad: 750 GB++RPM: 10000 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK2575GSX_jpg_100x100_q85.jpg
+name:::Toshiba     250 GB (MK2575GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30008/##
+price:::$ 38.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK3259GSXP_jpg_100x100_q85.jpg
+name:::Toshiba     320 GB (MK3259GSXP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34351/##
+price:::$ 39.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     320 GB (MK3276GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23923/##
+price:::$ 41.800##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     500 GB (MK5076GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23926/##
+price:::$ 48.890##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     640 GB (MK6465GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23843/##
+price:::$ 48.900##
+description:::Tipo: HDD++Capacidad: 640 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK7559GSXP_jpg_100x100_q85.jpg
+name:::Toshiba     750 GB (MK7559GSXP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27246/##
+price:::$ 69.246##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TS64GSSD720_jpg_100x100_q85.jpg
+name:::Transcend     64 GB (TS64GSSD720)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33422/##
+price:::$ 82.393##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500BEVE_jpg_100x100_q85.jpg
+name:::Western Digital Caviar   250 GB (WD2500BEVE)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28128/##
+price:::$ 81.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500YS_jpg_100x100_q85.jpg
+name:::Western Digital Caviar   250 GB (WD2500YS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35574/##
+price:::$ 36.380##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top2_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 1000 GB (WD1002FAEX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24113/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32746/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23615/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/31773/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23902/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31585/##
+price:::$ 76.406##$ 79.899##$ 81.611##$ 94.500##$ 105.813##$ 106.600##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAZ0010HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 1000 GB (WDBAAZ0010HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33805/##
+price:::$ 92.925##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top4_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 2000 GB (WD2002FAEX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27428/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23619/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34473/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30917/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31737/##
+price:::$ 134.990##$ 138.476##$ 143.402##$ 152.107##$ 159.900##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd-i-wd-wd5002aalx_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 500 GB (WD5002AALX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30391/##
+price:::$ 63.231##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10EALX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 1000 GB (WD10EALX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27247/##
+price:::$ 64.998##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Q107807-main1_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 160 GB (WD1600AAJS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23818/##
+price:::$ 42.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500AAKX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 250 GB (WD2500AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35576/##
+price:::$ 44.130##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd320gb_wd_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WD3200AAJS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23821/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23900/##
+price:::$ 44.900##$ 56.803##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd320gb_wd_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WD3200AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24102/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34300/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29924/##
+price:::$ 43.413##$ 46.956##$ 52.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAX3200ENC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WDBAAX3200ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33678/##
+price:::$ 69.573##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western_Digital_Caviar_Blue_500_GB_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WD5000AAKS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23823/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27491/##
+price:::$ 49.900##$ 55.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western_Digital_Caviar_Blue_500_GB_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WD5000AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35577/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24115/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25239/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29618/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23891/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25878/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24559/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32801/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23898/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24925/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31746/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25520/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23601/##
+price:::$ 46.550##$ 46.655##$ 46.989##$ 48.015##$ 48.580##$ 48.990##$ 49.467##$ 49.959##$ 51.900##$ 57.990##$ 58.900##$ 59.010##$ 59.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAX5000ENC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WDBAAX5000ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33229/##
+price:::$ 72.530##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EARS)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25244/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24189/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/30394/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25865/##
+price:::$ 63.990##$ 69.900##$ 89.000##$ 99.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EARX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24108/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23827/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32804/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34437/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30841/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24435/##
+price:::$ 59.167##$ 63.900##$ 68.796##$ 71.900##$ 71.990##$ 72.011##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10EZRX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EZRX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27463/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34832/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27486/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29925/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30918/##
+price:::$ 56.998##$ 66.990##$ 67.385##$ 75.990##$ 77.156##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0010HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WDBAAY0010HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33571/##
+price:::$ 84.226##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/platz-3-1-5-tb-western-digital-caviar-green-wd15ears_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1500 GB (WD15EARS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23918/##
+price:::$ 72.690##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0015HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1500 GB (WDBAAY0015HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33514/##
+price:::$ 88.115##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top3_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WD20EARX)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29148/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25246/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32744/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23833/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25114/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/25723/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30842/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25500/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25864/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29928/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/30395/##
+price:::$ 78.085##$ 78.990##$ 81.718##$ 82.900##$ 83.578##$ 89.900##$ 89.990##$ 98.466##$ 99.990##$ 100.990##$ 139.000##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top3_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WD20EURS)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30239/##
+price:::$ 79.990##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0020HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WDBAAY0020HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33737/##
+price:::$ 92.925##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/photo_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 3000 GB (WD30EZRS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25913/##
+price:::$ 111.219##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/photo_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 3000 GB (WD30EZRX)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25694/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24155/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24777/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30083/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25863/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30922/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25658/##
+price:::$ 115.991##$ 121.878##$ 125.500##$ 126.890##$ 129.990##$ 147.698##$ 149.900##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD5000AADS_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 500 GB (WD5000AADS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33330/##
+price:::$ 78.979##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/wedicagr50in___0-41684_jpeg_100x100_q85.jpg
+name:::Western Digital Caviar Green 500 GB (WDBAAY5000ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33588/##
+price:::$ 70.501##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1003FBYX_jpg_100x100_q85.jpg
+name:::Western Digital RE4   1000 GB (WD1003FBYX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27270/##
+price:::$ 85.076##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2003FYYS_jpg_100x100_q85.jpg
+name:::Western Digital RE4   2000 GB (WD2003FYYS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30920/##
+price:::$ 182.238##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western-Digital-WD7500BPKT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 1000 GB (WD10TPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34356/##
+price:::$ 74.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD5000BEKT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 320 GB (WD3200BEKT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34352/##
+price:::$ 42.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABD3200ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 320 GB (WDBABD3200ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33318/##
+price:::$ 66.836##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10JPVT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 1000 GB (WD10JPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31877/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31734/##
+price:::$ 89.000##$ 115.900##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABC0010BNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 1000 GB (WDBABC0010BNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33209/##
+price:::$ 90.645##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1600BEVT-NDW-NP_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 160 GB (WD1600BEVS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28157/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23836/##
+price:::$ 33.906##$ 35.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABB2500ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 250 GB (WDBABB2500ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33636/##
+price:::$ 54.926##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/wd_scorpio_blue_320gb_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 320 GB (WD3200BPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24117/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35519/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29625/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24383/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23840/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23897/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26502/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26053/##
+price:::$ 35.748##$ 38.311##$ 38.790##$ 41.190##$ 41.900##$ 42.900##$ 49.232##$ 54.848##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABC3200ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 320 GB (WDBABC3200ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33564/##
+price:::$ 57.638##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/scorpio_blue_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 500 GB (WD5000BEVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34354/##
+price:::$ 55.990##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/scorpio_blue_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 500 GB (WD5000BPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24093/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35521/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29224/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23842/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25497/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27343/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31878/##
+price:::$ 46.904##$ 50.232##$ 50.430##$ 54.900##$ 63.195##$ 63.990##$ 69.000##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1000DHTZ_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   1000 GB (WD1000DHTZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35384/##
+price:::$ 199.902##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD3000HLHX_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   300 GB (WD3000HLHX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30300/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31235/##
+price:::$ 102.109##$ 133.990##
+description:::Tipo: HDD++Capacidad: 300 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD6000HLHX_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   600 GB (WD6000HLHX )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35603/##
+price:::$ 172.971##
+description:::Tipo: HDD++Capacidad: 600 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1_jpg_100x100_q85.jpg
+name:::Corsair Force Series   40 GB (CSSD-F40GB2)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30369/##
+price:::$ 73.990##
+description:::Tipo: SSD++Capacidad: 40 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/cssd-f60gb2-brkt-a_jpg_100x100_q85.jpg
+name:::Corsair Force Series   60 GB (CSSD-F60GB2-BRKT)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30375/##
+price:::$ 87.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/corsair_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 120 GB (CSSD-F120GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31860/##
+price:::$ 99.990##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd5_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 240 GB (CSSD-F240GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23628/##http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30361/##
+price:::$ 172.971##$ 249.990##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/11145948-1736_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 480 GB (CSSD-F480GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30359/##
+price:::$ 539.990##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CSSD-F60GB3-BK_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 60 GB (CSSD-F60GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/30379/##
+price:::$ 99.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Corsair_Force_3_90_GB_jpg_100x100_q85.jpg
+name:::Corsair Force Series 3 90 GB (CSSD-F90GB3-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23624/##
+price:::$ 89.177##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd3_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 120 GB (CSSD-F120GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23626/##
+price:::$ 112.058##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CSSD-F480GBGT-BK_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 480 GB (CSSD-F480GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34009/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/29987/##
+price:::$ 449.910##$ 450.990##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ssd2_jpg_100x100_q85.jpg
+name:::Corsair Force Series GT 90 GB (CSSD-F90GBGT-BK)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23625/##
+price:::$ 110.474##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/654413_jpg_100x100_q85.jpg
+name:::Corsair Nova Series 2   60 GB (CSSD-V60GB2)
+store:::http://solotodo.net/media/pics/resize/store_logos/dristore_jpg_140x90_q85.jpg++/store_product/31861/##
+price:::$ 69.990##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT050M4SSC2BDA_jpg_100x100_q85.jpg
+name:::Crucial   Adrenaline 50 GB (CT050M4SSC2BDA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33487/##
+price:::$ 75.950##
+description:::Tipo: SSD++Capacidad: 50 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT128M4SSD_png_100x100_q85.jpg
+name:::Crucial   M4 128 GB (CT128M4SSD)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/30102/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31703/##
+price:::$ 96.637##$ 103.004##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT128M4SSD2CCA_jpg_100x100_q85.jpg
+name:::Crucial   M4 128 GB (CT128M4SSD2CCA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34396/##
+price:::$ 95.333##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT256M4SSD_png_100x100_q85.jpg
+name:::Crucial   M4 256 GB (CT256M4SSD2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34419/##
+price:::$ 160.189##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT064M4SSD2_jpg_100x100_q85.jpg
+name:::Crucial   M4 64 GB (CT064M4SSD2)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33713/##
+price:::$ 68.621##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/CT064M4SSD2CCA_jpg_100x100_q85.jpg
+name:::Crucial   M4 64 GB (CT064M4SSD2CCA)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33204/##
+price:::$ 77.815##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgB95243_jpg_100x100_q85.jpg
+name:::Fujitsu     250 GB (MHZ2250BH)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23837/##
+price:::$ 39.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgB95243_jpg_100x100_q85.jpg
+name:::Fujitsu     80 GB (MHV2080BH)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23835/##
+price:::$ 31.900##
+description:::Tipo: HDD++Capacidad: 80 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi_deskstar_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   1000 GB (HDS721010CLA332)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23914/##
+price:::$ 66.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/758517_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   2000 GB (0S02861)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33608/##
+price:::$ 102.547##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi_deskstar_jpg_100x100_q85.jpg
+name:::Hitachi Deskstar   500 GB (HDS721050CLA362 )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23910/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30840/##
+price:::$ 48.990##$ 51.990##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HDS721050DLE630_gif_100x100_q85.jpg
+name:::Hitachi Deskstar   500 GB (HDS721050DLE630)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34649/##
+price:::$ 50.590##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi-7k100-pers_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   320 GB (HTS543232A7A384)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34350/##
+price:::$ 38.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hitachi-7k100-pers_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   640 GB (HTS547564A9E384)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34355/##
+price:::$ 59.990##
+description:::Tipo: HDD++Capacidad: 640 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/758513_jpg_100x100_q85.jpg
+name:::Hitachi Travelstar   750 GB (0S03064)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33512/##
+price:::$ 91.549##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/571232-b21_png_100x100_q85.jpg
+name:::HP     250 GB (571232-B21)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27920/##
+price:::$ 66.116##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/recover-files-from-ibm-disk-drive_jpg_100x100_q85.jpg
+name:::IBM     500 GB (39M4514)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/25993/##
+price:::$ 134.717##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Intel-X25-V-SSD-1_jpg_100x100_q85.jpg
+name:::Intel             40 GB (X25V)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/31099/##
+price:::$ 96.742##
+description:::Tipo: SSD++Capacidad: 40 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SNVP325_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 128 GB (SNVP325)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23928/##
+price:::$ 136.935##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/106336-kingston-18_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 180 128 GB (SVP180S2/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32809/##
+price:::$ 147.238##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 1.8"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/FNS-KGN-SVP200S3B60G_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 200 120 GB (SVP200S3B/120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28110/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30919/##
+price:::$ 103.864##$ 124.920##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/10193_2_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V+ 200 240 GB (SVP200S3B/240G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27467/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30916/##
+price:::$ 152.880##$ 268.211##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SVP100S2128G_gif_100x100_q85.jpg
+name:::Kingston SSDNow V+100 128 GB (SVP100S2/128G )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28130/##
+price:::$ 108.411##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c26-B00378KHVO-1-l_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V-Series 128 GB (SNV125-S2BN/128GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Enotebook_png_140x90_q85.jpg++/store_product/23679/##
+price:::$ 199.000##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/1308163681_1_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V-Series 128 GB (SV100S2N/128GZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23845/##
+price:::$ 134.900##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SV100S2N256GZ_jpg_100x100_q85.jpg
+name:::Kingston SSDNow v100 256 GB (SV100S2N/256GZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/26526/##
+price:::$ 190.000##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/sv200s3d7-3_png_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 128 GB (SV200S3D7/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24820/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/34449/##
+price:::$ 107.908##$ 110.095##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6862396-1729_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 128 GB (SV200S3N7A/128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24141/##
+price:::$ 108.957##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/105292_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 256 GB (SV200S3D/256G)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30921/##
+price:::$ 191.054##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SV200S3N256G_jpg_100x100_q85.jpg
+name:::Kingston SSDNow V200 Series 256 GB (SV200S3N/256G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/26725/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29652/##
+price:::$ 211.499##$ 219.705##
+description:::Tipo: SSD++Capacidad: 256 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/6L300S0_jpg_100x100_q85.jpg
+name:::Maxtor     300 GB (6L300S0)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35572/##
+price:::$ 29.090##
+description:::Tipo: HDD++Capacidad: 300 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Fujitsu_25HDD7200_1_jpg_100x100_q85.jpg
+name:::Multimarca     160 GB (2.5", 5400 rpm, SATA 1 (1.5 Gb/s))
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23596/##
+price:::$ 39.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MKNSSDCR120GB_jpg_100x100_q85.jpg
+name:::Mushkin Chronos   120 GB (MKNSSDCR120GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34431/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34875/##
+price:::$ 93.690##$ 102.400##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MKNSSDCR60GB_gif_100x100_q85.jpg
+name:::Mushkin Chronos   60 GB (MKNSSDCR60GB)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34430/##
+price:::$ 65.690##
+description:::Tipo: SSD++Capacidad: 60 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Agility3_2_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   120 GB (AGT3-25SAT3-120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25651/##
+price:::$ 99.900##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/AGT3-25SAT3-240G_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   240 GB (AGT3-25SAT3-240G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31735/##
+price:::$ 184.900##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Agility3_2_jpg_100x100_q85.jpg
+name:::OCZ Agility 3   90 GB (AGT3-25SAT3-90G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30692/##
+price:::$ 79.900##
+description:::Tipo: SSD++Capacidad: 90 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OCT1-25SAT3-128G_jpg_100x100_q85.jpg
+name:::OCZ Octane   128 GB (OCT1-25SAT3-128G)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33156/##
+price:::$ 104.110##
+description:::Tipo: SSD++Capacidad: 128 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/VTX3-25SAT3-120G_jpg_100x100_q85.jpg
+name:::OCZ Vertex   120 GB (VTX3-25SAT3-120G)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34957/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34874/##
+price:::$ 94.900##$ 123.000##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 120 GB (OWCSSDEX6G120)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23666/##
+price:::$ 109.000##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 240 GB (OWCSSDEX6G240)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23668/##
+price:::$ 239.000##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/113241_jpg_100x100_q85.jpg
+name:::OWC Mercury Electra 6G 480 GB (OWCSSDEX6G480)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23670/##
+price:::$ 569.000##
+description:::Tipo: SSD++Capacidad: 480 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/OWC-Mercury-Extreme-Pro-6G-SSD-Review_jpg_100x100_q85.jpg
+name:::OWC Mercury Extreme Pro 6G 240 GB (OWCSSDMX6G240T)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/23669/##
+price:::$ 279.000##
+description:::Tipo: SSD++Capacidad: 240 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MZ-7PC064DAM_jpg_100x100_q85.jpg
+name:::Samsung 830 Series   64 GB (MZ-7PC064D/AM)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33491/##
+price:::$ 86.067##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Samsung_830_Series_SSD_jpg_100x100_q85.jpg
+name:::Samsung 830 Series   64 GB (MZ-7PC064Z)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/32573/##
+price:::$ 60.072##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HM160HC_jpg_100x100_q85.jpg
+name:::Samsung M5  Serie 160 GB (HM160HC )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23921/##
+price:::$ 58.690##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/HN-M101MBB_jpg_100x100_q85.jpg
+name:::Samsung Spinpoint M8   1000 GB (HN-M101MBB)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33762/##
+price:::$ 95.333##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/SDSSDH-120G-G25_jpg_100x100_q85.jpg
+name:::SanDisk     120 GB (SDSSDH-120G-G25)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34956/##
+price:::$ 93.900##
+description:::Tipo: SSD++Capacidad: 120 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST1000DM003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30299/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25026/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/27715/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26865/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/26397/##
+price:::$ 60.503##$ 63.696##$ 66.990##$ 68.900##$ 69.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST31000524AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24111/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25614/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23869/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32803/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23828/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32614/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/28460/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29926/##
+price:::$ 61.498##$ 62.990##$ 65.090##$ 65.884##$ 67.900##$ 75.991##$ 78.627##$ 79.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST310005N1A1AS-RK_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST310005N1A1AS-RK)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33176/##
+price:::$ 86.971##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   1000 GB (ST31000DM003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/32612/##
+price:::$ 88.255##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST160LT016_gif_100x100_q85.jpg
+name:::Seagate Barracuda   160 GB (ST160LT016)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28126/##
+price:::$ 58.990##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   2000 GB (ST2000DM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/32032/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/32130/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35383/##
+price:::$ 77.844##$ 84.990##$ 87.188##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/STBD2000101_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   2000 GB (STBD2000101)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33851/##
+price:::$ 88.086##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top7_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   250 GB (ST3250620A)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/32076/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23906/##
+price:::$ 45.500##$ 75.870##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST3000DM001_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   3000 GB (ST3000DM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/34512/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30082/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26169/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/27436/##
+price:::$ 118.500##$ 119.990##$ 124.900##$ 209.000##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top7_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   320 GB (ST3320620AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23822/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/33013/##
+price:::$ 46.900##$ 96.190##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST3500413AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23941/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/25721/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24180/##
+price:::$ 49.281##$ 51.900##$ 54.875##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST3500841AS_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST3500841AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34958/##
+price:::$ 49.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   500 GB (ST500DM002)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23911/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24103/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25243/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25655/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/27611/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32802/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23824/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29450/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31745/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23901/##
+price:::$ 48.990##$ 49.338##$ 49.989##$ 51.900##$ 51.990##$ 52.234##$ 53.900##$ 56.745##$ 58.900##$ 59.228##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/c31a11e2d9d806d15bd2f4b9447df35b_13113987501296944409_jpg_100x100_q85.jpg
+name:::Seagate Barracuda   750 GB (ST3750525AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34159/##
+price:::$ 57.690##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST380215A_gif_100x100_q85.jpg
+name:::Seagate Barracuda   80 GB (ST380012ACE)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/31326/##
+price:::$ 30.550##
+description:::Tipo: HDD++Capacidad: 80 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/phpThumb_generated_thumbnailjpg_3_jpg_100x100_q85.jpg
+name:::Seagate Barracuda ES 500 GB (ST3500630NS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25459/##
+price:::$ 48.580##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda Green 1500 GB (ST1500DL003)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23917/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23604/##
+price:::$ 72.690##$ 76.900##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5900 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/small_bg_angle1_1_jpg_100x100_q85.jpg
+name:::Seagate Barracuda Green 2000 GB (ST2000DL003)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24125/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23919/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25242/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23606/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32745/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23832/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/23873/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_1_png_140x90_q85.jpg++/store_product/24183/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29927/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24377/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/34615/##
+price:::$ 79.777##$ 81.690##$ 81.990##$ 82.900##$ 84.266##$ 89.900##$ 89.990##$ 96.193##$ 96.990##$ 98.399##$ 99.990##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5900 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST320LM001_jpg_100x100_q85.jpg
+name:::Seagate Momentus   320 GB (ST320LM001)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30009/##
+price:::$ 49.900##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/seagate-5400.4-250gb-st9250827as-pers_jpg_100x100_q85.jpg
+name:::Seagate Momentus   320 GB (ST9320325AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24096/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35520/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23899/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27098/##
+price:::$ 38.546##$ 41.314##$ 47.763##$ 63.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/ST905003N3A1AS-RK_jpg_100x100_q85.jpg
+name:::Seagate Momentus   500 GB (ST905003N3A1AS-RK)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33195/##
+price:::$ 89.683##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/seagate-5400.4-250gb-st9250827as-pers_jpg_100x100_q85.jpg
+name:::Seagate Momentus   500 GB (ST9500325AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24116/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23597/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29169/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35522/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34353/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27342/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26756/##
+price:::$ 48.525##$ 49.900##$ 51.895##$ 51.961##$ 52.990##$ 63.990##$ 66.133##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/drive_seagate-27945_full_jpg_100x100_q85.jpg
+name:::Seagate Momentus   750 GB (ST9750420AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/26224/##
+price:::$ 109.000##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/bare_magic_trans_backgrnd-1_jpg_100x100_q85.jpg
+name:::Seagate Momentus XT 500 GB (ST95005620AS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23609/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/26229/##
+price:::$ 98.571##$ 99.900##
+description:::Tipo: Híbrido++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/imgProducto.php_26_jpg_100x100_q85.jpg
+name:::Seagate Momentus XT 750 GB (ST750LX003)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31879/##
+price:::$ 129.000##
+description:::Tipo: Híbrido++Capacidad: 750 GB++RPM: 10000 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK2575GSX_jpg_100x100_q85.jpg
+name:::Toshiba     250 GB (MK2575GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/30008/##
+price:::$ 38.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK3259GSXP_jpg_100x100_q85.jpg
+name:::Toshiba     320 GB (MK3259GSXP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34351/##
+price:::$ 39.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     320 GB (MK3276GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23923/##
+price:::$ 41.800##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     500 GB (MK5076GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23926/##
+price:::$ 48.890##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/image_preview_jpg_100x100_q85.jpg
+name:::Toshiba     640 GB (MK6465GSX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23843/##
+price:::$ 48.900##
+description:::Tipo: HDD++Capacidad: 640 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/MK7559GSXP_jpg_100x100_q85.jpg
+name:::Toshiba     750 GB (MK7559GSXP)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27246/##
+price:::$ 69.246##
+description:::Tipo: HDD++Capacidad: 750 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/TS64GSSD720_jpg_100x100_q85.jpg
+name:::Transcend     64 GB (TS64GSSD720)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33422/##
+price:::$ 82.393##
+description:::Tipo: SSD++Capacidad: 64 GB++RPM: N/A++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500BEVE_jpg_100x100_q85.jpg
+name:::Western Digital Caviar   250 GB (WD2500BEVE)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/28128/##
+price:::$ 81.900##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500YS_jpg_100x100_q85.jpg
+name:::Western Digital Caviar   250 GB (WD2500YS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35574/##
+price:::$ 36.380##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top2_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 1000 GB (WD1002FAEX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24113/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32746/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23615/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/31773/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23902/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31585/##
+price:::$ 76.406##$ 79.899##$ 81.611##$ 94.500##$ 105.813##$ 106.600##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAZ0010HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 1000 GB (WDBAAZ0010HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33805/##
+price:::$ 92.925##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top4_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 2000 GB (WD2002FAEX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/27428/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/23619/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/34473/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30917/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31737/##
+price:::$ 134.990##$ 138.476##$ 143.402##$ 152.107##$ 159.900##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd-i-wd-wd5002aalx_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Black 500 GB (WD5002AALX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/30391/##
+price:::$ 63.231##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10EALX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 1000 GB (WD10EALX)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/27247/##
+price:::$ 64.998##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Q107807-main1_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 160 GB (WD1600AAJS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23818/##
+price:::$ 42.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2500AAKX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 250 GB (WD2500AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35576/##
+price:::$ 44.130##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd320gb_wd_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WD3200AAJS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23821/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/23900/##
+price:::$ 44.900##$ 56.803##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/hd320gb_wd_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WD3200AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24102/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/34300/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29924/##
+price:::$ 43.413##$ 46.956##$ 52.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAX3200ENC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 320 GB (WDBAAX3200ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33678/##
+price:::$ 69.573##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western_Digital_Caviar_Blue_500_GB_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WD5000AAKS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23823/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/27491/##
+price:::$ 49.900##$ 55.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western_Digital_Caviar_Blue_500_GB_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WD5000AAKX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot3_png_140x90_q85.jpg++/store_product/35577/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24115/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25239/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29618/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/23891/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/25878/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24559/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32801/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23898/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/24925/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_4_png_140x90_q85.jpg++/store_product/31746/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25520/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/23601/##
+price:::$ 46.550##$ 46.655##$ 46.989##$ 48.015##$ 48.580##$ 48.990##$ 49.467##$ 49.959##$ 51.900##$ 57.990##$ 58.900##$ 59.010##$ 59.900##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAX5000ENC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Blue 500 GB (WDBAAX5000ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33229/##
+price:::$ 72.530##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EARS)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25244/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24189/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/30394/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25865/##
+price:::$ 63.990##$ 69.900##$ 89.000##$ 99.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EARX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24108/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23827/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32804/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/34437/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30841/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/24435/##
+price:::$ 59.167##$ 63.900##$ 68.796##$ 71.900##$ 71.990##$ 72.011##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10EZRX_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WD10EZRX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27463/##http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/34832/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/27486/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29925/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30918/##
+price:::$ 56.998##$ 66.990##$ 67.385##$ 75.990##$ 77.156##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0010HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1000 GB (WDBAAY0010HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33571/##
+price:::$ 84.226##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/platz-3-1-5-tb-western-digital-caviar-green-wd15ears_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1500 GB (WD15EARS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_WEI_png_140x90_q85.jpg++/store_product/23918/##
+price:::$ 72.690##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0015HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 1500 GB (WDBAAY0015HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33514/##
+price:::$ 88.115##
+description:::Tipo: HDD++Capacidad: 1500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top3_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WD20EARX)
+store:::http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29148/##http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25246/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/32744/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23833/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/25114/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/25723/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30842/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25500/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25864/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/29928/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/30395/##
+price:::$ 78.085##$ 78.990##$ 81.718##$ 82.900##$ 83.578##$ 89.900##$ 89.990##$ 98.466##$ 99.990##$ 100.990##$ 139.000##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/top3_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WD20EURS)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/30239/##
+price:::$ 79.990##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBAAY0020HNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 2000 GB (WDBAAY0020HNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33737/##
+price:::$ 92.925##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/photo_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 3000 GB (WD30EZRS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/25913/##
+price:::$ 111.219##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/photo_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 3000 GB (WD30EZRX)
+store:::http://solotodo.net/media/pics/resize/store_logos/PCOfertas_jpg_140x90_q85.jpg++/store_product/25694/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24155/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/24777/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/30083/##http://solotodo.net/media/pics/resize/store_logos/Clie_Logo_png_140x90_q85.jpg++/store_product/25863/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30922/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/25658/##
+price:::$ 115.991##$ 121.878##$ 125.500##$ 126.890##$ 129.990##$ 147.698##$ 149.900##
+description:::Tipo: HDD++Capacidad: 3000 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD5000AADS_jpg_100x100_q85.jpg
+name:::Western Digital Caviar Green 500 GB (WD5000AADS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33330/##
+price:::$ 78.979##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/wedicagr50in___0-41684_jpeg_100x100_q85.jpg
+name:::Western Digital Caviar Green 500 GB (WDBAAY5000ENC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33588/##
+price:::$ 70.501##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1003FBYX_jpg_100x100_q85.jpg
+name:::Western Digital RE4   1000 GB (WD1003FBYX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/27270/##
+price:::$ 85.076##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD2003FYYS_jpg_100x100_q85.jpg
+name:::Western Digital RE4   2000 GB (WD2003FYYS)
+store:::http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/30920/##
+price:::$ 182.238##
+description:::Tipo: HDD++Capacidad: 2000 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/Western-Digital-WD7500BPKT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 1000 GB (WD10TPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34356/##
+price:::$ 74.990##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD5000BEKT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 320 GB (WD3200BEKT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34352/##
+price:::$ 42.990##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABD3200ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Black 320 GB (WDBABD3200ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33318/##
+price:::$ 66.836##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 7200 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD10JPVT_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 1000 GB (WD10JPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31877/##http://solotodo.net/media/pics/resize/store_logos/logo_bip_gif_140x90_q85.jpg++/store_product/31734/##
+price:::$ 89.000##$ 115.900##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABC0010BNC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 1000 GB (WDBABC0010BNC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33209/##
+price:::$ 90.645##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1600BEVT-NDW-NP_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 160 GB (WD1600BEVS)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/28157/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23836/##
+price:::$ 33.906##$ 35.900##
+description:::Tipo: HDD++Capacidad: 160 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABB2500ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 250 GB (WDBABB2500ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33636/##
+price:::$ 54.926##
+description:::Tipo: HDD++Capacidad: 250 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/wd_scorpio_blue_320gb_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 320 GB (WD3200BPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24117/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35519/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29625/##http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/24383/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23840/##http://solotodo.net/media/pics/resize/store_logos/screenshot1_3_png_140x90_q85.jpg++/store_product/23897/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/26502/##http://solotodo.net/media/pics/resize/store_logos/Sym_logo_png_140x90_q85.jpg++/store_product/26053/##
+price:::$ 35.748##$ 38.311##$ 38.790##$ 41.190##$ 41.900##$ 42.900##$ 49.232##$ 54.848##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WDBABC3200ANC-NRSN_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 320 GB (WDBABC3200ANC-NRSN)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/33564/##
+price:::$ 57.638##
+description:::Tipo: HDD++Capacidad: 320 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/scorpio_blue_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 500 GB (WD5000BEVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/34354/##
+price:::$ 55.990##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/scorpio_blue_jpg_100x100_q85.jpg
+name:::Western Digital Scorpio Blue 500 GB (WD5000BPVT)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/24093/##http://solotodo.net/media/pics/resize/store_logos/logo_magens_jpg_140x90_q85.jpg++/store_product/35521/##http://solotodo.net/media/pics/resize/store_logos/onak_jpg_140x90_q85.jpg++/store_product/29224/##http://solotodo.net/media/pics/resize/store_logos/screenshot2_2_png_140x90_q85.jpg++/store_product/23842/##http://solotodo.net/media/pics/resize/store_logos/Webco_png_140x90_q85.jpg++/store_product/25497/##http://solotodo.net/media/pics/resize/store_logos/NotebookCenter_png_140x90_q85.jpg++/store_product/27343/##http://solotodo.net/media/pics/resize/store_logos/GlobalMac_Logo_png_140x90_q85.jpg++/store_product/31878/##
+price:::$ 46.904##$ 50.232##$ 50.430##$ 54.900##$ 63.195##$ 63.990##$ 69.000##
+description:::Tipo: HDD++Capacidad: 500 GB++RPM: 5400 rpm++Tamaño: 2.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD1000DHTZ_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   1000 GB (WD1000DHTZ)
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35384/##
+price:::$ 199.902##
+description:::Tipo: HDD++Capacidad: 1000 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD3000HLHX_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   300 GB (WD3000HLHX)
+store:::http://solotodo.net/media/pics/resize/store_logos/screenshot2_png_140x90_q85.jpg++/store_product/30300/##http://solotodo.net/media/pics/resize/store_logos/Logo_PCFactory_png_140x90_q85.jpg++/store_product/31235/##
+price:::$ 102.109##$ 133.990##
+description:::Tipo: HDD++Capacidad: 300 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
+imageUrl:::http://solotodo.net/media/pics/resize/notebook_pics/WD6000HLHX_jpg_100x100_q85.jpg
+name:::Western Digital VelociRaptor   600 GB (WD6000HLHX )
+store:::http://solotodo.net/media/pics/resize/store_logos/Logo_Thermaltake_png_140x90_q85.jpg++/store_product/35603/##
+price:::$ 172.971##
+description:::Tipo: HDD++Capacidad: 600 GB++RPM: 10000 rpm++Tamaño: 3.5"++
+######
